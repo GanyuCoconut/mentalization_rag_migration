@@ -1,0 +1,614 @@
+{
+  "doc-25e2ba2136d79300ee648940-chunk-000": {
+    "tokens": 118,
+    "content": "主题ID：GUIDANCE-TOPIC-TELEOLOGICAL-MODE\n问题框架：当青少年只将具体行动或外在结果视为真实时，难以探索行动背后的心理状态。\n\n适用线索：将情绪原因归因于具体、可观察的事件；\n\n只认可具体行动作为关心的证据；\n\n情绪难以识别；\n\n感觉与想法混淆；\n\n不假思索地行动\n目标：帮助青少年将行为与内在心理状态联系起来，促进心智化。",
+    "chunk_order_index": 0,
+    "split_type": "hard_fallback",
+    "split_part": 1,
+    "split_total": 3,
+    "full_doc_id": "doc-25e2ba2136d79300ee648940",
+    "file_path": "GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md",
+    "llm_cache_list": [
+      "default:extract:da2b5c54fb651f7ee110174d05e4034a",
+      "default:extract:4ee3e14f10a203877531907e8f0565f6"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707196,
+    "_id": "doc-25e2ba2136d79300ee648940-chunk-000"
+  },
+  "doc-25e2ba2136d79300ee648940-chunk-001": {
+    "tokens": 127,
+    "content": "心智化立场：好奇且不评判；\n\n温和挑战\n技术：通过提问温和挑战目的论要求，探索行动背后的感受和想法。\n\n步骤：识别青少年处于目的论模式的信号（如只关注具体行动、情绪难以识别）。\n\n；\n\n用好奇的语气提问，引导青少年思考行动背后的心理状态。\n\n；\n\n帮助青少年区分感觉与想法，反思人际体验。\n\n回复示例：你刚才说因为朋友没回消息，所以你觉得他不在乎你。",
+    "chunk_order_index": 1,
+    "split_type": "hard_fallback",
+    "split_part": 2,
+    "split_total": 3,
+    "full_doc_id": "doc-25e2ba2136d79300ee648940",
+    "file_path": "GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md",
+    "llm_cache_list": [
+      "default:extract:18afa62bf3a53077230f2a4cb90b6731",
+      "default:extract:0928204cec8a4d6143ee0dec8fd3b3e4"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707172,
+    "_id": "doc-25e2ba2136d79300ee648940-chunk-001"
+  },
+  "doc-25e2ba2136d79300ee648940-chunk-002": {
+    "tokens": 89,
+    "content": "除了这个行动，还有没有其他可能的原因？\n\n；\n\n你说你想延长治疗时间，然后呢？\n\n如果延长了，会发生什么？\n\n避免事项：在青少年处于目的论模式时进行类比联系\n关键词：目的论模式；\n\n青少年；\n\n心智化；\n\n行动与心理状态\n范围：仅用于低风险、非诊断性的直接心理支持；\n\n危机场景由固定安全协议处理。",
+    "chunk_order_index": 2,
+    "split_type": "hard_fallback",
+    "split_part": 3,
+    "split_total": 3,
+    "full_doc_id": "doc-25e2ba2136d79300ee648940",
+    "file_path": "GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md",
+    "llm_cache_list": [
+      "default:extract:dbf9f983a12b64dbb257c0ac1cf5d0e9",
+      "default:extract:f0e0625f6e97727e99081a3289a80ba6"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707173,
+    "_id": "doc-25e2ba2136d79300ee648940-chunk-002"
+  },
+  "doc-c67b74097efa61deeed03804-chunk-000": {
+    "tokens": 126,
+    "content": "主题ID：GUIDANCE-TOPIC-ALIEN-SELF-SHAME\n问题框架：青少年可能经历强烈的羞耻感和自我憎恨，这些感受源于社会理解变化和自我意识增强，并可能被内化为异己自我——一种持续的自我批评、自我厌恶和预期失败的内在体验。\n\n适用线索：羞耻感；\n\n自我憎恨；\n\n自我厌恶；\n\n持续的自我批评；\n\n缺乏内在认可；\n\n预期失败；",
+    "chunk_order_index": 0,
+    "split_type": "hard_fallback",
+    "split_part": 1,
+    "split_total": 5,
+    "full_doc_id": "doc-c67b74097efa61deeed03804",
+    "file_path": "GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md",
+    "llm_cache_list": [
+      "default:extract:d40bda64b3eae0ec052069b4ffef1146",
+      "default:extract:aa04323e44e4d076c9f770d68439b856"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707175,
+    "_id": "doc-c67b74097efa61deeed03804-chunk-000"
+  },
+  "doc-c67b74097efa61deeed03804-chunk-001": {
+    "tokens": 116,
+    "content": "绝望；\n\n感到自己是失败者\n目标：以非指责的好奇心探索羞耻和自我攻击的来源，帮助青少年心智化异己自我，减少羞耻驱动的自我攻击。\n\n心智化立场：保持非指责的好奇；\n\n探索关系来源；\n\n外化压力\n技术：心智化异己自我：帮助青少年识别和整合异己自我部分，理解其形成于照顾者的错误归因，并外化其影响。",
+    "chunk_order_index": 1,
+    "split_type": "hard_fallback",
+    "split_part": 2,
+    "split_total": 5,
+    "full_doc_id": "doc-c67b74097efa61deeed03804",
+    "file_path": "GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md",
+    "llm_cache_list": [
+      "default:extract:60efbc39423d7a682bb1efa1a1bfcf7a",
+      "default:extract:12a4f86173c8badcba8bc157572e72aa"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707193,
+    "_id": "doc-c67b74097efa61deeed03804-chunk-001"
+  },
+  "doc-c67b74097efa61deeed03804-chunk-002": {
+    "tokens": 117,
+    "content": "步骤：以温和的好奇心询问青少年自我批评或羞耻感的具体内容，例如：“你心里那个批评的声音在说什么？\n\n”；\n\n帮助青少年将自我攻击视为异己自我的表现，而非真实自我，例如：“听起来好像有一个严厉的部分在责备你，那个部分是怎么来的？\n\n”；\n\n探索异己自我可能的关系来源，例如：“你觉得这种自我厌恶的感觉，和过去谁对你的看法有关吗？",
+    "chunk_order_index": 2,
+    "split_type": "hard_fallback",
+    "split_part": 3,
+    "split_total": 5,
+    "full_doc_id": "doc-c67b74097efa61deeed03804",
+    "file_path": "GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md",
+    "llm_cache_list": [
+      "default:extract:976f3bbc917ced6e584ba8d544530ff7",
+      "default:extract:a1561bc7343ee20d15d438f5bc36c69b"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707186,
+    "_id": "doc-c67b74097efa61deeed03804-chunk-002"
+  },
+  "doc-c67b74097efa61deeed03804-chunk-003": {
+    "tokens": 125,
+    "content": "”\n回复示例：“你刚才说‘我什么都做不好’，听起来你心里有一个很严厉的声音。\n\n那个声音是从什么时候开始出现的？\n\n”；\n\n“当你觉得自己很坏的时候，有没有可能那是别人曾经对你的看法，现在变成了你内心的声音？\n\n”\n避免事项：不要试图通过引发羞耻或内疚来施加压力；\n\n不要直接否定青少年的自我感受\n关键词：羞耻；\n\n自我厌恶；\n\n异己自我；\n\n心智化；",
+    "chunk_order_index": 3,
+    "split_type": "hard_fallback",
+    "split_part": 4,
+    "split_total": 5,
+    "full_doc_id": "doc-c67b74097efa61deeed03804",
+    "file_path": "GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md",
+    "llm_cache_list": [
+      "default:extract:fd31e46900483d9de30bed82d01b5b63",
+      "default:extract:d870401e49b9d172d1c5c6bd7e4e5959"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707212,
+    "_id": "doc-c67b74097efa61deeed03804-chunk-003"
+  },
+  "doc-c67b74097efa61deeed03804-chunk-004": {
+    "tokens": 27,
+    "content": "青少年\n范围：仅用于低风险、非诊断性的直接心理支持；\n\n危机场景由固定安全协议处理。",
+    "chunk_order_index": 4,
+    "split_type": "hard_fallback",
+    "split_part": 5,
+    "split_total": 5,
+    "full_doc_id": "doc-c67b74097efa61deeed03804",
+    "file_path": "GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md",
+    "llm_cache_list": [
+      "default:extract:97324ea562c96e4a043387ae3ca3e5ce",
+      "default:extract:63a8792c59bf4a8cc32c61329398f7f1"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707218,
+    "_id": "doc-c67b74097efa61deeed03804-chunk-004"
+  },
+  "doc-2b72bc71b9ce39347784bb98-chunk-000": {
+    "tokens": 124,
+    "content": "主题ID：GUIDANCE-TOPIC-HYPERMENTALIZING\n问题框架：青少年过度心智化，表现为对他人意图的过度确定和复杂推测，脱离可观察事实。\n\n适用线索：过度思考；\n\n对他人的动机或感受做出不准确的归因；\n\n感受和想法从现实跳跃太多步；\n\n对他人意图做出过度推断\n目标：减少过度心智化，恢复对不确定性的容忍，回到可观察事实。",
+    "chunk_order_index": 0,
+    "split_type": "hard_fallback",
+    "split_part": 1,
+    "split_total": 3,
+    "full_doc_id": "doc-2b72bc71b9ce39347784bb98",
+    "file_path": "GUIDANCE-TOPIC-HYPERMENTALIZING.md",
+    "llm_cache_list": [
+      "default:extract:bd403f4f986b35d44e1e49d8f44ccc7b",
+      "default:extract:610f793d7adf4779ceea88ceabf91708"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707192,
+    "_id": "doc-2b72bc71b9ce39347784bb98-chunk-000"
+  },
+  "doc-2b72bc71b9ce39347784bb98-chunk-001": {
+    "tokens": 115,
+    "content": "心智化立场：以好奇而非确定的态度探索青少年的想法；\n\n承认不确定性是正常的\n技术：识别并温和地挑战过度心智化，帮助青少年连接到此时此地的感受。\n\n步骤：当青少年表现出过度心智化时，温和地指出其想法可能跳得太远，并邀请其回到可观察的事实。\n\n；\n\n帮助青少年区分事实与推测，鼓励对不确定性保持开放。",
+    "chunk_order_index": 1,
+    "split_type": "hard_fallback",
+    "split_part": 2,
+    "split_total": 3,
+    "full_doc_id": "doc-2b72bc71b9ce39347784bb98",
+    "file_path": "GUIDANCE-TOPIC-HYPERMENTALIZING.md",
+    "llm_cache_list": [
+      "default:extract:a5721745345ea315fa72151bda3e3156",
+      "default:extract:e81eca1c502a428866bd9262cda300fb"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707205,
+    "_id": "doc-2b72bc71b9ce39347784bb98-chunk-001"
+  },
+  "doc-2b72bc71b9ce39347784bb98-chunk-002": {
+    "tokens": 120,
+    "content": "回复示例：听起来你对他为什么那样做有很多想法，但我们可以先看看你实际看到了什么？\n\n；\n\n你刚才说的那些可能性，哪些是你确定知道的，哪些是你猜的？\n\n避免事项：强化青少年的过度推测；\n\n直接否定青少年的想法而不探索\n关键词：过度心智化；\n\n过度思考；\n\n不确定性；\n\n可观察事实\n范围：仅用于低风险、非诊断性的直接心理支持；\n\n危机场景由固定安全协议处理。",
+    "chunk_order_index": 2,
+    "split_type": "hard_fallback",
+    "split_part": 3,
+    "split_total": 3,
+    "full_doc_id": "doc-2b72bc71b9ce39347784bb98",
+    "file_path": "GUIDANCE-TOPIC-HYPERMENTALIZING.md",
+    "llm_cache_list": [
+      "default:extract:1b8f6db1ac0e3943b04d0d8f262244ea",
+      "default:extract:f7e0a86e73a86e5029552f56a8c009d0"
+    ],
+    "create_time": 1784707099,
+    "update_time": 1784707210,
+    "_id": "doc-2b72bc71b9ce39347784bb98-chunk-002"
+  },
+  "doc-6cf41428683918a1a6480b7e-chunk-000": {
+    "tokens": 124,
+    "content": "主题ID：GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE\n问题框架：当内心感受被体验为绝对外部现实时，个体难以区分内在想法与外部事实，导致焦虑和痛苦。\n\n适用线索：将内心想法当作现实；\n\n无法区分内在状态与外部现实；\n\n感知批评为威胁性攻击；\n\n拒绝感受为字面痛苦\n目标：帮助个体区分感受与事实，恢复多视角思考。",
+    "chunk_order_index": 0,
+    "split_type": "hard_fallback",
+    "split_part": 1,
+    "split_total": 3,
+    "full_doc_id": "doc-6cf41428683918a1a6480b7e",
+    "file_path": "GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md",
+    "llm_cache_list": [
+      "default:extract:70e0aecd7f8d060c953ba480ff350647",
+      "default:extract:d2ae3d0f6af7e9a28e92857be26f2a03"
+    ],
+    "create_time": 1784707197,
+    "update_time": 1784707252,
+    "_id": "doc-6cf41428683918a1a6480b7e-chunk-000"
+  },
+  "doc-6cf41428683918a1a6480b7e-chunk-001": {
+    "tokens": 113,
+    "content": "心智化立场：验证情绪；\n\n不评判、不憎恨\n技术：验证情绪并温和地引入替代视角\n步骤：首先验证青少年的情绪，承认其感受的真实性。\n\n；\n\n然后温和地提出另一种可能性，帮助区分内在感受与外部现实。\n\n回复示例：听起来你现在觉得所有人都讨厌你，这种感觉一定很难受。\n\n同时，有没有可能有些人其实并没有那个意思？",
+    "chunk_order_index": 1,
+    "split_type": "hard_fallback",
+    "split_part": 2,
+    "split_total": 3,
+    "full_doc_id": "doc-6cf41428683918a1a6480b7e",
+    "file_path": "GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md",
+    "llm_cache_list": [
+      "default:extract:70590afb46f880d52c15f86de9e71726",
+      "default:extract:26127b8bd7f01cd1f822ed58c8ed902c"
+    ],
+    "create_time": 1784707197,
+    "update_time": 1784707275,
+    "_id": "doc-6cf41428683918a1a6480b7e-chunk-001"
+  },
+  "doc-6cf41428683918a1a6480b7e-chunk-002": {
+    "tokens": 58,
+    "content": "避免事项：直接否定青少年的感受\n关键词：心理等价；\n\n区分感受与事实；\n\n验证情绪；\n\n替代视角\n范围：仅用于低风险、非诊断性的直接心理支持；\n\n危机场景由固定安全协议处理。",
+    "chunk_order_index": 2,
+    "split_type": "hard_fallback",
+    "split_part": 3,
+    "split_total": 3,
+    "full_doc_id": "doc-6cf41428683918a1a6480b7e",
+    "file_path": "GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md",
+    "llm_cache_list": [
+      "default:extract:c714fccf25ec3fab6590e28ce3237c11",
+      "default:extract:c8bd567c440a5a1ac7eeb65ee5138cf2"
+    ],
+    "create_time": 1784707197,
+    "update_time": 1784707276,
+    "_id": "doc-6cf41428683918a1a6480b7e-chunk-002"
+  },
+  "doc-e6096597a635e16f1d5f64ea-chunk-000": {
+    "tokens": 118,
+    "content": "主题ID：GUIDANCE-TOPIC-EPISTEMIC-TRUST\n问题框架：青少年因先前经历导致认知信任受损，对来自他人的社会信息持怀疑态度，难以安全学习。\n\n适用线索：青少年对帮助持高度警惕；\n\n难以接受专业帮助；\n\n对来自他人的新信息持深度怀疑；\n\n显得固执、僵化\n目标：通过被准确心智化，修复认知信任，恢复从社会经验中学习的能力。",
+    "chunk_order_index": 0,
+    "split_type": "hard_fallback",
+    "split_part": 1,
+    "split_total": 3,
+    "full_doc_id": "doc-e6096597a635e16f1d5f64ea",
+    "file_path": "GUIDANCE-TOPIC-EPISTEMIC-TRUST.md",
+    "llm_cache_list": [
+      "default:extract:3bc15bc0f25375f909f9ee044140a7dc",
+      "default:extract:3f1642696adf47d98b0222a5b10ac648"
+    ],
+    "create_time": 1784707210,
+    "update_time": 1784707279,
+    "_id": "doc-e6096597a635e16f1d5f64ea-chunk-000"
+  },
+  "doc-e6096597a635e16f1d5f64ea-chunk-001": {
+    "tokens": 126,
+    "content": "心智化立场：保持心态可用，理解青少年的处境；\n\n愿意从青少年那里学习以理解他们\n技术：通过共同注意和情感调节建立认知信任\n步骤：在互动中展现对青少年的准确理解，使其感到被看见和被理解；\n\n保持开放和非强迫的姿态，让青少年体验到治疗师愿意从他们那里学习\n回复示例：听起来你对我说的这些不太确定，这完全可以理解。\n\n你愿意多告诉我一些你的想法吗？\n\n；",
+    "chunk_order_index": 1,
+    "split_type": "hard_fallback",
+    "split_part": 2,
+    "split_total": 3,
+    "full_doc_id": "doc-e6096597a635e16f1d5f64ea",
+    "file_path": "GUIDANCE-TOPIC-EPISTEMIC-TRUST.md",
+    "llm_cache_list": [
+      "default:extract:62053ed7d4b9515cb17ca1e354928971",
+      "default:extract:dc7b4df31eaa5dd23b616f6941b3de1b"
+    ],
+    "create_time": 1784707210,
+    "update_time": 1784707267,
+    "_id": "doc-e6096597a635e16f1d5f64ea-chunk-001"
+  },
+  "doc-e6096597a635e16f1d5f64ea-chunk-002": {
+    "tokens": 76,
+    "content": "我可能没有完全理解你的感受，你能帮我更清楚地了解吗？\n\n避免事项：假设专业角色或资质自动带来信任\n关键词：认知信任；\n\n安全学习；\n\n被理解；\n\n心智化\n范围：仅用于低风险、非诊断性的直接心理支持；\n\n危机场景由固定安全协议处理。",
+    "chunk_order_index": 2,
+    "split_type": "hard_fallback",
+    "split_part": 3,
+    "split_total": 3,
+    "full_doc_id": "doc-e6096597a635e16f1d5f64ea",
+    "file_path": "GUIDANCE-TOPIC-EPISTEMIC-TRUST.md",
+    "llm_cache_list": [
+      "default:extract:d642d7b993067c9511b0540069cd3bfa",
+      "default:extract:4bf94c940f1cb23fa895cd36a35f517a"
+    ],
+    "create_time": 1784707210,
+    "update_time": 1784707288,
+    "_id": "doc-e6096597a635e16f1d5f64ea-chunk-002"
+  },
+  "doc-cf58af1984b50a1dcb11591e-chunk-000": {
+    "tokens": 127,
+    "content": "主题ID：GUIDANCE-TOPIC-AFFECT-IDENTIFICATION\n问题框架：青少年难以命名情绪，缺乏描述情绪状态的词汇，限制了互动和调节能力。\n\n适用线索：无法命名情绪；\n\n不了解情绪含义；\n\n情绪调节困难\n目标：帮助青少年识别、命名并赋予情绪背景，增强情绪调节能力。\n\n技术：情绪标签化：识别、命名并赋予情绪背景。\n\n步骤：识别、命名并赋予情绪背景。",
+    "chunk_order_index": 0,
+    "split_type": "hard_fallback",
+    "split_part": 1,
+    "split_total": 2,
+    "full_doc_id": "doc-cf58af1984b50a1dcb11591e",
+    "file_path": "GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md",
+    "llm_cache_list": [
+      "default:extract:edbac330dc49ec5c767f9d419e21ab77",
+      "default:extract:0504786dd6ad90a48afe5dd5ee808f44"
+    ],
+    "create_time": 1784707219,
+    "update_time": 1784707294,
+    "_id": "doc-cf58af1984b50a1dcb11591e-chunk-000"
+  },
+  "doc-cf58af1984b50a1dcb11591e-chunk-001": {
+    "tokens": 61,
+    "content": "避免事项：直接告诉青少年他/她应该有什么感受\n关键词：情绪命名；\n\n情绪识别；\n\n情绪标签化；\n\n情绪调节\n范围：仅用于低风险、非诊断性的直接心理支持；\n\n危机场景由固定安全协议处理。",
+    "chunk_order_index": 1,
+    "split_type": "hard_fallback",
+    "split_part": 2,
+    "split_total": 2,
+    "full_doc_id": "doc-cf58af1984b50a1dcb11591e",
+    "file_path": "GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md",
+    "llm_cache_list": [
+      "default:extract:86b0e90090893dd143c96ef55b9c293d",
+      "default:extract:a9b49418eccac6720cc275c33246893f"
+    ],
+    "create_time": 1784707219,
+    "update_time": 1784707302,
+    "_id": "doc-cf58af1984b50a1dcb11591e-chunk-001"
+  },
+  "doc-c5160492e097bac38980aeda-chunk-000": {
+    "tokens": 84,
+    "content": "主题ID：GUIDANCE-TOPIC-MENTALIZING-STANCE\n问题框架：青少年可能因感到被评判或误解而关闭内心，或使用模糊陈述（如“只是想睡觉”）回避探索真实感受。\n\n适用线索：患者表现出非心智化；\n\n绝对化陈述；\n\n情绪激动；",
+    "chunk_order_index": 0,
+    "split_type": "hard_fallback",
+    "split_part": 1,
+    "split_total": 5,
+    "full_doc_id": "doc-c5160492e097bac38980aeda",
+    "file_path": "GUIDANCE-TOPIC-MENTALIZING-STANCE.md",
+    "llm_cache_list": [
+      "default:extract:65cef688af0e2d8f661a57b8b750efca",
+      "default:extract:0543962c8813d8f443f26630137c2cc9"
+    ],
+    "create_time": 1784707277,
+    "update_time": 1784707336,
+    "_id": "doc-c5160492e097bac38980aeda-chunk-000"
+  },
+  "doc-c5160492e097bac38980aeda-chunk-001": {
+    "tokens": 69,
+    "content": "患者缺乏对自身或他人内心状态的好奇\n目标：以谦逊、好奇、非专家的姿态，与青少年共同探索其主观体验，恢复合作性心智化。\n\n心智化立场：好奇、不知、非专家立场；\n\n不知之心；",
+    "chunk_order_index": 1,
+    "split_type": "hard_fallback",
+    "split_part": 2,
+    "split_total": 5,
+    "full_doc_id": "doc-c5160492e097bac38980aeda",
+    "file_path": "GUIDANCE-TOPIC-MENTALIZING-STANCE.md",
+    "llm_cache_list": [
+      "default:extract:856239f899a058aa4fc6b76f74ce9268",
+      "default:extract:85881977e81af0e670e95b612d1a362b"
+    ],
+    "create_time": 1784707277,
+    "update_time": 1784707367,
+    "_id": "doc-c5160492e097bac38980aeda-chunk-001"
+  },
+  "doc-c5160492e097bac38980aeda-chunk-002": {
+    "tokens": 126,
+    "content": "明确的好奇心\n技术：采用好奇且不知晓的立场，使用限定性语言（如“我不确定但……”、“也许你……”、“我猜你……”）表达对青少年内心状态的好奇，并引导其关注体验而非事实填充。\n\n步骤：表达对青少年内心状态的好奇，例如“我很好奇你内心发生了什么”。\n\n；\n\n使用限定性语言提出假设，邀请青少年修正或补充。\n\n；\n\n与青少年共同探索感受体验的质量，避免强加自己的情绪词汇。",
+    "chunk_order_index": 2,
+    "split_type": "hard_fallback",
+    "split_part": 3,
+    "split_total": 5,
+    "full_doc_id": "doc-c5160492e097bac38980aeda",
+    "file_path": "GUIDANCE-TOPIC-MENTALIZING-STANCE.md",
+    "llm_cache_list": [
+      "default:extract:20e31fa2e218986181a70625c5e40b75",
+      "default:extract:9bdc8a78275d68c2bf1054a5f0813c58"
+    ],
+    "create_time": 1784707277,
+    "update_time": 1784707371,
+    "_id": "doc-c5160492e097bac38980aeda-chunk-002"
+  },
+  "doc-c5160492e097bac38980aeda-chunk-003": {
+    "tokens": 123,
+    "content": "回复示例：“我很好奇你内心发生了什么，因为我觉得‘只是想睡觉’并不完全准确。\n\n”；\n\n“我不确定，但也许你当时感到有些生气？\n\n或者别的什么？\n\n”；\n\n“你刚才说‘没什么’，但我有点好奇，因为你的表情好像有点不一样。\n\n你能多说说吗？\n\n”\n避免事项：不要假装知道青少年的感受；\n\n不要强加自己的情绪词汇\n关键词：好奇；\n\n不知；\n\n非专家；\n\n共同探索；",
+    "chunk_order_index": 3,
+    "split_type": "hard_fallback",
+    "split_part": 4,
+    "split_total": 5,
+    "full_doc_id": "doc-c5160492e097bac38980aeda",
+    "file_path": "GUIDANCE-TOPIC-MENTALIZING-STANCE.md",
+    "llm_cache_list": [
+      "default:extract:f4e711d5f01f15644b78df911bcd6302",
+      "default:extract:2f5f655b8d4cee1f4d008d0048ff656b"
+    ],
+    "create_time": 1784707277,
+    "update_time": 1784707378,
+    "_id": "doc-c5160492e097bac38980aeda-chunk-003"
+  },
+  "doc-c5160492e097bac38980aeda-chunk-004": {
+    "tokens": 30,
+    "content": "心智化姿态\n范围：仅用于低风险、非诊断性的直接心理支持；\n\n危机场景由固定安全协议处理。",
+    "chunk_order_index": 4,
+    "split_type": "hard_fallback",
+    "split_part": 5,
+    "split_total": 5,
+    "full_doc_id": "doc-c5160492e097bac38980aeda",
+    "file_path": "GUIDANCE-TOPIC-MENTALIZING-STANCE.md",
+    "llm_cache_list": [
+      "default:extract:213513c1170cefd6be674edf63336264",
+      "default:extract:deafaf36f8fb374a1180528100609025"
+    ],
+    "create_time": 1784707277,
+    "update_time": 1784707412,
+    "_id": "doc-c5160492e097bac38980aeda-chunk-004"
+  },
+  "doc-cbd65c5b9066cfdab9aefc4e-chunk-000": {
+    "tokens": 124,
+    "content": "主题ID：GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT\n问题框架：青少年在青春期面临自主性、同伴关系、身份认同等多重发展任务，可能因进化不匹配（如缺乏成人角色模型、责任与自主性失衡）而出现适应困难，但不应被病理化。\n\n适用线索：青少年与家庭在自主性上存在冲突；\n\n冲动性增加；\n\n冒险行为；\n\n同伴群体优先；\n\n在人际关系中感到不知所措；",
+    "chunk_order_index": 0,
+    "split_type": "hard_fallback",
+    "split_part": 1,
+    "split_total": 5,
+    "full_doc_id": "doc-cbd65c5b9066cfdab9aefc4e",
+    "file_path": "GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md",
+    "llm_cache_list": [
+      "default:extract:634bc29926eb9b1b95b5e3ce48ecf365",
+      "default:extract:84502a41b68fb4d1860934e290499ccf"
+    ],
+    "create_time": 1784707299,
+    "update_time": 1784707372,
+    "_id": "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+  },
+  "doc-cbd65c5b9066cfdab9aefc4e-chunk-001": {
+    "tokens": 125,
+    "content": "在社交和教育领域感到失败；\n\n自我憎恨和绝望；\n\n同伴关系复杂化；\n\n亲子关系复杂化；\n\n缺乏成人角色模型；\n\n责任与自主性不匹配；\n\n实际自我与理想自我差距\n目标：帮助青少年理解其行为和发展性功能，促进适应性的发展轨迹，增强自主性和能动性，同时避免病理化。\n\n心智化立场：理解青春期行为的发展性功能，而非视为病态；\n\n敏感地平衡青少年自主需求与家庭参与；",
+    "chunk_order_index": 1,
+    "split_type": "hard_fallback",
+    "split_part": 2,
+    "split_total": 5,
+    "full_doc_id": "doc-cbd65c5b9066cfdab9aefc4e",
+    "file_path": "GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md",
+    "llm_cache_list": [
+      "default:extract:b323368dd3713aaab18e4dfecc45bc14",
+      "default:extract:8fbaf0550abb212d5426e166f27190f7"
+    ],
+    "create_time": 1784707299,
+    "update_time": 1784707396,
+    "_id": "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+  },
+  "doc-cbd65c5b9066cfdab9aefc4e-chunk-002": {
+    "tokens": 90,
+    "content": "促进代际连接和增强自主性\n技术：提供发展性支架，帮助青少年回到适应性的发展轨道，克服回避模式。\n\n步骤：探索青少年当前行为（如冲动、冒险、同伴优先）在青春期发展中的适应意义；\n\n讨论进化不匹配（如缺乏成人角色、责任与自主性失衡）如何影响其体验；",
+    "chunk_order_index": 2,
+    "split_type": "hard_fallback",
+    "split_part": 3,
+    "split_total": 5,
+    "full_doc_id": "doc-cbd65c5b9066cfdab9aefc4e",
+    "file_path": "GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md",
+    "llm_cache_list": [
+      "default:extract:41cda5c5ef744535da66f0ca4f7d6506",
+      "default:extract:a55ed8e76e3fc505163e0fc88038358f"
+    ],
+    "create_time": 1784707299,
+    "update_time": 1784707385,
+    "_id": "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+  },
+  "doc-cbd65c5b9066cfdab9aefc4e-chunk-003": {
+    "tokens": 120,
+    "content": "鼓励青少年表达对自主性、身份和同伴关系的感受，并共同思考如何增强能动性\n回复示例：听起来最近你更想和朋友们待在一起，这其实是青春期很自然的一部分——这个阶段同伴关系变得特别重要，同时也在学习独立。\n\n；\n\n你提到感觉被要求承担很多责任，但自己却没有太多决定权，这确实很让人沮丧。\n\n很多青少年都有类似的感觉，因为现代教育延长了，但自主性的发展却没有跟上。",
+    "chunk_order_index": 3,
+    "split_type": "hard_fallback",
+    "split_part": 4,
+    "split_total": 5,
+    "full_doc_id": "doc-cbd65c5b9066cfdab9aefc4e",
+    "file_path": "GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md",
+    "llm_cache_list": [
+      "default:extract:b134dd7ba623c3b0f7aa90e4c3d01274",
+      "default:extract:291912bd200a586a56b32736d157b326"
+    ],
+    "create_time": 1784707299,
+    "update_time": 1784707390,
+    "_id": "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+  },
+  "doc-cbd65c5b9066cfdab9aefc4e-chunk-004": {
+    "tokens": 92,
+    "content": "避免事项：将冲动、冒险或同伴优先简单视为问题行为或病理表现；\n\n忽视青少年自主需求，过度强调家庭控制\n关键词：青春期发展；\n\n自主性；\n\n同伴关系；\n\n身份认同；\n\n进化不匹配；\n\n正常化；\n\n发展性支架\n范围：仅用于低风险、非诊断性的直接心理支持；\n\n危机场景由固定安全协议处理。",
+    "chunk_order_index": 4,
+    "split_type": "hard_fallback",
+    "split_part": 5,
+    "split_total": 5,
+    "full_doc_id": "doc-cbd65c5b9066cfdab9aefc4e",
+    "file_path": "GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md",
+    "llm_cache_list": [
+      "default:extract:ef1e105f9bdbe1382e39fff7b9ce7ac1",
+      "default:extract:219dfd6f3d2c0754e62a6747688007c5"
+    ],
+    "create_time": 1784707299,
+    "update_time": 1784707469,
+    "_id": "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+  },
+  "doc-2526c2542d1fb9e5640b1a30-chunk-000": {
+    "tokens": 120,
+    "content": "主题ID：GUIDANCE-TOPIC-AROUSAL\n问题框架：高情绪唤起（情绪温度升高）导致心智化能力下降，个体以非心智化方式思考和行动。\n\n适用线索：情绪温度升高；\n\n非心智化行为；\n\n压力反应增强；\n\n社会排斥反应增强；\n\n学业压力反应增强\n目标：降低情绪温度，恢复心智化能力。\n\n心智化立场：共情地理解青少年的情绪体验；",
+    "chunk_order_index": 0,
+    "split_type": "hard_fallback",
+    "split_part": 1,
+    "split_total": 3,
+    "full_doc_id": "doc-2526c2542d1fb9e5640b1a30",
+    "file_path": "GUIDANCE-TOPIC-AROUSAL.md",
+    "llm_cache_list": [
+      "default:extract:a203e04f7f642cac97cc149e81e0f74c",
+      "default:extract:32c32d0d394df841a196618c4ae82838"
+    ],
+    "create_time": 1784707304,
+    "update_time": 1784707427,
+    "_id": "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+  },
+  "doc-2526c2542d1fb9e5640b1a30-chunk-001": {
+    "tokens": 116,
+    "content": "正常化压力下的自动心智化反应\n技术：通过共情降低情绪温度，促进心智化恢复。\n\n步骤：识别情绪温度升高的信号（如激动、沉默、冲突）。\n\n；\n\n使用共情性回应，承认并验证青少年的情绪体验。\n\n；\n\n在情绪温度降低后，温和地探索其内心状态。\n\n回复示例：“听起来你现在真的很生气，我们慢慢来，先一起理一理发生了什么。\n\n”；",
+    "chunk_order_index": 1,
+    "split_type": "hard_fallback",
+    "split_part": 2,
+    "split_total": 3,
+    "full_doc_id": "doc-2526c2542d1fb9e5640b1a30",
+    "file_path": "GUIDANCE-TOPIC-AROUSAL.md",
+    "llm_cache_list": [
+      "default:extract:f0baf3058f29b0b51fed27999ae54e0c",
+      "default:extract:12924d3f9633ddb197a937aee6cbec68"
+    ],
+    "create_time": 1784707304,
+    "update_time": 1784707412,
+    "_id": "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+  },
+  "doc-2526c2542d1fb9e5640b1a30-chunk-002": {
+    "tokens": 96,
+    "content": "“我知道考试压力很大，有时候脑子会一片空白，这很正常。\n\n”\n避免事项：在情绪高温时直接进行心智化探索或解释；\n\n忽视情绪温度，继续推进治疗议程\n关键词：情绪温度；\n\n共情；\n\n心智化恢复；\n\n情绪调节\n范围：仅用于低风险、非诊断性的直接心理支持；\n\n危机场景由固定安全协议处理。",
+    "chunk_order_index": 2,
+    "split_type": "hard_fallback",
+    "split_part": 3,
+    "split_total": 3,
+    "full_doc_id": "doc-2526c2542d1fb9e5640b1a30",
+    "file_path": "GUIDANCE-TOPIC-AROUSAL.md",
+    "llm_cache_list": [
+      "default:extract:a757c988fbcd7a6e6e5654fe8eb8ce11",
+      "default:extract:d5b01cbe0e1e9873d6b00a8130a279fb"
+    ],
+    "create_time": 1784707304,
+    "update_time": 1784707404,
+    "_id": "doc-2526c2542d1fb9e5640b1a30-chunk-002"
+  },
+  "doc-24d5ade8ad59b6565d41682f-chunk-000": {
+    "tokens": 128,
+    "content": "主题ID：GUIDANCE-TOPIC-EMPATHY-VALIDATION\n问题框架：青少年处于心理等价模式或非心智化状态，感到不被理解，情绪失调。\n\n适用线索：青少年处于心理等价模式；\n\n青少年感到不被理解，处于非心智化状态；\n\n情绪失调\n目标：通过共情验证恢复心智化，建立共享平台，降低人际热度。\n\n心智化立场：共情验证立场：理解青少年的体验并给予支持、共情和验证。",
+    "chunk_order_index": 0,
+    "split_type": "hard_fallback",
+    "split_part": 1,
+    "split_total": 4,
+    "full_doc_id": "doc-24d5ade8ad59b6565d41682f",
+    "file_path": "GUIDANCE-TOPIC-EMPATHY-VALIDATION.md",
+    "llm_cache_list": [
+      "default:extract:fa7115b323c4d7d819d8e37f362f9e76",
+      "default:extract:146565efe364c28d58947dc9340ab371"
+    ],
+    "create_time": 1784707413,
+    "update_time": 1784707450,
+    "_id": "doc-24d5ade8ad59b6565d41682f-chunk-000"
+  },
+  "doc-24d5ade8ad59b6565d41682f-chunk-001": {
+    "tokens": 55,
+    "content": "；\n\n验证立场：真诚地验证患者的感受。\n\n技术：共情验证\n步骤：紧贴青少年，提供共情验证，以激发好奇心和差异。\n\n；\n\n先验证感受，再温和挑战其思维过程。",
+    "chunk_order_index": 1,
+    "split_type": "hard_fallback",
+    "split_part": 2,
+    "split_total": 4,
+    "full_doc_id": "doc-24d5ade8ad59b6565d41682f",
+    "file_path": "GUIDANCE-TOPIC-EMPATHY-VALIDATION.md",
+    "llm_cache_list": [
+      "default:extract:8205ef42aaf1b0e1ddb3d2a4bfa8fab2",
+      "default:extract:af2b7014ff1bbdbcb6922ccb5f4a2ace"
+    ],
+    "create_time": 1784707413,
+    "update_time": 1784707453,
+    "_id": "doc-24d5ade8ad59b6565d41682f-chunk-001"
+  },
+  "doc-24d5ade8ad59b6565d41682f-chunk-002": {
+    "tokens": 114,
+    "content": "回复示例：我能理解你为什么会那样感觉，但从我的角度看，好像当她没跟你打招呼时，你的思维有点过度运转，试图理解为什么，然后你得出了一个最伤心的结论——好像你的思维在几秒钟内就得到了最坏的情景，是不是？\n\n避免事项：不要试图立即解决问题；\n\n避免让患者感到愚蠢\n关键词：共情验证；\n\n支持与共情；\n\n验证感受；",
+    "chunk_order_index": 2,
+    "split_type": "hard_fallback",
+    "split_part": 3,
+    "split_total": 4,
+    "full_doc_id": "doc-24d5ade8ad59b6565d41682f",
+    "file_path": "GUIDANCE-TOPIC-EMPATHY-VALIDATION.md",
+    "llm_cache_list": [
+      "default:extract:5db66e89ad90259524c6b8d9f46975db",
+      "default:extract:bea45b43992b46a9195871d8b71ecdfd"
+    ],
+    "create_time": 1784707413,
+    "update_time": 1784707452,
+    "_id": "doc-24d5ade8ad59b6565d41682f-chunk-002"
+  },
+  "doc-24d5ade8ad59b6565d41682f-chunk-003": {
+    "tokens": 28,
+    "content": "心智化\n范围：仅用于低风险、非诊断性的直接心理支持；\n\n危机场景由固定安全协议处理。",
+    "chunk_order_index": 3,
+    "split_type": "hard_fallback",
+    "split_part": 4,
+    "split_total": 4,
+    "full_doc_id": "doc-24d5ade8ad59b6565d41682f",
+    "file_path": "GUIDANCE-TOPIC-EMPATHY-VALIDATION.md",
+    "llm_cache_list": [
+      "default:extract:c7c5f8896af0cc6a34a15142971d0384",
+      "default:extract:3b66518ec74f682c43416d2f1732418f"
+    ],
+    "create_time": 1784707413,
+    "update_time": 1784707464,
+    "_id": "doc-24d5ade8ad59b6565d41682f-chunk-003"
+  }
+}

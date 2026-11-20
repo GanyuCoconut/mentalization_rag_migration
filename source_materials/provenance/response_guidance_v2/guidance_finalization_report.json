@@ -1,0 +1,14 @@
+{
+  "cards": 16,
+  "machine_pass": 16,
+  "scope_counts": {
+    "direct_support": 10,
+    "family_session": 1,
+    "professional_network": 1,
+    "clinician_planning": 3,
+    "crisis_only": 1
+  },
+  "runtime_eligible_cards": 10,
+  "human_review_required": true,
+  "output": "/workspace/teen_mh_agent/knowledge_work/response_guidance_v2/guidance_candidates_final.jsonl"
+}

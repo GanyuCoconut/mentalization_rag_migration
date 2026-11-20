@@ -1,0 +1,3268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Empathy Validation">
+      <data key="d0">Empathy Validation</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique used to restore mentalizing, build a shared platform, and reduce interpersonal heat in adolescents by providing empathy, support, and validation.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="Adolescent">
+      <data key="d0">Adolescent</data>
+      <data key="d1">person</data>
+      <data key="d2">Individuals in the adolescent age group who may be in psychic equivalence mode or a non-mentalizing state, feeling misunderstood and experiencing emotional dysregulation.&lt;SEP&gt;A young person who has damaged epistemic trust due to prior experiences, leading to wariness of help and deep skepticism of new information from others.&lt;SEP&gt;A young person who may receive guidance on psychic equivalence, specifically addressed in the response example.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000&lt;SEP&gt;doc-e6096597a635e16f1d5f64ea-chunk-000&lt;SEP&gt;doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md&lt;SEP&gt;GUIDANCE-TOPIC-EPISTEMIC-TRUST.md&lt;SEP&gt;GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Psychic Equivalence Mode">
+      <data key="d0">Psychic Equivalence Mode</data>
+      <data key="d1">concept</data>
+      <data key="d2">A mental state where the adolescent's thoughts and feelings are experienced as universally true and equivalent to external reality.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="Non-Mentalizing State">
+      <data key="d0">Non-Mentalizing State</data>
+      <data key="d1">concept</data>
+      <data key="d2">A state in which the adolescent is unable to consider or reflect on their own or others' mental states.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="Emotional Dysregulation">
+      <data key="d0">Emotional Dysregulation</data>
+      <data key="d1">concept</data>
+      <data key="d2">Difficulty in managing emotional responses, leading to intense, unstable, or overwhelming emotions.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="Mentalizing">
+      <data key="d0">Mentalizing</data>
+      <data key="d1">concept</data>
+      <data key="d2">The ability to understand and interpret the mental states (thoughts, feelings, intentions) of oneself and others.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="Empathy Validation Stance">
+      <data key="d0">Empathy Validation Stance</data>
+      <data key="d1">concept</data>
+      <data key="d2">A mentalizing stance that involves understanding the adolescent's experience and providing support, empathy, and validation.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="Validation Stance">
+      <data key="d0">Validation Stance</data>
+      <data key="d1">concept</data>
+      <data key="d2">A stance that sincerely validates the adolescent's feelings without judgment.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="Shared Platform">
+      <data key="d0">Shared Platform</data>
+      <data key="d1">concept</data>
+      <data key="d2">A common understanding and connection built between the adolescent and the supporter through empathy validation.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="Interpersonal Heat">
+      <data key="d0">Interpersonal Heat</data>
+      <data key="d1">concept</data>
+      <data key="d2">The emotional intensity or tension present in the interaction between the adolescent and the supporter.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="GUIDANCE-TOPIC-EMPATHY-VALIDATION">
+      <data key="d0">GUIDANCE-TOPIC-EMPATHY-VALIDATION</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The unique identifier for the empathy validation topic guidance document.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="Response Example">
+      <data key="d0">Response Example</data>
+      <data key="d1">content</data>
+      <data key="d2">A specific illustrative response provided to demonstrate how empathy validation is applied, including validation of feelings and gentle challenge of thought processes.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d5">1784709486</data>
+      <data key="d6" />
+    </node>
+    <node id="Crisis Scenario">
+      <data key="d0">Crisis Scenario</data>
+      <data key="d1">event</data>
+      <data key="d2">A high-risk psychological support situation that is excluded from the scope of empathy validation and handled by fixed safety protocols.&lt;SEP&gt;Scenarios that are handled by the fixed safety protocol, not by the mentalizing stance guidance.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000&lt;SEP&gt;doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md&lt;SEP&gt;GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d5">1784709531</data>
+      <data key="d6" />
+    </node>
+    <node id="Fixed Safety Protocols">
+      <data key="d0">Fixed Safety Protocols</data>
+      <data key="d1">method</data>
+      <data key="d2">Predefined procedures used to manage crisis scenarios in psychological support, separate from the empathy validation technique.&lt;SEP&gt;Established procedures for handling crisis scenarios, which are separate from the low-risk support framework.&lt;SEP&gt;Protocols to handle crisis scenarios separately from this guidance.&lt;SEP&gt;Predefined procedures that manage crisis scenarios, distinct from the emotion labeling technique.</data>
+      <data key="d3">doc-24d5ade8ad59b6565d41682f-chunk-000&lt;SEP&gt;doc-2b72bc71b9ce39347784bb98-chunk-000&lt;SEP&gt;doc-2526c2542d1fb9e5640b1a30-chunk-000&lt;SEP&gt;doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md&lt;SEP&gt;GUIDANCE-TOPIC-HYPERMENTALIZING.md&lt;SEP&gt;GUIDANCE-TOPIC-AROUSAL.md&lt;SEP&gt;GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Alien Self">
+      <data key="d0">Alien Self</data>
+      <data key="d1">concept</data>
+      <data key="d2">An internal experience of persistent self-criticism, self-hatred, and expected failure, perceived as a separate part of the self formed from caregivers' misattributions.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Shame">
+      <data key="d0">Shame</data>
+      <data key="d1">concept</data>
+      <data key="d2">A feeling of intense shame experienced by adolescents.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Self-hatred">
+      <data key="d0">Self-hatred</data>
+      <data key="d1">concept</data>
+      <data key="d2">A feeling of self-hatred experienced by adolescents.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Self-loathing">
+      <data key="d0">Self-loathing</data>
+      <data key="d1">concept</data>
+      <data key="d2">A feeling of self-loathing experienced by adolescents.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Persistent Self-criticism">
+      <data key="d0">Persistent Self-criticism</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ongoing internal criticism and self-blame experienced by adolescents.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Expected Failure">
+      <data key="d0">Expected Failure</data>
+      <data key="d1">concept</data>
+      <data key="d2">An expectation of failure in various aspects of life experienced by adolescents.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Despair">
+      <data key="d0">Despair</data>
+      <data key="d1">concept</data>
+      <data key="d2">A feeling of hopelessness and despair experienced by adolescents.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Adolescents">
+      <data key="d0">Adolescents</data>
+      <data key="d1">person</data>
+      <data key="d2">Individuals in the adolescent developmental stage who may experience shame, self-hatred, and the alien self.&lt;SEP&gt;Adolescents who may feel judged or misunderstood and may close off or use vague statements to avoid revealing true feelings.&lt;SEP&gt;The target population for the guidance framework, who exhibit over-mentalizing tendencies.&lt;SEP&gt;The target group for the guidance, who may exhibit teleological mode by focusing on concrete actions and external results.&lt;SEP&gt;The target population for this guidance topic, who experience emotional arousal and stress.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000&lt;SEP&gt;doc-c5160492e097bac38980aeda-chunk-000&lt;SEP&gt;doc-2b72bc71b9ce39347784bb98-chunk-000&lt;SEP&gt;doc-25e2ba2136d79300ee648940-chunk-000&lt;SEP&gt;doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md&lt;SEP&gt;GUIDANCE-TOPIC-MENTALIZING-STANCE.md&lt;SEP&gt;GUIDANCE-TOPIC-HYPERMENTALIZING.md&lt;SEP&gt;GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md&lt;SEP&gt;GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Caregivers">
+      <data key="d0">Caregivers</data>
+      <data key="d1">person</data>
+      <data key="d2">Individuals who provide care and whose misattributions contribute to the formation of the alien self in adolescents.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Non-blaming Curiosity">
+      <data key="d0">Non-blaming Curiosity</data>
+      <data key="d1">concept</data>
+      <data key="d2">A mentalizing stance characterized by curious inquiry without blame, used to explore the alien self.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Mentalization">
+      <data key="d0">Mentalization</data>
+      <data key="d1">concept</data>
+      <data key="d2">The ability to understand and interpret mental states of oneself and others, used in therapeutic techniques.&lt;SEP&gt;The ability to understand behavior in terms of mental states; the goal of the guidance is to promote mentalization in adolescents.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000&lt;SEP&gt;doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md&lt;SEP&gt;GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Mentalizing The Alien Self">
+      <data key="d0">Mentalizing The Alien Self</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique to help adolescents identify and integrate parts of the alien self by exploring its relational origins and externalizing its influence.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Relational Source">
+      <data key="d0">Relational Source</data>
+      <data key="d1">concept</data>
+      <data key="d2">The origin of the alien self in past relationships, particularly with caregivers.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Misattribution">
+      <data key="d0">Misattribution</data>
+      <data key="d1">concept</data>
+      <data key="d2">Incorrect attributions made by caregivers regarding the adolescent's mental states, leading to the alien self.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Shame-driven Self-attack">
+      <data key="d0">Shame-driven Self-attack</data>
+      <data key="d1">concept</data>
+      <data key="d2">Self-critical behavior driven by shame, manifesting as self-blame and self-hatred.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Internalization">
+      <data key="d0">Internalization</data>
+      <data key="d1">concept</data>
+      <data key="d2">The process by which external judgments or expectations become internal mental representations, forming the alien self.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Lack Of Internal Approval">
+      <data key="d0">Lack Of Internal Approval</data>
+      <data key="d1">concept</data>
+      <data key="d2">The feeling of lacking internal approval and validation, contributing to self-criticism and shame in adolescents.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Feeling Of Being A Failure">
+      <data key="d0">Feeling Of Being A Failure</data>
+      <data key="d1">concept</data>
+      <data key="d2">The feeling of being a failure, associated with despair and self-loathing in adolescents.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Changes In Social Understanding">
+      <data key="d0">Changes In Social Understanding</data>
+      <data key="d1">concept</data>
+      <data key="d2">Changes in an adolescent's understanding of social norms and expectations, which give rise to feelings of shame and self-hatred.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Enhanced Self-awareness">
+      <data key="d0">Enhanced Self-awareness</data>
+      <data key="d1">concept</data>
+      <data key="d2">An increase in self-awareness during adolescence, which heightens self-criticism and contributes to shame and self-hatred.</data>
+      <data key="d3">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d5">1784709492</data>
+      <data key="d6" />
+    </node>
+    <node id="Epistemic Trust">
+      <data key="d0">Epistemic Trust</data>
+      <data key="d1">concept</data>
+      <data key="d2">A concept referring to trust in knowledge from others; in the context, it is damaged in adolescents due to prior experiences, causing skepticism towards social information.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="Social Information">
+      <data key="d0">Social Information</data>
+      <data key="d1">content</data>
+      <data key="d2">Information coming from other people; adolescents with damaged epistemic trust are skeptical of it.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="Professional Help">
+      <data key="d0">Professional Help</data>
+      <data key="d1">concept</data>
+      <data key="d2">Assistance from professionals; adolescents with damaged epistemic trust are reluctant to accept it.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="Mentalizing Stance">
+      <data key="d0">Mentalizing Stance</data>
+      <data key="d1">concept</data>
+      <data key="d2">An approach where the therapist maintains mental availability, understands the adolescent's situation, and is willing to learn from the adolescent to understand them.&lt;SEP&gt;A stance of curiosity, not-knowing, and non-expert attitude, used to collaboratively explore the adolescent's subjective experience and restore collaborative mentalizing.&lt;SEP&gt;An approach that understands adolescent behaviors from a developmental perspective rather than as pathological, balancing autonomy and family participation.&lt;SEP&gt;An approach characterized by curiosity rather than certainty when exploring adolescents' thoughts, acknowledging uncertainty as normal.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000&lt;SEP&gt;doc-c5160492e097bac38980aeda-chunk-000&lt;SEP&gt;doc-cbd65c5b9066cfdab9aefc4e-chunk-000&lt;SEP&gt;doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md&lt;SEP&gt;GUIDANCE-TOPIC-MENTALIZING-STANCE.md&lt;SEP&gt;GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md&lt;SEP&gt;GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Joint Attention">
+      <data key="d0">Joint Attention</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique used to build epistemic trust through shared focus and affect regulation.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="Affect Regulation">
+      <data key="d0">Affect Regulation</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique used together with joint attention to build epistemic trust.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="Accurate Mentalizing">
+      <data key="d0">Accurate Mentalizing</data>
+      <data key="d1">method</data>
+      <data key="d2">The process of demonstrating accurate understanding of the adolescent in interaction, making them feel seen and understood.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="Therapist">
+      <data key="d0">Therapist</data>
+      <data key="d1">person</data>
+      <data key="d2">The professional providing support; uses mentalizing stance and techniques to help the adolescent restore epistemic trust.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="Safety Protocol">
+      <data key="d0">Safety Protocol</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A fixed protocol that handles crisis scenarios; limits the scope of the guidance to low-risk, non-diagnostic support.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="Safe Learning">
+      <data key="d0">Safe Learning</data>
+      <data key="d1">concept</data>
+      <data key="d2">The ability to learn safely from social experiences; the goal is to restore this ability for the adolescent.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="Prior Experiences">
+      <data key="d0">Prior Experiences</data>
+      <data key="d1">event</data>
+      <data key="d2">Previous experiences of the adolescent that caused damage to epistemic trust.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="Crisis Scenarios">
+      <data key="d0">Crisis Scenarios</data>
+      <data key="d1">event</data>
+      <data key="d2">Urgent situations handled by a fixed safety protocol, outside the scope of low-risk support.&lt;SEP&gt;High-risk situations that are handled by fixed safety protocols, not by this guidance.&lt;SEP&gt;Emergency situations that are handled by fixed safety protocols, excluded from the low-risk scope of the technique.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000&lt;SEP&gt;doc-2526c2542d1fb9e5640b1a30-chunk-000&lt;SEP&gt;doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md&lt;SEP&gt;GUIDANCE-TOPIC-AROUSAL.md&lt;SEP&gt;GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Rigidity">
+      <data key="d0">Rigidity</data>
+      <data key="d1">other</data>
+      <data key="d2">A behavioral characteristic of adolescents with damaged epistemic trust, appearing stubborn and inflexible.</data>
+      <data key="d3">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d5">1784709504</data>
+      <data key="d6" />
+    </node>
+    <node id="GUIDANCE-TOPIC-MENTALIZING-STANCE">
+      <data key="d0">GUIDANCE-TOPIC-MENTALIZING-STANCE</data>
+      <data key="d1">concept</data>
+      <data key="d2">A topic identifier for a guidance on mentalizing stance with adolescents.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d5">1784709531</data>
+      <data key="d6" />
+    </node>
+    <node id="Patient">
+      <data key="d0">Patient</data>
+      <data key="d1">person</data>
+      <data key="d2">Individuals, specifically adolescents, who exhibit non-mentalizing behaviors such as absolute statements, emotional agitation, and lack of curiosity about internal states.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d5">1784709531</data>
+      <data key="d6" />
+    </node>
+    <node id="Non-Mentalizing">
+      <data key="d0">Non-Mentalizing</data>
+      <data key="d1">concept</data>
+      <data key="d2">State where the patient lacks mentalizing, characterized by absolute statements, emotional agitation, and lack of curiosity about self or others.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d5">1784709531</data>
+      <data key="d6" />
+    </node>
+    <node id="Tentative Language Technique">
+      <data key="d0">Tentative Language Technique</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique using tentative language (e.g., 'I'm not sure but...', 'Maybe you...', 'I guess you...') to express curiosity about the adolescent's internal state and guide focus on experience rather than fact-filling.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d5">1784709531</data>
+      <data key="d6" />
+    </node>
+    <node id="Collaborative Exploration">
+      <data key="d0">Collaborative Exploration</data>
+      <data key="d1">method</data>
+      <data key="d2">The process of jointly exploring the quality of feelings with the adolescent, avoiding imposing one's own emotional vocabulary.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d5">1784709531</data>
+      <data key="d6" />
+    </node>
+    <node id="Fixed Safety Protocol">
+      <data key="d0">Fixed Safety Protocol</data>
+      <data key="d1">method</data>
+      <data key="d2">A fixed safety protocol that handles crisis scenarios, distinct from the low-risk guidance.&lt;SEP&gt;A protocol that handles crisis scenarios, separate from this guidance.&lt;SEP&gt;A predetermined procedure for handling crisis scenarios where psychic equivalence guidance is not suitable.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000&lt;SEP&gt;doc-25e2ba2136d79300ee648940-chunk-000&lt;SEP&gt;doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md&lt;SEP&gt;GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md&lt;SEP&gt;GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Low-Risk Non-Diagnostic Direct Psychological Support">
+      <data key="d0">Low-Risk Non-Diagnostic Direct Psychological Support</data>
+      <data key="d1">concept</data>
+      <data key="d2">The scope of application for the mentalizing stance guidance, limited to low-risk, non-diagnostic direct psychological support.&lt;SEP&gt;The scope of application for this guidance: only for low-risk, non-diagnostic settings.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000&lt;SEP&gt;doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md&lt;SEP&gt;GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Cooperative Mentalizing">
+      <data key="d0">Cooperative Mentalizing</data>
+      <data key="d1">concept</data>
+      <data key="d2">The goal of restoring collaborative mentalizing between the therapist and adolescent through joint exploration of subjective experience.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d5">1784709531</data>
+      <data key="d6" />
+    </node>
+    <node id="Curiosity">
+      <data key="d0">Curiosity</data>
+      <data key="d1">concept</data>
+      <data key="d2">A clear curiosity expressed through tentative language, central to the mentalizing stance and used to guide focus on experience.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d5">1784709531</data>
+      <data key="d6" />
+    </node>
+    <node id="Not-Knowing">
+      <data key="d0">Not-Knowing</data>
+      <data key="d1">concept</data>
+      <data key="d2">A stance of acknowledging uncertainty, used to invite the adolescent to correct or supplement without imposing interpretations.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d5">1784709531</data>
+      <data key="d6" />
+    </node>
+    <node id="Non-Expert">
+      <data key="d0">Non-Expert</data>
+      <data key="d1">concept</data>
+      <data key="d2">A non-expert attitude that avoids pretending to know the adolescent's feelings, part of the mentalizing stance.</data>
+      <data key="d3">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d5">1784709531</data>
+      <data key="d6" />
+    </node>
+    <node id="GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT">
+      <data key="d0">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT</data>
+      <data key="d1">data</data>
+      <data key="d2">An identifier for a guidance topic on adolescent development providing a framework for understanding and supporting adolescent behaviors.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Adolescent Development">
+      <data key="d0">Adolescent Development</data>
+      <data key="d1">concept</data>
+      <data key="d2">The overall developmental process during adolescence encompassing autonomy, peer relationships, identity, and related tasks.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Autonomy">
+      <data key="d0">Autonomy</data>
+      <data key="d1">concept</data>
+      <data key="d2">A key developmental task in adolescence involving the desire for independence and self-governance.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Peer Relationships">
+      <data key="d0">Peer Relationships</data>
+      <data key="d1">concept</data>
+      <data key="d2">Social connections with peers that become particularly important during adolescence.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Identity">
+      <data key="d0">Identity</data>
+      <data key="d1">concept</data>
+      <data key="d2">The process of forming a sense of self, a major developmental task in adolescence.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Evolutionary Mismatch">
+      <data key="d0">Evolutionary Mismatch</data>
+      <data key="d1">concept</data>
+      <data key="d2">The concept that modern adolescent developmental challenges arise from a mismatch between evolved expectations and current social environments, such as lack of adult role models and imbalance of responsibility and autonomy.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Adaptive Difficulties">
+      <data key="d0">Adaptive Difficulties</data>
+      <data key="d1">concept</data>
+      <data key="d2">Adjustment problems that adolescents may face due to evolutionary mismatch, but which should not be pathologized.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Pathologization">
+      <data key="d0">Pathologization</data>
+      <data key="d1">concept</data>
+      <data key="d2">The incorrect framing of normal adolescent behaviors as pathological or problematic.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Developmental Scaffolding">
+      <data key="d0">Developmental Scaffolding</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique to provide support and guidance to help adolescents return to adaptive developmental trajectories and overcome avoidance patterns.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Adaptive Developmental Trajectory">
+      <data key="d0">Adaptive Developmental Trajectory</data>
+      <data key="d1">concept</data>
+      <data key="d2">The desired path of development that is healthy and adaptive for adolescents.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Agency">
+      <data key="d0">Agency</data>
+      <data key="d1">concept</data>
+      <data key="d2">The sense of control and ability to act independently, which is enhanced through the guidance.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Intergenerational Connection">
+      <data key="d0">Intergenerational Connection</data>
+      <data key="d1">concept</data>
+      <data key="d2">The promotion of connections between generations, balancing adolescent autonomy needs with family involvement.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Low-Risk Non-Diagnostic Psychological Support">
+      <data key="d0">Low-Risk Non-Diagnostic Psychological Support</data>
+      <data key="d1">concept</data>
+      <data key="d2">The scope of this guidance, limited to non-diagnostic support in low-risk situations.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Crisis Safety Protocol">
+      <data key="d0">Crisis Safety Protocol</data>
+      <data key="d1">other</data>
+      <data key="d2">A fixed safety protocol for handling crisis scenarios, separate from this guidance.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Normalization">
+      <data key="d0">Normalization</data>
+      <data key="d1">concept</data>
+      <data key="d2">The process of framing adolescent behaviors as normal developmental phenomena rather than pathological.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Lack Of Adult Role Models">
+      <data key="d0">Lack Of Adult Role Models</data>
+      <data key="d1">concept</data>
+      <data key="d2">The absence of consistent adult role models, contributing to evolutionary mismatch in adolescent development.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Responsibility-Autonomy Imbalance">
+      <data key="d0">Responsibility-Autonomy Imbalance</data>
+      <data key="d1">concept</data>
+      <data key="d2">An imbalance between the responsibilities placed on adolescents and their level of autonomy, contributing to evolutionary mismatch.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Actual Self-Ideal Self Gap">
+      <data key="d0">Actual Self-Ideal Self Gap</data>
+      <data key="d1">concept</data>
+      <data key="d2">The discrepancy between an adolescent's actual self and their ideal self, a source of distress.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="Peer Prioritization">
+      <data key="d0">Peer Prioritization</data>
+      <data key="d1">concept</data>
+      <data key="d2">The tendency for adolescents to prioritize peer relationships over other domains, a normal developmental behavior.</data>
+      <data key="d3">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d5">1784709548</data>
+      <data key="d6" />
+    </node>
+    <node id="GUIDANCE-TOPIC-HYPERMENTALIZING">
+      <data key="d0">GUIDANCE-TOPIC-HYPERMENTALIZING</data>
+      <data key="d1">concept</data>
+      <data key="d2">A topic identifier for a guidance framework addressing adolescent over-mentalizing.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Adolescent Over-Mentalizing">
+      <data key="d0">Adolescent Over-Mentalizing</data>
+      <data key="d1">concept</data>
+      <data key="d2">A cognitive pattern where adolescents make overly complex and definitive inferences about others' intentions, detached from observable facts.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Overthinking">
+      <data key="d0">Overthinking</data>
+      <data key="d1">concept</data>
+      <data key="d2">A related concept involving excessive thinking that is a clue for over-mentalizing.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Uncertainty">
+      <data key="d0">Uncertainty</data>
+      <data key="d1">concept</data>
+      <data key="d2">A state that the framework aims to restore tolerance for, as opposed to over-certainty in inference.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Observable Facts">
+      <data key="d0">Observable Facts</data>
+      <data key="d1">concept</data>
+      <data key="d2">Concrete, verifiable information that mentalizing should be grounded in.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Technique Identify and Challenge Over-Mentalizing">
+      <data key="d0">Technique Identify and Challenge Over-Mentalizing</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique to gently point out when an adolescent's thoughts may have jumped too far and invite them back to observable facts.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Step Distinguish Facts from Speculation">
+      <data key="d0">Step Distinguish Facts from Speculation</data>
+      <data key="d1">method</data>
+      <data key="d2">A step to help adolescents differentiate between what is known and what is guessed, encouraging openness to uncertainty.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Reply Examples">
+      <data key="d0">Reply Examples</data>
+      <data key="d1">content</data>
+      <data key="d2">Example responses illustrating how to apply the technique, such as asking about actual observations and distinguishing knowledge from guesses.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Avoidances">
+      <data key="d0">Avoidances</data>
+      <data key="d1">concept</data>
+      <data key="d2">Behaviors to avoid, including reinforcing over-speculation and directly negating thoughts without exploration.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Scope">
+      <data key="d0">Scope</data>
+      <data key="d1">concept</data>
+      <data key="d2">The intended application limited to low-risk, non-diagnostic psychological support; crisis situations are handled by fixed safety protocols.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Inaccurate Attribution of Others' Motives or Feelings">
+      <data key="d0">Inaccurate Attribution of Others' Motives or Feelings</data>
+      <data key="d1">concept</data>
+      <data key="d2">A clue for over-mentalizing where an adolescent makes incorrect assumptions about others' motives or feelings.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Feelings and Thoughts Jumping Too Many Steps from Reality">
+      <data key="d0">Feelings and Thoughts Jumping Too Many Steps from Reality</data>
+      <data key="d1">concept</data>
+      <data key="d2">A clue for over-mentalizing where feelings and thoughts leap excessively from observable reality.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Over-Inference of Others' Intentions">
+      <data key="d0">Over-Inference of Others' Intentions</data>
+      <data key="d1">concept</data>
+      <data key="d2">A clue for over-mentalizing involving excessive inference about what others intend.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="First Step Gently Point Out and Invite Back to Facts">
+      <data key="d0">First Step Gently Point Out and Invite Back to Facts</data>
+      <data key="d1">method</data>
+      <data key="d2">A step to gently point out that thoughts may have jumped too far and invite the adolescent back to observable facts.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Here-and-Now Feelings">
+      <data key="d0">Here-and-Now Feelings</data>
+      <data key="d1">concept</data>
+      <data key="d2">The present-moment feelings that the technique aims to help adolescents connect to.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="Over-Speculation">
+      <data key="d0">Over-Speculation</data>
+      <data key="d1">concept</data>
+      <data key="d2">Excessive speculation that should not be reinforced according to the avoidances.</data>
+      <data key="d3">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d5">1784709561</data>
+      <data key="d6" />
+    </node>
+    <node id="GUIDANCE-TOPIC-TELEOLOGICAL-MODE">
+      <data key="d0">GUIDANCE-TOPIC-TELEOLOGICAL-MODE</data>
+      <data key="d1">concept</data>
+      <data key="d2">A topic identifier for guidance on teleological mode in adolescents, focusing on connecting actions to mental states.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Teleological Mode">
+      <data key="d0">Teleological Mode</data>
+      <data key="d1">concept</data>
+      <data key="d2">A cognitive mode where individuals only consider concrete actions or external outcomes as real, making it difficult to explore mental states behind actions.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Action">
+      <data key="d0">Action</data>
+      <data key="d1">concept</data>
+      <data key="d2">Concrete behaviors or external results that adolescents in teleological mode focus on.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Mental State">
+      <data key="d0">Mental State</data>
+      <data key="d1">concept</data>
+      <data key="d2">Internal psychological states such as feelings and thoughts that the guidance aims to connect to actions.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Emotion">
+      <data key="d0">Emotion</data>
+      <data key="d1">concept</data>
+      <data key="d2">Feelings that may be difficult to identify in teleological mode; the guidance helps recognize them.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Feeling">
+      <data key="d0">Feeling</data>
+      <data key="d1">concept</data>
+      <data key="d2">One type of mental state; the guidance helps distinguish feelings from thoughts.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Thought">
+      <data key="d0">Thought</data>
+      <data key="d1">concept</data>
+      <data key="d2">One type of mental state; the guidance helps distinguish thoughts from feelings.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Curious and Non-judgmental Stance">
+      <data key="d0">Curious and Non-judgmental Stance</data>
+      <data key="d1">concept</data>
+      <data key="d2">The mentalizing stance recommended for the guidance, characterized by curiosity and lack of judgment.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Gentle Challenge">
+      <data key="d0">Gentle Challenge</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique used in the guidance to challenge the teleological mode gently through questioning.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Questioning">
+      <data key="d0">Questioning</data>
+      <data key="d1">method</data>
+      <data key="d2">The technique of asking questions to guide adolescents to explore feelings and thoughts behind actions.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Low-risk Non-diagnostic Direct Psychological Support">
+      <data key="d0">Low-risk Non-diagnostic Direct Psychological Support</data>
+      <data key="d1">method</data>
+      <data key="d2">The scope of application for this guidance; it is used for low-risk, non-diagnostic support.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Analogical Connection">
+      <data key="d0">Analogical Connection</data>
+      <data key="d1">concept</data>
+      <data key="d2">A technique to avoid during teleological mode, as it may not be appropriate.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Acting Without Thinking">
+      <data key="d0">Acting Without Thinking</data>
+      <data key="d1">concept</data>
+      <data key="d2">A behavioral clue of teleological mode where adolescents act impulsively without considering underlying mental states.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Confusion of Feelings and Thoughts">
+      <data key="d0">Confusion of Feelings and Thoughts</data>
+      <data key="d1">concept</data>
+      <data key="d2">A characteristic of teleological mode where adolescents have difficulty distinguishing between feelings and thoughts.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Attribution of Emotions to Concrete Events">
+      <data key="d0">Attribution of Emotions to Concrete Events</data>
+      <data key="d1">concept</data>
+      <data key="d2">A clue of teleological mode where emotional causes are attributed to specific observable events.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Concrete Actions as Evidence of Care">
+      <data key="d0">Concrete Actions as Evidence of Care</data>
+      <data key="d1">concept</data>
+      <data key="d2">A clue of teleological mode where only concrete actions are recognized as evidence of care.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Guidance Steps for Teleological Mode">
+      <data key="d0">Guidance Steps for Teleological Mode</data>
+      <data key="d1">method</data>
+      <data key="d2">The sequence of three steps in the guidance: identifying teleological mode signals, questioning, and distinguishing feelings and thoughts.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Identification of Teleological Mode Signals">
+      <data key="d0">Identification of Teleological Mode Signals</data>
+      <data key="d1">method</data>
+      <data key="d2">The first step of the guidance, recognizing signals such as focus on concrete actions and difficulty identifying emotions.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Distinguishing Feelings and Thoughts">
+      <data key="d0">Distinguishing Feelings and Thoughts</data>
+      <data key="d1">method</data>
+      <data key="d2">The third step of the guidance, helping adolescents differentiate between feelings and thoughts and reflect on interpersonal experiences.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Response Examples for Teleological Mode">
+      <data key="d0">Response Examples for Teleological Mode</data>
+      <data key="d1">content</data>
+      <data key="d2">Example responses that demonstrate questioning techniques, such as asking about alternative reasons for a friend not replying or exploring the consequences of extending therapy time.</data>
+      <data key="d3">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d5">1784709586</data>
+      <data key="d6" />
+    </node>
+    <node id="Psychic Equivalence">
+      <data key="d0">Psychic Equivalence</data>
+      <data key="d1">concept</data>
+      <data key="d2">A psychological state where inner feelings are experienced as absolute external reality, causing difficulty distinguishing internal thoughts from external facts.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Inner Feelings">
+      <data key="d0">Inner Feelings</data>
+      <data key="d1">concept</data>
+      <data key="d2">Subjective emotional experiences of an individual.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="External Reality">
+      <data key="d0">External Reality</data>
+      <data key="d1">concept</data>
+      <data key="d2">Objective facts and events outside the individual's mind.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Anxiety">
+      <data key="d0">Anxiety</data>
+      <data key="d1">concept</data>
+      <data key="d2">A feeling of worry or unease resulting from difficulty distinguishing inner feelings from external reality.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Distress">
+      <data key="d0">Distress</data>
+      <data key="d1">concept</data>
+      <data key="d2">Suffering or pain caused by psychic equivalence.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Individual">
+      <data key="d0">Individual</data>
+      <data key="d1">person</data>
+      <data key="d2">A person who experiences psychic equivalence and struggles to distinguish feelings from facts.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Multi-perspective Thinking">
+      <data key="d0">Multi-perspective Thinking</data>
+      <data key="d1">concept</data>
+      <data key="d2">The ability to consider alternative viewpoints and not be locked into a single interpretation.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Emotion Validation">
+      <data key="d0">Emotion Validation</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique of acknowledging and accepting the individual's feelings without judgment.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Alternative Perspective">
+      <data key="d0">Alternative Perspective</data>
+      <data key="d1">concept</data>
+      <data key="d2">A different way of interpreting a situation or feeling, used to challenge psychic equivalence.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Distinguishing Feelings from Facts">
+      <data key="d0">Distinguishing Feelings from Facts</data>
+      <data key="d1">concept</data>
+      <data key="d2">The goal of helping the individual separate subjective feelings from objective reality.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Direct Psychological Support">
+      <data key="d0">Direct Psychological Support</data>
+      <data key="d1">method</data>
+      <data key="d2">Non-diagnostic psychological assistance for low-risk situations, using the guidance.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Psychic Equivalence Guidance">
+      <data key="d0">Psychic Equivalence Guidance</data>
+      <data key="d1">content</data>
+      <data key="d2">The topic guidance document or framework for addressing psychic equivalence, including steps and examples.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Mentalization Stance">
+      <data key="d0">Mentalization Stance</data>
+      <data key="d1">concept</data>
+      <data key="d2">A psychological approach that involves validating emotions and adopting non-judgmental and non-hating attitudes.&lt;SEP&gt;The therapeutic stance that involves empathically understanding the adolescent's emotional experience and normalizing automatic mentalization responses under stress.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000&lt;SEP&gt;doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md&lt;SEP&gt;GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Non-judgmental Attitude">
+      <data key="d0">Non-judgmental Attitude</data>
+      <data key="d1">concept</data>
+      <data key="d2">An attitude of not judging or criticizing the adolescent's feelings, part of the mentalization stance.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Non-hating Attitude">
+      <data key="d0">Non-hating Attitude</data>
+      <data key="d1">concept</data>
+      <data key="d2">An attitude of not showing hatred or hostility toward the adolescent, part of the mentalization stance.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Perceiving Criticism as Threatening Attack">
+      <data key="d0">Perceiving Criticism as Threatening Attack</data>
+      <data key="d1">concept</data>
+      <data key="d2">A symptom of psychic equivalence where the individual interprets criticism as a threatening attack.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Rejecting Feelings as Literal Pain">
+      <data key="d0">Rejecting Feelings as Literal Pain</data>
+      <data key="d1">concept</data>
+      <data key="d2">A symptom of psychic equivalence where the individual rejects feelings as literal pain.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="Direct Denial of Feelings">
+      <data key="d0">Direct Denial of Feelings</data>
+      <data key="d1">concept</data>
+      <data key="d2">An action to be avoided in psychic equivalence guidance, where the adolescent's feelings are directly denied.</data>
+      <data key="d3">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d5">1784709608</data>
+      <data key="d6" />
+    </node>
+    <node id="High Emotional Arousal">
+      <data key="d0">High Emotional Arousal</data>
+      <data key="d1">concept</data>
+      <data key="d2">A state of elevated emotional temperature that leads to decreased mentalization capacity and non-mentalizing ways.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Mentalization Capacity">
+      <data key="d0">Mentalization Capacity</data>
+      <data key="d1">concept</data>
+      <data key="d2">The ability to understand one's own and others' mental states; decreases under high emotional arousal.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Non-Mentalizing Ways">
+      <data key="d0">Non-Mentalizing Ways</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ways of thinking and acting not based on mentalization, often occurring during high emotional arousal.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Emotional Temperature">
+      <data key="d0">Emotional Temperature</data>
+      <data key="d1">concept</data>
+      <data key="d2">A metaphor for the intensity of emotional arousal; the target is to lower it to restore mentalization.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Empathy">
+      <data key="d0">Empathy</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique used to understand and validate the adolescent's emotional experience, aiming to lower emotional temperature.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Mentalization Recovery">
+      <data key="d0">Mentalization Recovery</data>
+      <data key="d1">concept</data>
+      <data key="d2">The restoration of mentalization capacity after emotional temperature is lowered.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Emotion Regulation">
+      <data key="d0">Emotion Regulation</data>
+      <data key="d1">concept</data>
+      <data key="d2">The process of managing emotional states, relevant to the guidance topic.&lt;SEP&gt;The concept of regulating emotions.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000&lt;SEP&gt;doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md&lt;SEP&gt;GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Empathic Response">
+      <data key="d0">Empathic Response</data>
+      <data key="d1">method</data>
+      <data key="d2">A specific technique using empathy to acknowledge and validate the adolescent's emotions.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Identifying Signs of Elevated Emotional Temperature">
+      <data key="d0">Identifying Signs of Elevated Emotional Temperature</data>
+      <data key="d1">method</data>
+      <data key="d2">A step to recognize signals such as agitation, silence, or conflict indicating high emotional temperature.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Gently Exploring Inner State">
+      <data key="d0">Gently Exploring Inner State</data>
+      <data key="d1">method</data>
+      <data key="d2">A step after emotional temperature is lowered to explore the adolescent's inner state.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Automatic Mentalization Response">
+      <data key="d0">Automatic Mentalization Response</data>
+      <data key="d1">concept</data>
+      <data key="d2">An automatic mentalizing reaction that is normalized under stress and pressure.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Stress Response">
+      <data key="d0">Stress Response</data>
+      <data key="d1">concept</data>
+      <data key="d2">A general response to stress that can increase emotional temperature.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Social Exclusion Response">
+      <data key="d0">Social Exclusion Response</data>
+      <data key="d1">concept</data>
+      <data key="d2">A specific stress response related to social exclusion, increasing emotional temperature.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Academic Stress Response">
+      <data key="d0">Academic Stress Response</data>
+      <data key="d1">concept</data>
+      <data key="d2">A specific stress response related to academic pressure, increasing emotional temperature.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Guidance Topic Arousal">
+      <data key="d0">Guidance Topic Arousal</data>
+      <data key="d1">concept</data>
+      <data key="d2">Unique identifier for this guidance topic on high emotional arousal and mentalization.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Direct Mentalization Exploration">
+      <data key="d0">Direct Mentalization Exploration</data>
+      <data key="d1">method</data>
+      <data key="d2">An action to be avoided: directly exploring or explaining mentalization when emotional temperature is high.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Ignoring Emotional Temperature">
+      <data key="d0">Ignoring Emotional Temperature</data>
+      <data key="d1">method</data>
+      <data key="d2">An action to be avoided: ignoring emotional temperature and continuing the therapeutic agenda.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="Practitioner">
+      <data key="d0">Practitioner</data>
+      <data key="d1">person</data>
+      <data key="d2">The person providing psychological support following this guidance.</data>
+      <data key="d3">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d5">1784709610</data>
+      <data key="d6" />
+    </node>
+    <node id="GUIDANCE-TOPIC-AFFECT-IDENTIFICATION">
+      <data key="d0">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION</data>
+      <data key="d1">content</data>
+      <data key="d2">Identifier for a guidance topic on affect identification aimed at helping teenagers recognize and name emotions.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Difficulties In Emotion Naming And Vocabulary">
+      <data key="d0">Difficulties In Emotion Naming And Vocabulary</data>
+      <data key="d1">concept</data>
+      <data key="d2">Teenagers' difficulty in naming emotions and lack of vocabulary for emotional states, which limits interaction and regulation.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Inability To Name Emotions">
+      <data key="d0">Inability To Name Emotions</data>
+      <data key="d1">concept</data>
+      <data key="d2">A clue indicating that a teenager cannot name their emotions.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Unawareness Of Emotion Meanings">
+      <data key="d0">Unawareness Of Emotion Meanings</data>
+      <data key="d1">concept</data>
+      <data key="d2">A clue indicating that a teenager does not understand the meaning of emotions.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Emotion Regulation Difficulties">
+      <data key="d0">Emotion Regulation Difficulties</data>
+      <data key="d1">concept</data>
+      <data key="d2">A clue indicating that a teenager has difficulty regulating emotions.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Goal Of Emotion Identification And Regulation Enhancement">
+      <data key="d0">Goal Of Emotion Identification And Regulation Enhancement</data>
+      <data key="d1">concept</data>
+      <data key="d2">The goal to help teenagers identify, name, and contextualize emotions to enhance emotion regulation.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Emotion Labeling Technique">
+      <data key="d0">Emotion Labeling Technique</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique of identifying, naming, and contextualizing emotions to aid emotion regulation.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Steps Of Emotion Identification Naming And Contextualization">
+      <data key="d0">Steps Of Emotion Identification Naming And Contextualization</data>
+      <data key="d1">method</data>
+      <data key="d2">The steps of identifying, naming, and contextualizing emotions as part of the emotion labeling technique.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Avoidance Of Directly Telling Teenagers Their Feelings">
+      <data key="d0">Avoidance Of Directly Telling Teenagers Their Feelings</data>
+      <data key="d1">concept</data>
+      <data key="d2">The practice of avoiding directly telling a teenager what they should feel.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Emotion Naming">
+      <data key="d0">Emotion Naming</data>
+      <data key="d1">concept</data>
+      <data key="d2">The concept of naming emotions.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Emotion Recognition">
+      <data key="d0">Emotion Recognition</data>
+      <data key="d1">concept</data>
+      <data key="d2">The concept of recognizing emotions.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Emotion Labeling">
+      <data key="d0">Emotion Labeling</data>
+      <data key="d1">concept</data>
+      <data key="d2">The concept of labeling emotions.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Scope Of Use For Low Risk Non Diagnostic Support">
+      <data key="d0">Scope Of Use For Low Risk Non Diagnostic Support</data>
+      <data key="d1">concept</data>
+      <data key="d2">The scope indicating that the technique is for low-risk, non-diagnostic psychological support, with crisis scenarios handled by fixed safety protocols.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <node id="Teenagers">
+      <data key="d0">Teenagers</data>
+      <data key="d1">person</data>
+      <data key="d2">Adolescents who are the target group for the guidance topic on affect identification, experiencing difficulties in naming and regulating emotions.</data>
+      <data key="d3">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d4">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d5">1784709629</data>
+      <data key="d6" />
+    </node>
+    <edge source="Empathy Validation" target="Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathy Validation aims to restore mentalizing ability in adolescents.</data>
+      <data key="d9">restores</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathy Validation" target="Shared Platform">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathy Validation helps build a shared platform between the adolescent and the supporter.</data>
+      <data key="d9">builds</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathy Validation" target="Interpersonal Heat">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathy Validation reduces interpersonal heat in the interaction.</data>
+      <data key="d9">reduces</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathy Validation" target="Empathy Validation Stance">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathy validation stance is a key component of the empathy validation technique.</data>
+      <data key="d9">is part of</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathy Validation" target="Validation Stance">
+      <data key="d7">1.0</data>
+      <data key="d8">Validation stance is a component of empathy validation, focusing on sincere validation of feelings.</data>
+      <data key="d9">is part of</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathy Validation" target="Response Example">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathy Validation provides a response example to illustrate the technique.</data>
+      <data key="d9">has example</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathy Validation" target="Adolescent">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents receive empathy validation to restore mentalizing and reduce distress.</data>
+      <data key="d9">receives</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathy Validation" target="Crisis Scenario">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathy Validation is not applied to crisis scenarios; fixed safety protocols handle those.</data>
+      <data key="d9">not applicable to</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Psychic Equivalence Mode">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents may be in psychic equivalence mode, feeling that their internal experience matches reality.</data>
+      <data key="d9">experiences</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Non-Mentalizing State">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents may be in a non-mentalizing state, lacking reflective capacity.</data>
+      <data key="d9">experiences</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Emotional Dysregulation">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents experience emotional dysregulation as part of their dysregulated state.</data>
+      <data key="d9">experiences</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Empathy Validation Stance">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathy validation stance involves understanding the adolescent's experience.</data>
+      <data key="d9">understands</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Validation Stance">
+      <data key="d7">1.0</data>
+      <data key="d8">Validation stance sincerely validates the adolescent's feelings.</data>
+      <data key="d9">validates</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Epistemic Trust">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescent has damaged epistemic trust due to prior experiences.</data>
+      <data key="d9">damaged</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Social Information">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescent is skeptical of social information from others.</data>
+      <data key="d9">skeptical</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Professional Help">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescent is wary of professional help.</data>
+      <data key="d9">wary</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Accurate Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">Accurate mentalizing makes the adolescent feel seen and understood.</data>
+      <data key="d9">understands</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Safe Learning">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescent has impaired ability to safely learn due to damaged epistemic trust.</data>
+      <data key="d9">impaired</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Rigidity">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescent exhibits stubborn and rigid behavior.</data>
+      <data key="d9">exhibits</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Emotion Validation">
+      <data key="d7">1.0</data>
+      <data key="d8">Emotion validation is applied to the adolescent as the first step in the guidance.</data>
+      <data key="d9">applied to</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent" target="Alternative Perspective">
+      <data key="d7">1.0</data>
+      <data key="d8">An alternative perspective is introduced to the adolescent as the second step in the guidance.</data>
+      <data key="d9">applied to</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Crisis Scenario" target="Fixed Safety Protocols">
+      <data key="d7">1.0</data>
+      <data key="d8">Crisis scenarios are managed using fixed safety protocols instead of empathy validation.</data>
+      <data key="d9">handled by</data>
+      <data key="d10">doc-24d5ade8ad59b6565d41682f-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EMPATHY-VALIDATION.md</data>
+      <data key="d12">1784709486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Crisis Scenario" target="Fixed Safety Protocol">
+      <data key="d7">1.0</data>
+      <data key="d8">Crisis scenarios are handled by the fixed safety protocol.</data>
+      <data key="d9">handled by</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Fixed Safety Protocols" target="Scope">
+      <data key="d7">1.0</data>
+      <data key="d8">Scope delegates crisis scenarios to fixed safety protocols.</data>
+      <data key="d9">delegates</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Fixed Safety Protocols" target="Crisis Scenarios">
+      <data key="d7">2.0</data>
+      <data key="d8">Fixed safety protocols handle crisis scenarios separately from this guidance.&lt;SEP&gt;Crisis scenarios are managed by fixed safety protocols.</data>
+      <data key="d9">are handled by,handles</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000&lt;SEP&gt;doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md&lt;SEP&gt;GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Misattribution">
+      <data key="d7">1.0</data>
+      <data key="d8">Misattribution from caregivers leads to the formation of the alien self in adolescents.</data>
+      <data key="d9">forms,leads to</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Shame-driven Self-attack">
+      <data key="d7">1.0</data>
+      <data key="d8">The alien self manifests as shame-driven self-attack.</data>
+      <data key="d9">manifests as</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Relational Source">
+      <data key="d7">1.0</data>
+      <data key="d8">The alien self originates from relational sources, particularly interactions with caregivers.</data>
+      <data key="d9">originates from</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Internalization">
+      <data key="d7">1.0</data>
+      <data key="d8">Internalization of caregivers' views forms the alien self.</data>
+      <data key="d9">forms</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Persistent Self-criticism">
+      <data key="d7">2.0</data>
+      <data key="d8">Persistent self-criticism is internalized into the alien self through the process of internalization.&lt;SEP&gt;The alien self includes persistent self-criticism as a core component.</data>
+      <data key="d9">includes,is internalized into</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Self-loathing">
+      <data key="d7">2.0</data>
+      <data key="d8">Self-loathing is internalized into the alien self through the process of internalization.&lt;SEP&gt;The alien self includes self-loathing as a core component.</data>
+      <data key="d9">includes,is internalized into</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Expected Failure">
+      <data key="d7">2.0</data>
+      <data key="d8">Expected failure is internalized into the alien self through the process of internalization.&lt;SEP&gt;The alien self includes the expectation of failure as a core component.</data>
+      <data key="d9">includes,is internalized into</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Self-hatred">
+      <data key="d7">2.0</data>
+      <data key="d8">Self-hatred is internalized into the alien self through the process of internalization.&lt;SEP&gt;The alien self includes self-hatred as a core component.</data>
+      <data key="d9">includes,is internalized into</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Shame">
+      <data key="d7">1.0</data>
+      <data key="d8">Shame is internalized into the alien self through the process of internalization.</data>
+      <data key="d9">is internalized into</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Despair">
+      <data key="d7">1.0</data>
+      <data key="d8">Despair is internalized into the alien self through the process of internalization.</data>
+      <data key="d9">is internalized into</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alien Self" target="Adolescents">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents experience the alien self as an internal presence of persistent self-criticism and self-hatred.</data>
+      <data key="d9">experience</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Shame" target="Adolescents">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents experience feelings of shame.</data>
+      <data key="d9">experience</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Shame" target="Shame-driven Self-attack">
+      <data key="d7">1.0</data>
+      <data key="d8">Shame-driven self-attack is driven by feelings of shame.</data>
+      <data key="d9">driven by</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Shame" target="Changes In Social Understanding">
+      <data key="d7">1.0</data>
+      <data key="d8">Changes in social understanding cause feelings of shame in adolescents.</data>
+      <data key="d9">causes</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Shame" target="Enhanced Self-awareness">
+      <data key="d7">1.0</data>
+      <data key="d8">Enhanced self-awareness causes feelings of shame in adolescents.</data>
+      <data key="d9">causes</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Self-hatred" target="Adolescents">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents experience self-hatred.</data>
+      <data key="d9">experience</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Self-hatred" target="Changes In Social Understanding">
+      <data key="d7">1.0</data>
+      <data key="d8">Changes in social understanding cause feelings of self-hatred in adolescents.</data>
+      <data key="d9">causes</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Self-hatred" target="Enhanced Self-awareness">
+      <data key="d7">1.0</data>
+      <data key="d8">Enhanced self-awareness causes feelings of self-hatred in adolescents.</data>
+      <data key="d9">causes</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Self-loathing" target="Adolescents">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents experience self-loathing.</data>
+      <data key="d9">experience</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Persistent Self-criticism" target="Adolescents">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents experience persistent self-criticism.</data>
+      <data key="d9">experience</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Expected Failure" target="Adolescents">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents experience expected failure.</data>
+      <data key="d9">experience</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Despair" target="Adolescents">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents experience despair.</data>
+      <data key="d9">experience</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescents" target="Mentalizing Stance">
+      <data key="d7">1.0</data>
+      <data key="d8">The mentalizing stance is used when interacting with adolescents to explore their subjective experience.</data>
+      <data key="d9">used with</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescents" target="Patient">
+      <data key="d7">1.0</data>
+      <data key="d8">In this context, patients refer to adolescents undergoing mental health support.</data>
+      <data key="d9">refers to</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescents" target="Adolescent Over-Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents are the individuals who exhibit over-mentalizing.</data>
+      <data key="d9">affects</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescents" target="Technique Identify and Challenge Over-Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">This technique is applied to adolescents who over-mentalize.</data>
+      <data key="d9">applied to</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescents" target="Teleological Mode">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents may exhibit teleological mode, focusing on concrete actions.</data>
+      <data key="d9">exhibited by</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescents" target="Empathic Response">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathic response acknowledges and validates the adolescent's emotional experience.</data>
+      <data key="d9">acknowledges and validates</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescents" target="Stress Response">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescents experience stress responses.</data>
+      <data key="d9">experience</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescents" target="Mentalization Stance">
+      <data key="d7">1.0</data>
+      <data key="d8">Mentalization Stance is applied to understand adolescents' emotional experiences.</data>
+      <data key="d9">targets</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Caregivers" target="Misattribution">
+      <data key="d7">1.0</data>
+      <data key="d8">Caregivers perform misattributions that contribute to the formation of the alien self.</data>
+      <data key="d9">cause,perform</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Non-blaming Curiosity" target="Mentalizing The Alien Self">
+      <data key="d7">1.0</data>
+      <data key="d8">The technique of mentalizing the alien self uses non-blaming curiosity.</data>
+      <data key="d9">involves,uses</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalization" target="Mentalizing The Alien Self">
+      <data key="d7">1.0</data>
+      <data key="d8">The technique of mentalizing the alien self uses mentalization.</data>
+      <data key="d9">involves,uses</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalization" target="Questioning">
+      <data key="d7">1.0</data>
+      <data key="d8">Questioning is used to promote mentalization by exploring mental states.</data>
+      <data key="d9">promotes</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalization" target="GUIDANCE-TOPIC-TELEOLOGICAL-MODE">
+      <data key="d7">1.0</data>
+      <data key="d8">Promoting mentalization is the goal of this guidance.</data>
+      <data key="d9">goal of</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing The Alien Self" target="Relational Source">
+      <data key="d7">1.0</data>
+      <data key="d8">The technique explores the relational source of the alien self.</data>
+      <data key="d9">explores</data>
+      <data key="d10">doc-c67b74097efa61deeed03804-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ALIEN-SELF-SHAME.md</data>
+      <data key="d12">1784709493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Epistemic Trust" target="Joint Attention">
+      <data key="d7">1.0</data>
+      <data key="d8">Joint attention helps build epistemic trust in the adolescent.</data>
+      <data key="d9">builds</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Epistemic Trust" target="Therapist">
+      <data key="d7">1.0</data>
+      <data key="d8">Therapist aims to restore epistemic trust in the adolescent.</data>
+      <data key="d9">restores</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Epistemic Trust" target="Affect Regulation">
+      <data key="d7">1.0</data>
+      <data key="d8">Affect regulation helps build epistemic trust in the adolescent.</data>
+      <data key="d9">builds</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Epistemic Trust" target="Prior Experiences">
+      <data key="d7">1.0</data>
+      <data key="d8">Prior experiences caused damage to epistemic trust.</data>
+      <data key="d9">damaged</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Epistemic Trust" target="Accurate Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">Accurate mentalizing repairs damaged epistemic trust.</data>
+      <data key="d9">repairs</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Therapist">
+      <data key="d7">1.0</data>
+      <data key="d8">Therapist adopts the mentalizing stance to understand the adolescent.</data>
+      <data key="d9">adopts</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Tentative Language Technique">
+      <data key="d7">1.0</data>
+      <data key="d8">The mentalizing stance includes the use of tentative language technique to express curiosity.</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Collaborative Exploration">
+      <data key="d7">1.0</data>
+      <data key="d8">The mentalizing stance involves collaborative exploration of feelings with the adolescent.</data>
+      <data key="d9">involves</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="GUIDANCE-TOPIC-MENTALIZING-STANCE">
+      <data key="d7">1.0</data>
+      <data key="d8">The topic identifier describes the mentalizing stance guidance.</data>
+      <data key="d9">describes</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Low-Risk Non-Diagnostic Direct Psychological Support">
+      <data key="d7">1.0</data>
+      <data key="d8">The low-risk support scope applies to the use of mentalizing stance.</data>
+      <data key="d9">applies to</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Non-Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">Non-mentalizing states are addressed by applying the mentalizing stance.</data>
+      <data key="d9">addressed by</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Cooperative Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">The mentalizing stance aims to restore cooperative mentalizing in the adolescent.</data>
+      <data key="d9">aims to restore</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Curiosity">
+      <data key="d7">1.0</data>
+      <data key="d8">The mentalizing stance includes clear curiosity as a key component.</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Not-Knowing">
+      <data key="d7">1.0</data>
+      <data key="d8">The mentalizing stance includes a not-knowing stance.</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Non-Expert">
+      <data key="d7">1.0</data>
+      <data key="d8">The mentalizing stance includes a non-expert attitude.</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Pathologization">
+      <data key="d7">1.0</data>
+      <data key="d8">The mentalizing stance avoids pathologizing adolescent behaviors.</data>
+      <data key="d9">avoids</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Intergenerational Connection">
+      <data key="d7">1.0</data>
+      <data key="d8">The mentalizing stance promotes intergenerational connection.</data>
+      <data key="d9">promotes</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance topic adopts a mentalizing stance.</data>
+      <data key="d9">adopts,includes</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Uncertainty">
+      <data key="d7">1.0</data>
+      <data key="d8">Mentalizing stance acknowledges uncertainty as normal.</data>
+      <data key="d9">acknowledges</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Observable Facts">
+      <data key="d7">1.0</data>
+      <data key="d8">Mentalizing stance aims to ground thinking in observable facts.</data>
+      <data key="d9">grounded in</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Technique Identify and Challenge Over-Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">This technique is derived from the mentalizing stance.</data>
+      <data key="d9">derived from</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalizing Stance" target="Adolescent Over-Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">The mentalizing stance is used to address over-mentalizing.</data>
+      <data key="d9">addresses</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joint Attention" target="Therapist">
+      <data key="d7">1.0</data>
+      <data key="d8">Therapist uses joint attention as a technique to build epistemic trust.</data>
+      <data key="d9">uses</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Affect Regulation" target="Therapist">
+      <data key="d7">1.0</data>
+      <data key="d8">Therapist uses affect regulation as a technique to build epistemic trust.</data>
+      <data key="d9">uses</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Accurate Mentalizing" target="Therapist">
+      <data key="d7">1.0</data>
+      <data key="d8">Therapist performs accurate mentalizing to demonstrate understanding.</data>
+      <data key="d9">performs</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Therapist" target="Safe Learning">
+      <data key="d7">1.0</data>
+      <data key="d8">Therapist aims to restore safe learning ability in the adolescent.</data>
+      <data key="d9">restores</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Safety Protocol" target="Crisis Scenarios">
+      <data key="d7">1.0</data>
+      <data key="d8">Safety protocol handles crisis scenarios.</data>
+      <data key="d9">handles</data>
+      <data key="d10">doc-e6096597a635e16f1d5f64ea-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-EPISTEMIC-TRUST.md</data>
+      <data key="d12">1784709504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Crisis Scenarios" target="Scope Of Use For Low Risk Non Diagnostic Support">
+      <data key="d7">1.0</data>
+      <data key="d8">The scope excludes crisis scenarios, which are handled by fixed safety protocols.</data>
+      <data key="d9">excludes</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Patient" target="Non-Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">Patients exhibit non-mentalizing states such as absolute statements and lack of curiosity.</data>
+      <data key="d9">exhibits</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tentative Language Technique" target="Curiosity">
+      <data key="d7">1.0</data>
+      <data key="d8">Curiosity is expressed through the use of tentative language technique.</data>
+      <data key="d9">expressed through</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Fixed Safety Protocol" target="Low-Risk Non-Diagnostic Direct Psychological Support">
+      <data key="d7">1.0</data>
+      <data key="d8">The fixed safety protocol is distinct from the low-risk support guidance.</data>
+      <data key="d9">distinct from</data>
+      <data key="d10">doc-c5160492e097bac38980aeda-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-MENTALIZING-STANCE.md</data>
+      <data key="d12">1784709531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Fixed Safety Protocol" target="GUIDANCE-TOPIC-TELEOLOGICAL-MODE">
+      <data key="d7">1.0</data>
+      <data key="d8">Fixed safety protocols handle crisis scenarios separately from this guidance.</data>
+      <data key="d9">handles separate</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Fixed Safety Protocol" target="Direct Psychological Support">
+      <data key="d7">1.0</data>
+      <data key="d8">Direct psychological support does not apply to crisis scenarios; fixed safety protocol handles crises.</data>
+      <data key="d9">excluded in crisis</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Low-Risk Non-Diagnostic Direct Psychological Support" target="Guidance Topic Arousal">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance topic is scoped for low-risk non-diagnostic direct psychological support.</data>
+      <data key="d9">has scope</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT" target="Agency">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance topic aims to enhance adolescent agency.</data>
+      <data key="d9">aims to enhance</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT" target="Developmental Scaffolding">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance topic uses developmental scaffolding as a technique.</data>
+      <data key="d9">technique,uses</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT" target="Autonomy">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance topic aims to enhance adolescent autonomy.</data>
+      <data key="d9">aims to enhance</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT" target="Adolescent Development">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance topic addresses adolescent development.</data>
+      <data key="d9">addresses,topic</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT" target="Low-Risk Non-Diagnostic Psychological Support">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance topic is scoped for low-risk non-diagnostic psychological support.</data>
+      <data key="d9">scope of</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT" target="Crisis Safety Protocol">
+      <data key="d7">1.0</data>
+      <data key="d8">The crisis safety protocol is separate from the guidance topic and handles crisis scenarios.</data>
+      <data key="d9">separate from</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT" target="Normalization">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance topic promotes normalization of adolescent behaviors.</data>
+      <data key="d9">includes,promotes</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Development" target="Autonomy">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescent development includes the developmental task of autonomy.</data>
+      <data key="d9">component,includes</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Development" target="Peer Relationships">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescent development includes the developmental task of peer relationships.</data>
+      <data key="d9">component,includes</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Development" target="Identity">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescent development includes the developmental task of identity.</data>
+      <data key="d9">component,includes</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Development" target="Peer Prioritization">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescent development often includes peer prioritization as a manifestation.</data>
+      <data key="d9">includes,manifestation</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Development" target="Actual Self-Ideal Self Gap">
+      <data key="d7">1.0</data>
+      <data key="d8">Adolescent development may involve an actual self-ideal self gap.</data>
+      <data key="d9">may involve</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Evolutionary Mismatch" target="Adaptive Difficulties">
+      <data key="d7">1.0</data>
+      <data key="d8">Evolutionary mismatch causes adaptive difficulties in adolescents.</data>
+      <data key="d9">causes,leads to</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Evolutionary Mismatch" target="Lack Of Adult Role Models">
+      <data key="d7">1.0</data>
+      <data key="d8">Evolutionary mismatch includes the lack of adult role models as an example.</data>
+      <data key="d9">example,includes</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Evolutionary Mismatch" target="Responsibility-Autonomy Imbalance">
+      <data key="d7">1.0</data>
+      <data key="d8">Evolutionary mismatch includes the responsibility-autonomy imbalance as an example.</data>
+      <data key="d9">example,includes</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Developmental Scaffolding" target="Adaptive Developmental Trajectory">
+      <data key="d7">1.0</data>
+      <data key="d8">Developmental scaffolding aims to help adolescents return to an adaptive developmental trajectory.</data>
+      <data key="d9">aims to promote</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Developmental Scaffolding" target="Agency">
+      <data key="d7">1.0</data>
+      <data key="d8">Developmental scaffolding enhances adolescent agency.</data>
+      <data key="d9">enhances</data>
+      <data key="d10">doc-cbd65c5b9066cfdab9aefc4e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT.md</data>
+      <data key="d12">1784709548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-HYPERMENTALIZING" target="Adolescent Over-Mentalizing">
+      <data key="d7">1.0</data>
+      <data key="d8">This topic identifies and provides guidance for adolescent over-mentalizing.</data>
+      <data key="d9">addresses,defines</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-HYPERMENTALIZING" target="Scope">
+      <data key="d7">1.0</data>
+      <data key="d8">Scope defines the limits of this topic's application.</data>
+      <data key="d9">limits</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Over-Mentalizing" target="Overthinking">
+      <data key="d7">1.0</data>
+      <data key="d8">Overthinking is a clue associated with over-mentalizing.</data>
+      <data key="d9">related to</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Over-Mentalizing" target="Uncertainty">
+      <data key="d7">1.0</data>
+      <data key="d8">Over-mentalizing reduces tolerance for uncertainty.</data>
+      <data key="d9">reduces</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Over-Mentalizing" target="Observable Facts">
+      <data key="d7">1.0</data>
+      <data key="d8">Over-mentalizing is detached from observable facts.</data>
+      <data key="d9">detached from</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Over-Mentalizing" target="Inaccurate Attribution of Others' Motives or Feelings">
+      <data key="d7">1.0</data>
+      <data key="d8">This clue indicates the presence of over-mentalizing.</data>
+      <data key="d9">clue for</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Over-Mentalizing" target="Feelings and Thoughts Jumping Too Many Steps from Reality">
+      <data key="d7">1.0</data>
+      <data key="d8">This clue indicates the presence of over-mentalizing.</data>
+      <data key="d9">clue for</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adolescent Over-Mentalizing" target="Over-Inference of Others' Intentions">
+      <data key="d7">1.0</data>
+      <data key="d8">This clue indicates the presence of over-mentalizing.</data>
+      <data key="d9">clue for</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technique Identify and Challenge Over-Mentalizing" target="Step Distinguish Facts from Speculation">
+      <data key="d7">1.0</data>
+      <data key="d8">This step is part of the technique.</data>
+      <data key="d9">part of</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technique Identify and Challenge Over-Mentalizing" target="Reply Examples">
+      <data key="d7">1.0</data>
+      <data key="d8">Reply examples illustrate the technique.</data>
+      <data key="d9">illustrates</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technique Identify and Challenge Over-Mentalizing" target="Avoidances">
+      <data key="d7">1.0</data>
+      <data key="d8">Avoidances are behaviors not to do when applying the technique.</data>
+      <data key="d9">contrasts</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technique Identify and Challenge Over-Mentalizing" target="First Step Gently Point Out and Invite Back to Facts">
+      <data key="d7">1.0</data>
+      <data key="d8">This step is part of the technique for over-mentalizing.</data>
+      <data key="d9">part of</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technique Identify and Challenge Over-Mentalizing" target="Here-and-Now Feelings">
+      <data key="d7">1.0</data>
+      <data key="d8">The technique helps adolescents connect to here-and-now feelings.</data>
+      <data key="d9">connects to</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Avoidances" target="Over-Speculation">
+      <data key="d7">1.0</data>
+      <data key="d8">The avoidances state that reinforcing over-speculation should be avoided.</data>
+      <data key="d9">prohibits reinforcing</data>
+      <data key="d10">doc-2b72bc71b9ce39347784bb98-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-HYPERMENTALIZING.md</data>
+      <data key="d12">1784709561</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-TELEOLOGICAL-MODE" target="Teleological Mode">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance topic addresses the teleological mode in adolescents.</data>
+      <data key="d9">addresses</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-TELEOLOGICAL-MODE" target="Feeling">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance helps distinguish feelings from thoughts.</data>
+      <data key="d9">helps distinguish</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-TELEOLOGICAL-MODE" target="Thought">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance helps distinguish thoughts from feelings.</data>
+      <data key="d9">helps distinguish</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-TELEOLOGICAL-MODE" target="Curious and Non-judgmental Stance">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance adopts a curious and non-judgmental mentalizing stance.</data>
+      <data key="d9">stance of</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-TELEOLOGICAL-MODE" target="Low-risk Non-diagnostic Direct Psychological Support">
+      <data key="d7">1.0</data>
+      <data key="d8">This guidance is applied to low-risk, non-diagnostic direct psychological support.</data>
+      <data key="d9">applies to</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-TELEOLOGICAL-MODE" target="Guidance Steps for Teleological Mode">
+      <data key="d7">1.0</data>
+      <data key="d8">The guidance steps are part of the teleological mode guidance topic, providing a structured method.</data>
+      <data key="d9">method,part of</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Teleological Mode" target="Action">
+      <data key="d7">1.0</data>
+      <data key="d8">Teleological mode leads individuals to focus on concrete actions.</data>
+      <data key="d9">focuses on</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Teleological Mode" target="Mental State">
+      <data key="d7">1.0</data>
+      <data key="d8">Teleological mode makes it difficult to explore mental states behind actions.</data>
+      <data key="d9">hinders exploration of</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Teleological Mode" target="Emotion">
+      <data key="d7">1.0</data>
+      <data key="d8">In teleological mode, emotions are difficult to identify.</data>
+      <data key="d9">makes difficult to identify</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Teleological Mode" target="Analogical Connection">
+      <data key="d7">1.0</data>
+      <data key="d8">During teleological mode, analogical connections should be avoided.</data>
+      <data key="d9">avoids</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Teleological Mode" target="Acting Without Thinking">
+      <data key="d7">1.0</data>
+      <data key="d8">Acting without thinking is a characteristic clue of teleological mode in adolescents.</data>
+      <data key="d9">characteristic</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Teleological Mode" target="Confusion of Feelings and Thoughts">
+      <data key="d7">1.0</data>
+      <data key="d8">Confusion of feelings and thoughts is a characteristic of teleological mode.</data>
+      <data key="d9">characteristic</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Teleological Mode" target="Attribution of Emotions to Concrete Events">
+      <data key="d7">1.0</data>
+      <data key="d8">Attributing emotions to concrete events is a characteristic clue of teleological mode.</data>
+      <data key="d9">characteristic,clue</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Teleological Mode" target="Concrete Actions as Evidence of Care">
+      <data key="d7">1.0</data>
+      <data key="d8">Recognizing only concrete actions as evidence of care is a characteristic clue of teleological mode.</data>
+      <data key="d9">characteristic,clue</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gentle Challenge" target="Questioning">
+      <data key="d7">1.0</data>
+      <data key="d8">Gentle challenge is a technique within questioning.</data>
+      <data key="d9">part of</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Questioning" target="Guidance Steps for Teleological Mode">
+      <data key="d7">1.0</data>
+      <data key="d8">Questioning is the second step in the guidance steps for teleological mode.</data>
+      <data key="d9">step</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Questioning" target="Response Examples for Teleological Mode">
+      <data key="d7">1.0</data>
+      <data key="d8">The response examples illustrate the questioning technique used to explore mental states.</data>
+      <data key="d9">example,illustrates</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Guidance Steps for Teleological Mode" target="Identification of Teleological Mode Signals">
+      <data key="d7">1.0</data>
+      <data key="d8">Identification of teleological mode signals is the first step in the guidance steps.</data>
+      <data key="d9">step</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Guidance Steps for Teleological Mode" target="Distinguishing Feelings and Thoughts">
+      <data key="d7">1.0</data>
+      <data key="d8">Distinguishing feelings and thoughts is the third step in the guidance steps.</data>
+      <data key="d9">step</data>
+      <data key="d10">doc-25e2ba2136d79300ee648940-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-TELEOLOGICAL-MODE.md</data>
+      <data key="d12">1784709586</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Psychic Equivalence" target="Individual">
+      <data key="d7">1.0</data>
+      <data key="d8">Psychic equivalence causes the individual to have difficulty distinguishing inner feelings from external reality.</data>
+      <data key="d9">causes,difficulty</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Psychic Equivalence" target="Perceiving Criticism as Threatening Attack">
+      <data key="d7">1.0</data>
+      <data key="d8">Perceiving criticism as a threatening attack is a symptom of psychic equivalence.</data>
+      <data key="d9">symptom of</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Psychic Equivalence" target="Rejecting Feelings as Literal Pain">
+      <data key="d7">1.0</data>
+      <data key="d8">Rejecting feelings as literal pain is a symptom of psychic equivalence.</data>
+      <data key="d9">symptom of</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Anxiety" target="Individual">
+      <data key="d7">1.0</data>
+      <data key="d8">The individual experiences anxiety as a result of psychic equivalence.</data>
+      <data key="d9">experiences</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Distress" target="Individual">
+      <data key="d7">1.0</data>
+      <data key="d8">The individual experiences distress as a result of psychic equivalence.</data>
+      <data key="d9">experiences</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Multi-perspective Thinking" target="Distinguishing Feelings from Facts">
+      <data key="d7">1.0</data>
+      <data key="d8">Distinguishing feelings from facts enables the individual to restore multi-perspective thinking.</data>
+      <data key="d9">enables</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Validation" target="Distinguishing Feelings from Facts">
+      <data key="d7">1.0</data>
+      <data key="d8">Emotion validation is used to help the individual distinguish feelings from facts.</data>
+      <data key="d9">used to achieve</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Validation" target="Mentalization Stance">
+      <data key="d7">1.0</data>
+      <data key="d8">Mentalization stance includes the technique of validating emotions.</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Validation" target="Alternative Perspective">
+      <data key="d7">1.0</data>
+      <data key="d8">Emotion validation and alternative perspective are combined as a single technique to guide the individual.</data>
+      <data key="d9">combined in technique</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alternative Perspective" target="Distinguishing Feelings from Facts">
+      <data key="d7">1.0</data>
+      <data key="d8">Introducing alternative perspectives helps the individual distinguish feelings from facts.</data>
+      <data key="d9">used to achieve</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Direct Psychological Support" target="Psychic Equivalence Guidance">
+      <data key="d7">1.0</data>
+      <data key="d8">Psychic equivalence guidance is applied in direct psychological support for low-risk scenarios.</data>
+      <data key="d9">applies to</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Psychic Equivalence Guidance" target="Direct Denial of Feelings">
+      <data key="d7">1.0</data>
+      <data key="d8">Direct denial of feelings is an action that is avoided in psychic equivalence guidance.</data>
+      <data key="d9">avoided by</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Psychic Equivalence Guidance" target="Mentalization Stance">
+      <data key="d7">1.0</data>
+      <data key="d8">Psychic equivalence guidance uses the mentalization stance as its foundation.</data>
+      <data key="d9">uses</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalization Stance" target="Non-judgmental Attitude">
+      <data key="d7">1.0</data>
+      <data key="d8">Mentalization stance includes maintaining a non-judgmental attitude.</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalization Stance" target="Non-hating Attitude">
+      <data key="d7">1.0</data>
+      <data key="d8">Mentalization stance includes maintaining a non-hating attitude.</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-6cf41428683918a1a6480b7e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE.md</data>
+      <data key="d12">1784709608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalization Stance" target="Empathy">
+      <data key="d7">1.0</data>
+      <data key="d8">Mentalization Stance uses empathy to understand adolescents.</data>
+      <data key="d9">incorporates,uses</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalization Stance" target="Automatic Mentalization Response">
+      <data key="d7">1.0</data>
+      <data key="d8">Mentalization Stance normalizes automatic mentalization responses under stress.</data>
+      <data key="d9">normalizes</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="High Emotional Arousal" target="Mentalization Capacity">
+      <data key="d7">1.0</data>
+      <data key="d8">High emotional arousal leads to a decrease in mentalization capacity.</data>
+      <data key="d9">causes decrease</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="High Emotional Arousal" target="Non-Mentalizing Ways">
+      <data key="d7">1.0</data>
+      <data key="d8">High emotional arousal results in thinking and acting in non-mentalizing ways.</data>
+      <data key="d9">leads to</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="High Emotional Arousal" target="Emotional Temperature">
+      <data key="d7">1.0</data>
+      <data key="d8">Emotional temperature is a measure of the intensity of high emotional arousal.</data>
+      <data key="d9">is indicator of</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="High Emotional Arousal" target="Stress Response">
+      <data key="d7">1.0</data>
+      <data key="d8">High emotional arousal enhances stress response.</data>
+      <data key="d9">enhances</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="High Emotional Arousal" target="Ignoring Emotional Temperature">
+      <data key="d7">1.0</data>
+      <data key="d8">High emotional arousal contraindicates ignoring emotional temperature.</data>
+      <data key="d9">contraindicates</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="High Emotional Arousal" target="Direct Mentalization Exploration">
+      <data key="d7">1.0</data>
+      <data key="d8">High emotional arousal contraindicates direct mentalization exploration.</data>
+      <data key="d9">contraindicates</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mentalization Capacity" target="Mentalization Recovery">
+      <data key="d7">1.0</data>
+      <data key="d8">Mentalization recovery restores mentalization capacity.</data>
+      <data key="d9">restores</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotional Temperature" target="Empathy">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathy is used to lower emotional temperature.</data>
+      <data key="d9">lowers</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathy" target="Mentalization Recovery">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathy facilitates mentalization recovery by lowering emotional temperature.</data>
+      <data key="d9">facilitates</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathy" target="Empathic Response">
+      <data key="d7">1.0</data>
+      <data key="d8">Empathy is the core technique used in empathic response.</data>
+      <data key="d9">is technique of</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Regulation" target="Goal Of Emotion Identification And Regulation Enhancement">
+      <data key="d7">1.0</data>
+      <data key="d8">The goal aims to enhance emotion regulation.</data>
+      <data key="d9">aims to enhance</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Regulation" target="Emotion Labeling Technique">
+      <data key="d7">1.0</data>
+      <data key="d8">The technique supports emotion regulation.</data>
+      <data key="d9">supports</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathic Response" target="Identifying Signs of Elevated Emotional Temperature">
+      <data key="d7">1.0</data>
+      <data key="d8">Identifying signs of elevated emotional temperature is a step before using empathic response.</data>
+      <data key="d9">precedes</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathic Response" target="Gently Exploring Inner State">
+      <data key="d7">1.0</data>
+      <data key="d8">After empathic response and lowering emotional temperature, gently exploring inner state follows.</data>
+      <data key="d9">precedes</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Empathic Response" target="Practitioner">
+      <data key="d7">1.0</data>
+      <data key="d8">Practitioner uses empathic response to acknowledge and validate adolescent emotions.</data>
+      <data key="d9">uses</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Automatic Mentalization Response" target="Stress Response">
+      <data key="d7">1.0</data>
+      <data key="d8">Automatic mentalization response is normalized under stress response.</data>
+      <data key="d9">is normalized under</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Stress Response" target="Social Exclusion Response">
+      <data key="d7">1.0</data>
+      <data key="d8">Stress response includes social exclusion response.</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Stress Response" target="Academic Stress Response">
+      <data key="d7">1.0</data>
+      <data key="d8">Stress response includes academic stress response.</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Guidance Topic Arousal" target="Practitioner">
+      <data key="d7">1.0</data>
+      <data key="d8">Guidance Topic Arousal guides practitioners in providing support.</data>
+      <data key="d9">guides</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Direct Mentalization Exploration" target="Practitioner">
+      <data key="d7">1.0</data>
+      <data key="d8">Practitioner should avoid direct mentalization exploration when emotional temperature is high.</data>
+      <data key="d9">avoids</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ignoring Emotional Temperature" target="Practitioner">
+      <data key="d7">1.0</data>
+      <data key="d8">Practitioner should avoid ignoring emotional temperature and continuing the therapeutic agenda.</data>
+      <data key="d9">avoids</data>
+      <data key="d10">doc-2526c2542d1fb9e5640b1a30-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AROUSAL.md</data>
+      <data key="d12">1784709610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-AFFECT-IDENTIFICATION" target="Difficulties In Emotion Naming And Vocabulary">
+      <data key="d7">1.0</data>
+      <data key="d8">The topic addresses the difficulty teenagers face in naming emotions and lacking vocabulary.</data>
+      <data key="d9">addresses</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-AFFECT-IDENTIFICATION" target="Goal Of Emotion Identification And Regulation Enhancement">
+      <data key="d7">1.0</data>
+      <data key="d8">The topic has the goal to help teenagers identify, name, and contextualize emotions.</data>
+      <data key="d9">has goal</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-AFFECT-IDENTIFICATION" target="Emotion Labeling Technique">
+      <data key="d7">1.0</data>
+      <data key="d8">The topic uses the emotion labeling technique.</data>
+      <data key="d9">uses</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GUIDANCE-TOPIC-AFFECT-IDENTIFICATION" target="Scope Of Use For Low Risk Non Diagnostic Support">
+      <data key="d7">1.0</data>
+      <data key="d8">The topic has a scope for low-risk, non-diagnostic support.</data>
+      <data key="d9">has scope</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Difficulties In Emotion Naming And Vocabulary" target="Inability To Name Emotions">
+      <data key="d7">1.0</data>
+      <data key="d8">The inability to name emotions indicates the difficulty in emotion naming and vocabulary.</data>
+      <data key="d9">indicates</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Difficulties In Emotion Naming And Vocabulary" target="Unawareness Of Emotion Meanings">
+      <data key="d7">1.0</data>
+      <data key="d8">The unawareness of emotion meanings indicates the difficulty in emotion naming and vocabulary.</data>
+      <data key="d9">indicates</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Difficulties In Emotion Naming And Vocabulary" target="Emotion Regulation Difficulties">
+      <data key="d7">1.0</data>
+      <data key="d8">Emotion regulation difficulties indicate the difficulty in emotion naming and vocabulary.</data>
+      <data key="d9">indicates</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Difficulties In Emotion Naming And Vocabulary" target="Teenagers">
+      <data key="d7">1.0</data>
+      <data key="d8">Teenagers experience difficulty in naming emotions and lack of vocabulary for emotional states.</data>
+      <data key="d9">experience</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Goal Of Emotion Identification And Regulation Enhancement" target="Teenagers">
+      <data key="d7">1.0</data>
+      <data key="d8">Teenagers are the target group for the goal of enhancing emotion identification and regulation.</data>
+      <data key="d9">are target of</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Labeling Technique" target="Steps Of Emotion Identification Naming And Contextualization">
+      <data key="d7">1.0</data>
+      <data key="d8">The technique includes steps of identifying, naming, and contextualizing emotions.</data>
+      <data key="d9">includes</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Labeling Technique" target="Avoidance Of Directly Telling Teenagers Their Feelings">
+      <data key="d7">1.0</data>
+      <data key="d8">The technique avoids directly telling teenagers their feelings.</data>
+      <data key="d9">avoids</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Labeling Technique" target="Emotion Naming">
+      <data key="d7">1.0</data>
+      <data key="d8">The technique involves emotion naming.</data>
+      <data key="d9">involves</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Labeling Technique" target="Emotion Recognition">
+      <data key="d7">1.0</data>
+      <data key="d8">The technique involves emotion recognition.</data>
+      <data key="d9">involves</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Labeling Technique" target="Emotion Labeling">
+      <data key="d7">1.0</data>
+      <data key="d8">The technique involves emotion labeling.</data>
+      <data key="d9">involves</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Emotion Labeling Technique" target="Teenagers">
+      <data key="d7">1.0</data>
+      <data key="d8">Teenagers are the recipients of the emotion labeling technique.</data>
+      <data key="d9">receive</data>
+      <data key="d10">doc-cf58af1984b50a1dcb11591e-chunk-000</data>
+      <data key="d11">GUIDANCE-TOPIC-AFFECT-IDENTIFICATION.md</data>
+      <data key="d12">1784709629</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

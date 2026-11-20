@@ -1,0 +1,119 @@
+{
+  "cleaning_version": "atom-cleaning-v1.0",
+  "inputs": {
+    "chunks": "/data/users/wyh/teen_mh_agent/knowledge_work/response_guidance_v2/chunks.jsonl",
+    "atoms": "/data/users/wyh/teen_mh_agent/knowledge_work/response_guidance_v2/atoms.jsonl"
+  },
+  "parameters": {
+    "max_evidence_chars": 800
+  },
+  "counts": {
+    "records": 763,
+    "raw_atoms": 2955,
+    "cleaned_atoms": 2861,
+    "excluded_atoms": 94,
+    "raw_validation_errors": 1892,
+    "near_duplicate_groups_for_review": 62
+  },
+  "exclusions": {
+    "evidence_too_long": 3,
+    "trailing_index": 81,
+    "exact_duplicate": 10
+  },
+  "trailing_index_start_pages": {
+    "MBT-A-PRACTICAL-GUIDE-2021": 216,
+    "MBT-PRACTICAL-GUIDE-2016": 477
+  },
+  "population_counts": {
+    "adult": 1629,
+    "general": 1516,
+    "child": 260,
+    "adolescent": 949,
+    "parent": 10,
+    "infant": 92,
+    "family": 359,
+    "clinician": 21,
+    "caregiver": 1,
+    "school": 7,
+    "young_adult": 2
+  },
+  "clinical_population_counts": {
+    "borderline_personality_disorder": 68,
+    "antisocial_personality_disorder": 71,
+    "conduct_disorder": 10,
+    "depression": 5,
+    "clinical_patient": 1,
+    "group_participant": 3,
+    "personality_disorder": 3,
+    "narcissistic_personality": 1,
+    "insecure_attachment": 2,
+    "gender_diverse": 13,
+    "at_risk": 1,
+    "service_system": 1
+  },
+  "population_detail_counts": {
+    "borderline personality disorder": 2,
+    "borderline_personality_disorder": 2,
+    "BPD": 8,
+    "反社会型人格障碍": 28,
+    "品行问题": 2,
+    "反社会人格障碍": 5,
+    "反社会型人格障碍个体": 4,
+    "成人边缘型人格障碍": 2,
+    "边缘型人格障碍患者": 8,
+    "共病反社会型人格障碍的边缘型人格障碍患者": 1,
+    "BPD患者": 8,
+    "抑郁患者": 1,
+    "无BPD的抑郁患者": 1,
+    "共病边缘型人格障碍的抑郁症患者": 2,
+    "无共病边缘型人格障碍的抑郁症患者": 1,
+    "患者": 1,
+    "严重边缘性人格障碍患者": 1,
+    "反社会型人格障碍患者": 18,
+    "ASPD": 12,
+    "ASPD成人": 3,
+    "团体治疗参与者": 3,
+    "families of patients with borderline personality disorder": 1,
+    "边缘型人格障碍患者的家庭": 2,
+    "边缘型人格障碍患者的家庭/照顾者": 1,
+    "family members of individuals with BPD": 9,
+    "family members": 5,
+    "persons with BPD": 1,
+    "family presenters": 1,
+    "严重边缘型人格障碍患者": 4,
+    "严重人格障碍症患者": 2,
+    "边缘型患者": 14,
+    "自恋患者": 1,
+    "adolescent female": 1,
+    "insecurely attached": 2,
+    "gender diverse": 6,
+    "gender diverse young people": 5,
+    "transgender adolescent": 2,
+    "品行障碍青少年": 1,
+    "conduct disorder": 7,
+    "at-risk adolescent": 1,
+    "adolescent with emerging personality disorders": 1,
+    "service system": 1
+  },
+  "by_source": {
+    "MBT-PRACTICAL-GUIDE-2016": {
+      "raw_atoms": 1516,
+      "cleaned_atoms": 1458,
+      "excluded:evidence_too_long": 2,
+      "excluded:trailing_index": 56
+    },
+    "MENTALIZING-DEVELOPMENT-CHINESE": {
+      "raw_atoms": 582,
+      "cleaned_atoms": 577,
+      "excluded:exact_duplicate": 5
+    },
+    "MBT-A-PRACTICAL-GUIDE-2021": {
+      "raw_atoms": 857,
+      "cleaned_atoms": 826,
+      "excluded:evidence_too_long": 1,
+      "excluded:exact_duplicate": 5,
+      "excluded:trailing_index": 25
+    }
+  },
+  "output": "/data/users/wyh/teen_mh_agent/knowledge_work/response_guidance_v2/atoms_cleaned.jsonl"
+}

@@ -1,0 +1,71 @@
+{
+  "manifest_version": "1.0",
+  "corpus_id": "response-guidance-core-v2",
+  "description": "Primary mentalization sources for evidence-grounded adolescent response guidance.",
+  "sources": [
+    {
+      "source_id": "MBT-PRACTICAL-GUIDE-2016",
+      "title": "Mentalization-Based Treatment for Personality Disorders: A Practical Guide",
+      "authors": ["Anthony Bateman", "Peter Fonagy"],
+      "year": 2016,
+      "edition": "2nd edition",
+      "source_type": "treatment_manual",
+      "knowledge_role": "core_theory",
+      "priority": "primary",
+      "population": ["adult", "general"],
+      "language": "en",
+      "file_name": "mentalization-based-treatment-for-personality-disorders-a-practical-guide-lingua-inglese-1nbsped-019968037x-9780199680375_compress.pdf",
+      "enabled": true,
+      "required": true,
+      "license_status": "local_research_copy_requires_user_confirmation",
+      "notes": "Core MBT concepts, dimensions, non-mentalizing modes, stance, technique, and intervention hierarchy. Adult guidance must not be silently generalized to adolescents."
+    },
+    {
+      "source_id": "MENTALIZING-DEVELOPMENT-CHINESE",
+      "title": "心智化：依附关系、情感调节、自我发展",
+      "authors": ["Peter Fonagy", "Gyorgy Gergely", "Elliot Jurist", "Mary Target"],
+      "year": 2002,
+      "edition": "local Chinese translation",
+      "source_type": "foundational_theory",
+      "knowledge_role": "core_theory",
+      "priority": "primary",
+      "population": ["child", "adolescent", "adult", "general"],
+      "language": "zh",
+      "file_name": "心智化-依附关系-情感调节-自我发展.pdf",
+      "enabled": true,
+      "required": true,
+      "license_status": "local_research_copy_requires_user_confirmation",
+      "notes": "Foundational developmental, attachment, affect-regulation, and self-development theory."
+    },
+    {
+      "source_id": "MBT-A-PRACTICAL-GUIDE-2021",
+      "title": "Mentalization-Based Treatment for Adolescents: A Practical Treatment Guide",
+      "authors": ["Trudie Rossouw", "Maria Wiwe", "Ioanna Vrouva"],
+      "year": 2021,
+      "edition": "1st edition",
+      "doi": "10.4324/9780429323928",
+      "isbn": ["9780367341015", "9780367341039", "9780429323928"],
+      "source_type": "adolescent_treatment_manual",
+      "knowledge_role": "adolescent_adaptation",
+      "priority": "primary",
+      "population": ["adolescent", "family"],
+      "language": "en",
+      "file_name": "Mentalization-Based-Treatment-for-Adolescents-a-Practical-Trudie-Rossouw-Maria-Wiwe-Ioanna-Vrouva-.pdf",
+      "enabled": true,
+      "required": true,
+      "license_status": "user_must_supply_lawfully_acquired_copy",
+      "notes": "Primary adolescent adaptation. The pipeline must not substitute previews, summaries, or unofficial web copies for this source."
+    }
+  ],
+  "future_source_policy": {
+    "allowed_roles": [
+      "core_theory",
+      "adolescent_adaptation",
+      "quality_and_safety",
+      "case_reference"
+    ],
+    "default_enabled": false,
+    "default_review_status": "candidate_source",
+    "rule": "New sources require manifest metadata, lawful-access confirmation, corpus-role assignment, and human approval before extraction."
+  }
+}

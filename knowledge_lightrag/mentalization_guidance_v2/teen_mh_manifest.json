@@ -1,0 +1,21 @@
+{
+  "created_at": "2026-07-22T08:04:33+00:00",
+  "source": "/workspace/teen_mh_agent/knowledge_work/response_guidance_v2/guidance_candidates_final.jsonl",
+  "cards": 10,
+  "topics": [
+    "GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT",
+    "GUIDANCE-TOPIC-AFFECT-IDENTIFICATION",
+    "GUIDANCE-TOPIC-ALIEN-SELF-SHAME",
+    "GUIDANCE-TOPIC-AROUSAL",
+    "GUIDANCE-TOPIC-EMPATHY-VALIDATION",
+    "GUIDANCE-TOPIC-EPISTEMIC-TRUST",
+    "GUIDANCE-TOPIC-HYPERMENTALIZING",
+    "GUIDANCE-TOPIC-MENTALIZING-STANCE",
+    "GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE",
+    "GUIDANCE-TOPIC-TELEOLOGICAL-MODE"
+  ],
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dim": 384,
+  "llm_model": "deepseek-v4-flash",
+  "runtime_scope": "direct_support only"
+}

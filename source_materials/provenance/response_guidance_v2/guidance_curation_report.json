@@ -1,0 +1,20 @@
+{
+  "curation_version": "guidance-manual-revisions-v1.0",
+  "source_cards": 16,
+  "curated_cards": 16,
+  "revised_cards": [
+    "GUIDE-V2-REV-7959a45edfd0c514",
+    "GUIDE-V2-REV-c55384600f95f0ab"
+  ],
+  "carried_pass_verifications": 14,
+  "pending_reverification": 2,
+  "scope_counts": {
+    "direct_support": 10,
+    "family_session": 1,
+    "professional_network": 1,
+    "clinician_planning": 3,
+    "crisis_only": 1
+  },
+  "cards_output": "/workspace/teen_mh_agent/knowledge_work/response_guidance_v2/guidance_candidates_curated.jsonl",
+  "verification_output": "/workspace/teen_mh_agent/knowledge_work/response_guidance_v2/guidance_verification_curated.jsonl"
+}

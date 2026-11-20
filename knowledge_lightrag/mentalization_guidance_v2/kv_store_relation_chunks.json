@@ -1,0 +1,3258 @@
+{
+  "Adolescent<SEP>Teleological Mode": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescent<SEP>Teleological Mode"
+  },
+  "Crisis Scenarios<SEP>Fixed Safety Protocols": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-002",
+      "doc-2b72bc71b9ce39347784bb98-chunk-002",
+      "doc-c67b74097efa61deeed03804-chunk-004",
+      "doc-6cf41428683918a1a6480b7e-chunk-002",
+      "doc-e6096597a635e16f1d5f64ea-chunk-002",
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 6,
+    "update_time": 1784707472,
+    "_id": "Crisis Scenarios<SEP>Fixed Safety Protocols"
+  },
+  "Adolescents<SEP>GUIDANCE-TOPIC-TELEOLOGICAL-MODE": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescents<SEP>GUIDANCE-TOPIC-TELEOLOGICAL-MODE"
+  },
+  "Analogical Connections<SEP>Teleological Mode": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Analogical Connections<SEP>Teleological Mode"
+  },
+  "Adolescent<SEP>Low Risk Non Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescent<SEP>Low Risk Non Diagnostic Direct Psychological Support"
+  },
+  "Actions<SEP>Adolescents": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Actions<SEP>Adolescents"
+  },
+  "Concrete Observable Events<SEP>Emotional Causes": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Concrete Observable Events<SEP>Emotional Causes"
+  },
+  "Actions And Mental States<SEP>Teleological Mode": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Actions And Mental States<SEP>Teleological Mode"
+  },
+  "Caring<SEP>Concrete Actions": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Caring<SEP>Concrete Actions"
+  },
+  "Adolescents<SEP>External Results": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescents<SEP>External Results"
+  },
+  "Feelings<SEP>Thoughts": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Feelings<SEP>Thoughts"
+  },
+  "Actions And Mental States<SEP>Mentalization": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Actions And Mental States<SEP>Mentalization"
+  },
+  "Goal<SEP>Mental States": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Goal<SEP>Mental States"
+  },
+  "Adolescents<SEP>Mental States": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescents<SEP>Mental States"
+  },
+  "Goal<SEP>Mentalization": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Goal<SEP>Mentalization"
+  },
+  "Gentle Challenge<SEP>Mentalizing Stance": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Gentle Challenge<SEP>Mentalizing Stance"
+  },
+  "Adolescents<SEP>Emotions": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescents<SEP>Emotions"
+  },
+  "Behavior<SEP>Goal": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Behavior<SEP>Goal"
+  },
+  "Gentle Challenge<SEP>Teleological Demands": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Gentle Challenge<SEP>Teleological Demands"
+  },
+  "Adolescents<SEP>Goal": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescents<SEP>Goal"
+  },
+  "Gentle Challenge<SEP>Teleological Mode": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Gentle Challenge<SEP>Teleological Mode"
+  },
+  "Acting Without Thinking<SEP>Adolescents": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Acting Without Thinking<SEP>Adolescents"
+  },
+  "Distinguishing Feelings and Thoughts<SEP>Gentle Challenge": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Distinguishing Feelings and Thoughts<SEP>Gentle Challenge"
+  },
+  "Adolescents<SEP>Teleological Demands": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescents<SEP>Teleological Demands"
+  },
+  "Gentle Challenge<SEP>Reflecting on Interpersonal Experiences": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Gentle Challenge<SEP>Reflecting on Interpersonal Experiences"
+  },
+  "Teleological Demands<SEP>Teleological Mode": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Teleological Demands<SEP>Teleological Mode"
+  },
+  "Example Response<SEP>Gentle Challenge": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Example Response<SEP>Gentle Challenge"
+  },
+  "Adolescents<SEP>Gentle Challenge": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescents<SEP>Gentle Challenge"
+  },
+  "Adolescents<SEP>Mentalizing Stance": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescents<SEP>Mentalizing Stance"
+  },
+  "Adolescents<SEP>Teleological Mode": {
+    "chunk_ids": [
+      "doc-25e2ba2136d79300ee648940-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "Adolescents<SEP>Teleological Mode"
+  },
+  "Curiosity<SEP>Mentalizing Stance": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Curiosity<SEP>Mentalizing Stance"
+  },
+  "Challenging Over-mentalizing Technique<SEP>Over-mentalizing": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Challenging Over-mentalizing Technique<SEP>Over-mentalizing"
+  },
+  "Mentalizing Stance<SEP>Uncertainty": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Mentalizing Stance<SEP>Uncertainty"
+  },
+  "Guiding Back to Observable Facts Step<SEP>Over-mentalizing": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Guiding Back to Observable Facts Step<SEP>Over-mentalizing"
+  },
+  "Adolescent<SEP>Challenging Over-mentalizing Technique": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescent<SEP>Challenging Over-mentalizing Technique"
+  },
+  "Guiding Back to Observable Facts Step<SEP>Observable Facts": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Guiding Back to Observable Facts Step<SEP>Observable Facts"
+  },
+  "Challenging Over-mentalizing Technique<SEP>Here-and-now Feelings": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Challenging Over-mentalizing Technique<SEP>Here-and-now Feelings"
+  },
+  "Fact<SEP>Guiding Back to Observable Facts Step": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Fact<SEP>Guiding Back to Observable Facts Step"
+  },
+  "Adolescent Hyper-Mentalizing<SEP>GUIDANCE-TOPIC-HYPERMENTALIZING": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescent Hyper-Mentalizing<SEP>GUIDANCE-TOPIC-HYPERMENTALIZING"
+  },
+  "Guiding Back to Observable Facts Step<SEP>Speculation": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Guiding Back to Observable Facts Step<SEP>Speculation"
+  },
+  "Adolescent Hyper-Mentalizing<SEP>Overthinking": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescent Hyper-Mentalizing<SEP>Overthinking"
+  },
+  "Adolescent<SEP>Guiding Back to Observable Facts Step": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescent<SEP>Guiding Back to Observable Facts Step"
+  },
+  "Adolescent Hyper-Mentalizing<SEP>Inaccurate Attribution of Others' Motives or Feelings": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescent Hyper-Mentalizing<SEP>Inaccurate Attribution of Others' Motives or Feelings"
+  },
+  "Guiding Back to Observable Facts Step<SEP>Uncertainty": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Guiding Back to Observable Facts Step<SEP>Uncertainty"
+  },
+  "Adolescent<SEP>Mentalizing Stance": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescent<SEP>Mentalizing Stance"
+  },
+  "Adolescent Hyper-Mentalizing<SEP>Thoughts and Feelings Leaping Too Many Steps from Reality": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescent Hyper-Mentalizing<SEP>Thoughts and Feelings Leaping Too Many Steps from Reality"
+  },
+  "Reduce Hyper-Mentalizing Goal<SEP>Tolerance for Uncertainty": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Reduce Hyper-Mentalizing Goal<SEP>Tolerance for Uncertainty"
+  },
+  "Adolescents<SEP>Psychological Support Guidelines": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescents<SEP>Psychological Support Guidelines"
+  },
+  "Adolescent<SEP>Over-mentalizing": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescent<SEP>Over-mentalizing"
+  },
+  "Adolescent Hyper-Mentalizing<SEP>Overinference of Others' Intentions": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescent Hyper-Mentalizing<SEP>Overinference of Others' Intentions"
+  },
+  "Observable Facts<SEP>Reduce Hyper-Mentalizing Goal": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Observable Facts<SEP>Reduce Hyper-Mentalizing Goal"
+  },
+  "Psychological Support Guidelines<SEP>Response Examples": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Psychological Support Guidelines<SEP>Response Examples"
+  },
+  "Adolescent Hyper-Mentalizing<SEP>Reduce Hyper-Mentalizing Goal": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescent Hyper-Mentalizing<SEP>Reduce Hyper-Mentalizing Goal"
+  },
+  "Low-Risk Non-Diagnostic Direct Psychological Support<SEP>Psychological Support Guidelines": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Low-Risk Non-Diagnostic Direct Psychological Support<SEP>Psychological Support Guidelines"
+  },
+  "Adolescents<SEP>Response Examples": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Adolescents<SEP>Response Examples"
+  },
+  "Over-Speculation<SEP>Psychological Support Guidelines": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Over-Speculation<SEP>Psychological Support Guidelines"
+  },
+  "Direct Denial Without Exploration<SEP>Psychological Support Guidelines": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Direct Denial Without Exploration<SEP>Psychological Support Guidelines"
+  },
+  "Crisis Scenarios<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002",
+      "doc-6cf41428683918a1a6480b7e-chunk-002"
+    ],
+    "count": 2,
+    "update_time": 1784707276,
+    "_id": "Crisis Scenarios<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Over-Mentalization<SEP>Psychological Support Guidelines": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Over-Mentalization<SEP>Psychological Support Guidelines"
+  },
+  "Overthinking<SEP>Psychological Support Guidelines": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Overthinking<SEP>Psychological Support Guidelines"
+  },
+  "Psychological Support Guidelines<SEP>Uncertainty": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Psychological Support Guidelines<SEP>Uncertainty"
+  },
+  "Observable Facts<SEP>Psychological Support Guidelines": {
+    "chunk_ids": [
+      "doc-2b72bc71b9ce39347784bb98-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "Observable Facts<SEP>Psychological Support Guidelines"
+  },
+  "Inner Critic<SEP>Others' Judgments": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Inner Critic<SEP>Others' Judgments"
+  },
+  "Second Response Example<SEP>Self-Hatred": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Second Response Example<SEP>Self-Hatred"
+  },
+  "Adolescents<SEP>Shame": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001",
+      "doc-c67b74097efa61deeed03804-chunk-002",
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 3,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Adolescents<SEP>Shame"
+  },
+  "First Response Example<SEP>Inner Critic": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "First Response Example<SEP>Inner Critic"
+  },
+  "Alien Self<SEP>Second Response Example": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Second Response Example"
+  },
+  "Self-Attack<SEP>Shame": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Self-Attack<SEP>Shame"
+  },
+  "Others' Judgments<SEP>Second Response Example": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Others' Judgments<SEP>Second Response Example"
+  },
+  "Alien Self<SEP>Caregivers": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Caregivers"
+  },
+  "Mentalizing Stance<SEP>Non-blaming Curiosity": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Mentalizing Stance<SEP>Non-blaming Curiosity"
+  },
+  "Adolescents<SEP>Self-Attack": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Adolescents<SEP>Self-Attack"
+  },
+  "Mentalizing Alien Self Technique<SEP>Mentalizing Stance": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Mentalizing Alien Self Technique<SEP>Mentalizing Stance"
+  },
+  "Critical Voice<SEP>Self-Criticism": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Critical Voice<SEP>Self-Criticism"
+  },
+  "Alien Self<SEP>Mentalizing Alien Self Technique": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Mentalizing Alien Self Technique"
+  },
+  "Mentalizing Alien Self Technique<SEP>Pressure": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Mentalizing Alien Self Technique<SEP>Pressure"
+  },
+  "Alien Self<SEP>Self-Attack": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Self-Attack"
+  },
+  "Adolescents<SEP>Mentalizing Alien Self Technique": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Adolescents<SEP>Mentalizing Alien Self Technique"
+  },
+  "Alien Self<SEP>True Self": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>True Self"
+  },
+  "Adolescents<SEP>Despair": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Adolescents<SEP>Despair"
+  },
+  "Alien Self<SEP>Strict Part": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Strict Part"
+  },
+  "Past Others<SEP>Self-Hatred": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Past Others<SEP>Self-Hatred"
+  },
+  "Gentle Curiosity<SEP>Self-Criticism": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Gentle Curiosity<SEP>Self-Criticism"
+  },
+  "Adolescents<SEP>Failure Feeling": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Adolescents<SEP>Failure Feeling"
+  },
+  "Alien Self<SEP>Self-Hatred": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-002",
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 2,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Self-Hatred"
+  },
+  "Gentle Curiosity<SEP>Shame": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Gentle Curiosity<SEP>Shame"
+  },
+  "Adolescents<SEP>Self-Criticism": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Adolescents<SEP>Self-Criticism"
+  },
+  "Alien Self<SEP>Past Others": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Past Others"
+  },
+  "GUIDANCE-TOPIC-ALIEN-SELF-SHAME<SEP>Shame": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "GUIDANCE-TOPIC-ALIEN-SELF-SHAME<SEP>Shame"
+  },
+  "GUIDANCE-TOPIC-ALIEN-SELF-SHAME<SEP>Self-Hatred": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "GUIDANCE-TOPIC-ALIEN-SELF-SHAME<SEP>Self-Hatred"
+  },
+  "GUIDANCE-TOPIC-ALIEN-SELF-SHAME<SEP>Self-Loathing": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "GUIDANCE-TOPIC-ALIEN-SELF-SHAME<SEP>Self-Loathing"
+  },
+  "Shame<SEP>Social Understanding Changes": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Shame<SEP>Social Understanding Changes"
+  },
+  "GUIDANCE-TOPIC-ALIEN-SELF-SHAME<SEP>Persistent Self-Criticism": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "GUIDANCE-TOPIC-ALIEN-SELF-SHAME<SEP>Persistent Self-Criticism"
+  },
+  "Self-Awareness Enhancement<SEP>Shame": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Self-Awareness Enhancement<SEP>Shame"
+  },
+  "Self-Hatred<SEP>Social Understanding Changes": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Self-Hatred<SEP>Social Understanding Changes"
+  },
+  "GUIDANCE-TOPIC-ALIEN-SELF-SHAME<SEP>Lack of Internal Recognition": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "GUIDANCE-TOPIC-ALIEN-SELF-SHAME<SEP>Lack of Internal Recognition"
+  },
+  "Self-Awareness Enhancement<SEP>Self-Hatred": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Self-Awareness Enhancement<SEP>Self-Hatred"
+  },
+  "Alien Self<SEP>Shame": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Shame"
+  },
+  "Adolescents<SEP>GUIDANCE-TOPIC-ALIEN-SELF-SHAME": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Adolescents<SEP>GUIDANCE-TOPIC-ALIEN-SELF-SHAME"
+  },
+  "Alien Self<SEP>Self-Loathing": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Self-Loathing"
+  },
+  "Anticipated Failure<SEP>GUIDANCE-TOPIC-ALIEN-SELF-SHAME": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Anticipated Failure<SEP>GUIDANCE-TOPIC-ALIEN-SELF-SHAME"
+  },
+  "Adolescents<SEP>Self-Hatred": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Adolescents<SEP>Self-Hatred"
+  },
+  "Alien Self<SEP>Persistent Self-Criticism": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Persistent Self-Criticism"
+  },
+  "Alien Self<SEP>Anticipated Failure": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Alien Self<SEP>Anticipated Failure"
+  },
+  "Adolescents<SEP>Alien Self": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Adolescents<SEP>Alien Self"
+  },
+  "Adolescents<SEP>Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-c67b74097efa61deeed03804-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "Adolescents<SEP>Direct Psychological Support"
+  },
+  "Anxiety And Distress<SEP>Psychic Equivalence": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Anxiety And Distress<SEP>Psychic Equivalence"
+  },
+  "Mentalizing Stance<SEP>Validating Emotions": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Mentalizing Stance<SEP>Validating Emotions"
+  },
+  "Perceiving Criticism As Threatening Attack<SEP>Psychic Equivalence": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Perceiving Criticism As Threatening Attack<SEP>Psychic Equivalence"
+  },
+  "Mentalizing Stance<SEP>Non-judgmental": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Mentalizing Stance<SEP>Non-judgmental"
+  },
+  "Psychic Equivalence<SEP>Rejecting Feelings As Literal Pain": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Psychic Equivalence<SEP>Rejecting Feelings As Literal Pain"
+  },
+  "Mentalizing Stance<SEP>Non-hating": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Mentalizing Stance<SEP>Non-hating"
+  },
+  "Teenagers<SEP>Validating Emotions": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Teenagers<SEP>Validating Emotions"
+  },
+  "Goal Of Distinguishing Feelings From Facts<SEP>Psychic Equivalence": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Goal Of Distinguishing Feelings From Facts<SEP>Psychic Equivalence"
+  },
+  "Alternative Perspective<SEP>Validating Emotions": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Alternative Perspective<SEP>Validating Emotions"
+  },
+  "Mentalizing Stance<SEP>Teenagers": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Mentalizing Stance<SEP>Teenagers"
+  },
+  "Psychic Equivalence<SEP>Treating Inner Thoughts As Reality": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Psychic Equivalence<SEP>Treating Inner Thoughts As Reality"
+  },
+  "Goal Of Distinguishing Feelings From Facts<SEP>Multi-Perspective Thinking": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Goal Of Distinguishing Feelings From Facts<SEP>Multi-Perspective Thinking"
+  },
+  "Alternative Perspective<SEP>Internal Feelings": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Alternative Perspective<SEP>Internal Feelings"
+  },
+  "Example Response<SEP>Mentalizing Stance": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Example Response<SEP>Mentalizing Stance"
+  },
+  "Inability To Distinguish Internal State From External Reality<SEP>Psychic Equivalence": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Inability To Distinguish Internal State From External Reality<SEP>Psychic Equivalence"
+  },
+  "Mentalizing Steps<SEP>Mentalizing Technique": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Mentalizing Steps<SEP>Mentalizing Technique"
+  },
+  "Alternative Perspective<SEP>External Reality": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Alternative Perspective<SEP>External Reality"
+  },
+  "Example Response<SEP>Validating Emotions": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Example Response<SEP>Validating Emotions"
+  },
+  "Mentalizing Stance<SEP>Mentalizing Technique": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Mentalizing Stance<SEP>Mentalizing Technique"
+  },
+  "Mentalizing Steps<SEP>Validating Emotions": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Mentalizing Steps<SEP>Validating Emotions"
+  },
+  "Alternative Perspective<SEP>Example Response": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Alternative Perspective<SEP>Example Response"
+  },
+  "Mentalizing Technique<SEP>Validating Emotions": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Mentalizing Technique<SEP>Validating Emotions"
+  },
+  "Mentalizing Steps<SEP>Teenagers": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Mentalizing Steps<SEP>Teenagers"
+  },
+  "Distinguish Feelings From Facts<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Distinguish Feelings From Facts<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Example Response<SEP>Mentalizing Technique": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Example Response<SEP>Mentalizing Technique"
+  },
+  "Low-Risk Non-Diagnostic Direct Psychological Support<SEP>Validate Emotions": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Low-Risk Non-Diagnostic Direct Psychological Support<SEP>Validate Emotions"
+  },
+  "Alternative Perspective<SEP>Mentalizing Technique": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Alternative Perspective<SEP>Mentalizing Technique"
+  },
+  "Example Response<SEP>Mentalizing Steps": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Example Response<SEP>Mentalizing Steps"
+  },
+  "Low-Risk Non-Diagnostic Direct Psychological Support<SEP>Psychological Equivalence": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Low-Risk Non-Diagnostic Direct Psychological Support<SEP>Psychological Equivalence"
+  },
+  "Alternative Perspective<SEP>Mentalizing Steps": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Alternative Perspective<SEP>Mentalizing Steps"
+  },
+  "Direct Negation Of Teenagers' Feelings<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Direct Negation Of Teenagers' Feelings<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Direct Negation Of Teenagers' Feelings<SEP>Teenagers": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Direct Negation Of Teenagers' Feelings<SEP>Teenagers"
+  },
+  "Alternative Perspective<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-6cf41428683918a1a6480b7e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "Alternative Perspective<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Adolescent<SEP>Mentalization Stance": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Adolescent<SEP>Mentalization Stance"
+  },
+  "Shared Attention<SEP>Therapist": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Shared Attention<SEP>Therapist"
+  },
+  "Emotional Regulation<SEP>Therapist": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Emotional Regulation<SEP>Therapist"
+  },
+  "Mentalization Stance<SEP>Therapist": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Mentalization Stance<SEP>Therapist"
+  },
+  "Adolescent<SEP>Therapist": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Adolescent<SEP>Therapist"
+  },
+  "Cognitive Trust<SEP>Mentalization Stance": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Cognitive Trust<SEP>Mentalization Stance"
+  },
+  "Open And Non-Coercive Stance<SEP>Therapist": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Open And Non-Coercive Stance<SEP>Therapist"
+  },
+  "Cognitive Trust<SEP>Shared Attention": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Cognitive Trust<SEP>Shared Attention"
+  },
+  "Sample Response<SEP>Therapist": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Sample Response<SEP>Therapist"
+  },
+  "Adolescent<SEP>Open And Non-Coercive Stance": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Adolescent<SEP>Open And Non-Coercive Stance"
+  },
+  "Cognitive Trust<SEP>Emotional Regulation": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Cognitive Trust<SEP>Emotional Regulation"
+  },
+  "Low-Risk Non-Diagnostic Direct Psychological Support<SEP>Safe Learning": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Low-Risk Non-Diagnostic Direct Psychological Support<SEP>Safe Learning"
+  },
+  "Mentalization Stance<SEP>Open And Non-Coercive Stance": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Mentalization Stance<SEP>Open And Non-Coercive Stance"
+  },
+  "Adolescent<SEP>Sample Response": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Adolescent<SEP>Sample Response"
+  },
+  "Being Understood<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Being Understood<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Adolescents<SEP>GUIDANCE-TOPIC-EPISTEMIC-TRUST": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Adolescents<SEP>GUIDANCE-TOPIC-EPISTEMIC-TRUST"
+  },
+  "Low-Risk Non-Diagnostic Direct Psychological Support<SEP>Mentalization": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-002",
+      "doc-24d5ade8ad59b6565d41682f-chunk-003"
+    ],
+    "count": 2,
+    "update_time": 1784707464,
+    "_id": "Low-Risk Non-Diagnostic Direct Psychological Support<SEP>Mentalization"
+  },
+  "Adolescents<SEP>Epistemic Trust": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Adolescents<SEP>Epistemic Trust"
+  },
+  "Cognitive Trust<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Cognitive Trust<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Accurate Mentalization<SEP>Epistemic Trust": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Accurate Mentalization<SEP>Epistemic Trust"
+  },
+  "Adolescents<SEP>Professional Help": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Adolescents<SEP>Professional Help"
+  },
+  "Automatic Trust Assumption<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Automatic Trust Assumption<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Epistemic Trust<SEP>Prior Experiences": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Epistemic Trust<SEP>Prior Experiences"
+  },
+  "Ability to Learn from Social Experiences<SEP>Accurate Mentalization": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Ability to Learn from Social Experiences<SEP>Accurate Mentalization"
+  },
+  "Adolescents<SEP>Social Information": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Adolescents<SEP>Social Information"
+  },
+  "Adolescents<SEP>Help": {
+    "chunk_ids": [
+      "doc-e6096597a635e16f1d5f64ea-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "Adolescents<SEP>Help"
+  },
+  "Directly Telling Adolescents Their Feelings<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Directly Telling Adolescents Their Feelings<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Crisis Scenario<SEP>Fixed Safety Protocol": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-001",
+      "doc-c5160492e097bac38980aeda-chunk-004"
+    ],
+    "count": 2,
+    "update_time": 1784707412,
+    "_id": "Crisis Scenario<SEP>Fixed Safety Protocol"
+  },
+  "Guidance Topic: Affect Identification<SEP>Problem Framework": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Guidance Topic: Affect Identification<SEP>Problem Framework"
+  },
+  "Emotion Naming<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Emotion Naming<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Adolescent<SEP>Directly Telling Adolescents Their Feelings": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Adolescent<SEP>Directly Telling Adolescents Their Feelings"
+  },
+  "Applicable Clues<SEP>Guidance Topic: Affect Identification": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Applicable Clues<SEP>Guidance Topic: Affect Identification"
+  },
+  "Emotion Recognition<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Emotion Recognition<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Steps<SEP>Technique: Emotion Labeling": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Steps<SEP>Technique: Emotion Labeling"
+  },
+  "Adolescents<SEP>Target": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Adolescents<SEP>Target"
+  },
+  "Emotion Labeling<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Emotion Labeling<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Guidance Topic: Affect Identification<SEP>Target": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Guidance Topic: Affect Identification<SEP>Target"
+  },
+  "Adolescents<SEP>Problem Framework": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Adolescents<SEP>Problem Framework"
+  },
+  "Emotion Regulation<SEP>Low-Risk Non-Diagnostic Direct Psychological Support": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Emotion Regulation<SEP>Low-Risk Non-Diagnostic Direct Psychological Support"
+  },
+  "Guidance Topic: Affect Identification<SEP>Technique: Emotion Labeling": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Guidance Topic: Affect Identification<SEP>Technique: Emotion Labeling"
+  },
+  "Emotion Regulation Ability<SEP>Problem Framework": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Emotion Regulation Ability<SEP>Problem Framework"
+  },
+  "Adolescents<SEP>Applicable Clues": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Adolescents<SEP>Applicable Clues"
+  },
+  "Emotion Regulation Ability<SEP>Target": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Emotion Regulation Ability<SEP>Target"
+  },
+  "Emotion Regulation Ability<SEP>Technique: Emotion Labeling": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Emotion Regulation Ability<SEP>Technique: Emotion Labeling"
+  },
+  "Adolescents<SEP>Emotion Regulation Ability": {
+    "chunk_ids": [
+      "doc-cf58af1984b50a1dcb11591e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "Adolescents<SEP>Emotion Regulation Ability"
+  },
+  "Curiosity<SEP>Patient": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Curiosity<SEP>Patient"
+  },
+  "Adolescent<SEP>Goal": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Adolescent<SEP>Goal"
+  },
+  "Mentalization Stance<SEP>Not-knowing": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Mentalization Stance<SEP>Not-knowing"
+  },
+  "Cooperative Mentalization<SEP>Goal": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Cooperative Mentalization<SEP>Goal"
+  },
+  "Mentalization Stance<SEP>Non-expert Stance": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Mentalization Stance<SEP>Non-expert Stance"
+  },
+  "Adolescent<SEP>Subjective Experience": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Adolescent<SEP>Subjective Experience"
+  },
+  "Curiosity<SEP>Mentalization Stance": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Curiosity<SEP>Mentalization Stance"
+  },
+  "Goal<SEP>Subjective Experience": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Goal<SEP>Subjective Experience"
+  },
+  "Not-knowing<SEP>Not-knowing Mind": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Not-knowing<SEP>Not-knowing Mind"
+  },
+  "Curiosity<SEP>Teenager": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Curiosity<SEP>Teenager"
+  },
+  "Mentalization Stance<SEP>Not-knowing Mind": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Mentalization Stance<SEP>Not-knowing Mind"
+  },
+  "Feelings<SEP>Unknowing": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Feelings<SEP>Unknowing"
+  },
+  "Goal<SEP>Mentalization Stance": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Goal<SEP>Mentalization Stance"
+  },
+  "Teenager<SEP>Unknowing": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Teenager<SEP>Unknowing"
+  },
+  "Curiosity<SEP>Feelings": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Curiosity<SEP>Feelings"
+  },
+  "Goal<SEP>Humility": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Goal<SEP>Humility"
+  },
+  "Non-Expert<SEP>Teenager": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Non-Expert<SEP>Teenager"
+  },
+  "Joint Exploration<SEP>Teenager": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Joint Exploration<SEP>Teenager"
+  },
+  "Emotional Vocabulary<SEP>Non-Expert": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Emotional Vocabulary<SEP>Non-Expert"
+  },
+  "Curiosity<SEP>Facial Expression": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Curiosity<SEP>Facial Expression"
+  },
+  "Direct Psychological Support<SEP>Mentalization Stance": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Direct Psychological Support<SEP>Mentalization Stance"
+  },
+  "Anger<SEP>Teenager": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Anger<SEP>Teenager"
+  },
+  "Feelings<SEP>Non-Expert": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Feelings<SEP>Non-Expert"
+  },
+  "Adolescents<SEP>GUIDANCE-TOPIC-MENTALIZING-STANCE": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Adolescents<SEP>GUIDANCE-TOPIC-MENTALIZING-STANCE"
+  },
+  "Desire To Sleep<SEP>Teenager": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Desire To Sleep<SEP>Teenager"
+  },
+  "Feelings<SEP>Joint Exploration": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Feelings<SEP>Joint Exploration"
+  },
+  "Adolescents<SEP>Feeling Judged Or Misunderstood": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Adolescents<SEP>Feeling Judged Or Misunderstood"
+  },
+  "GUIDANCE-TOPIC-MENTALIZING-STANCE<SEP>Non-mentalization": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "GUIDANCE-TOPIC-MENTALIZING-STANCE<SEP>Non-mentalization"
+  },
+  "Adolescents<SEP>Closing Off Inner Self": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Adolescents<SEP>Closing Off Inner Self"
+  },
+  "Non-mentalization<SEP>Patient": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Non-mentalization<SEP>Patient"
+  },
+  "Absolute Statements<SEP>GUIDANCE-TOPIC-MENTALIZING-STANCE": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Absolute Statements<SEP>GUIDANCE-TOPIC-MENTALIZING-STANCE"
+  },
+  "Just Want To Sleep<SEP>Vague Statements": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Just Want To Sleep<SEP>Vague Statements"
+  },
+  "Emotional Agitation<SEP>GUIDANCE-TOPIC-MENTALIZING-STANCE": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Emotional Agitation<SEP>GUIDANCE-TOPIC-MENTALIZING-STANCE"
+  },
+  "Absolute Statements<SEP>Patient": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Absolute Statements<SEP>Patient"
+  },
+  "Adolescents<SEP>Vague Statements": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Adolescents<SEP>Vague Statements"
+  },
+  "Clear Curiosity<SEP>Tentative Language": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Clear Curiosity<SEP>Tentative Language"
+  },
+  "Emotional Agitation<SEP>Patient": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Emotional Agitation<SEP>Patient"
+  },
+  "Avoiding Exploration Of True Feelings<SEP>Vague Statements": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Avoiding Exploration Of True Feelings<SEP>Vague Statements"
+  },
+  "Adolescent<SEP>Clear Curiosity": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Adolescent<SEP>Clear Curiosity"
+  },
+  "Hypothesis<SEP>Tentative Language": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Hypothesis<SEP>Tentative Language"
+  },
+  "Avoiding Exploration Of True Feelings<SEP>Feeling Judged Or Misunderstood": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Avoiding Exploration Of True Feelings<SEP>Feeling Judged Or Misunderstood"
+  },
+  "Clear Curiosity<SEP>Inner State": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Clear Curiosity<SEP>Inner State"
+  },
+  "Adolescent<SEP>Tentative Language": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Adolescent<SEP>Tentative Language"
+  },
+  "Adolescents<SEP>Avoiding Exploration Of True Feelings": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Adolescents<SEP>Avoiding Exploration Of True Feelings"
+  },
+  "Clear Curiosity<SEP>Feeling Experience": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Clear Curiosity<SEP>Feeling Experience"
+  },
+  "Adolescent<SEP>Hypothesis": {
+    "chunk_ids": [
+      "doc-c5160492e097bac38980aeda-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "Adolescent<SEP>Hypothesis"
+  },
+  "Emotional Temperature<SEP>Technique of Lowering Emotional Temperature through Empathy": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Emotional Temperature<SEP>Technique of Lowering Emotional Temperature through Empathy"
+  },
+  "Empathy<SEP>Technique of Lowering Emotional Temperature through Empathy": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Empathy<SEP>Technique of Lowering Emotional Temperature through Empathy"
+  },
+  "Mentalization Recovery<SEP>Technique of Lowering Emotional Temperature through Empathy": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Mentalization Recovery<SEP>Technique of Lowering Emotional Temperature through Empathy"
+  },
+  "Adolescent<SEP>Technique of Lowering Emotional Temperature through Empathy": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Adolescent<SEP>Technique of Lowering Emotional Temperature through Empathy"
+  },
+  "Signs of Elevated Emotional Temperature<SEP>Technique of Lowering Emotional Temperature through Empathy": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Signs of Elevated Emotional Temperature<SEP>Technique of Lowering Emotional Temperature through Empathy"
+  },
+  "Empathic Response<SEP>Technique of Lowering Emotional Temperature through Empathy": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Empathic Response<SEP>Technique of Lowering Emotional Temperature through Empathy"
+  },
+  "Automatic Mentalization Response under Normalized Pressure<SEP>Normalized Pressure": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Automatic Mentalization Response under Normalized Pressure<SEP>Normalized Pressure"
+  },
+  "Gentle Exploration of Inner State<SEP>Technique of Lowering Emotional Temperature through Empathy": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Gentle Exploration of Inner State<SEP>Technique of Lowering Emotional Temperature through Empathy"
+  },
+  "Emotional Temperature<SEP>Empathic Response": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Emotional Temperature<SEP>Empathic Response"
+  },
+  "Automatic Mentalization Response under Normalized Pressure<SEP>Technique of Lowering Emotional Temperature through Empathy": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Automatic Mentalization Response under Normalized Pressure<SEP>Technique of Lowering Emotional Temperature through Empathy"
+  },
+  "Emotional Temperature<SEP>Signs of Elevated Emotional Temperature": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Emotional Temperature<SEP>Signs of Elevated Emotional Temperature"
+  },
+  "Normalized Pressure<SEP>Technique of Lowering Emotional Temperature through Empathy": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Normalized Pressure<SEP>Technique of Lowering Emotional Temperature through Empathy"
+  },
+  "Agitation<SEP>Signs of Elevated Emotional Temperature": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Agitation<SEP>Signs of Elevated Emotional Temperature"
+  },
+  "Adolescent<SEP>Emotional Temperature": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Adolescent<SEP>Emotional Temperature"
+  },
+  "High Emotional Arousal<SEP>Mentalization Ability": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "High Emotional Arousal<SEP>Mentalization Ability"
+  },
+  "Signs of Elevated Emotional Temperature<SEP>Silence": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Signs of Elevated Emotional Temperature<SEP>Silence"
+  },
+  "Adolescent<SEP>Empathic Response": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Adolescent<SEP>Empathic Response"
+  },
+  "High Emotional Arousal<SEP>Non-Mentalizing Behavior": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "High Emotional Arousal<SEP>Non-Mentalizing Behavior"
+  },
+  "Conflict<SEP>Signs of Elevated Emotional Temperature": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Conflict<SEP>Signs of Elevated Emotional Temperature"
+  },
+  "Adolescent<SEP>Gentle Exploration of Inner State": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Adolescent<SEP>Gentle Exploration of Inner State"
+  },
+  "Emotional Temperature<SEP>High Emotional Arousal": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Emotional Temperature<SEP>High Emotional Arousal"
+  },
+  "Lowering Emotional Temperature<SEP>Restoring Mentalization Ability": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Lowering Emotional Temperature<SEP>Restoring Mentalization Ability"
+  },
+  "Adolescents<SEP>Mentalization Stance": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Adolescents<SEP>Mentalization Stance"
+  },
+  "Enhanced Stress Response<SEP>High Emotional Arousal": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Enhanced Stress Response<SEP>High Emotional Arousal"
+  },
+  "Applicable Cues<SEP>Emotional Temperature": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Applicable Cues<SEP>Emotional Temperature"
+  },
+  "Enhanced Social Exclusion Response<SEP>High Emotional Arousal": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Enhanced Social Exclusion Response<SEP>High Emotional Arousal"
+  },
+  "Applicable Cues<SEP>Non-Mentalizing Behavior": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Applicable Cues<SEP>Non-Mentalizing Behavior"
+  },
+  "Enhanced Academic Stress Response<SEP>High Emotional Arousal": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Enhanced Academic Stress Response<SEP>High Emotional Arousal"
+  },
+  "Applicable Cues<SEP>Enhanced Stress Response": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Applicable Cues<SEP>Enhanced Stress Response"
+  },
+  "Mentalization Ability<SEP>Problem Framework": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Mentalization Ability<SEP>Problem Framework"
+  },
+  "High Emotional Arousal<SEP>Lowering Emotional Temperature": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "High Emotional Arousal<SEP>Lowering Emotional Temperature"
+  },
+  "Applicable Cues<SEP>Enhanced Social Exclusion Response": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Applicable Cues<SEP>Enhanced Social Exclusion Response"
+  },
+  "Non-Mentalizing Behavior<SEP>Problem Framework": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Non-Mentalizing Behavior<SEP>Problem Framework"
+  },
+  "Emotional Temperature<SEP>Mentalization": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Emotional Temperature<SEP>Mentalization"
+  },
+  "GUIDANCE-TOPIC-AROUSAL<SEP>High Emotional Arousal": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "GUIDANCE-TOPIC-AROUSAL<SEP>High Emotional Arousal"
+  },
+  "Applicable Cues<SEP>Enhanced Academic Stress Response": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Applicable Cues<SEP>Enhanced Academic Stress Response"
+  },
+  "Crisis Scenarios<SEP>Safety Protocols": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Crisis Scenarios<SEP>Safety Protocols"
+  },
+  "Exam Stress<SEP>Mind Blank": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Exam Stress<SEP>Mind Blank"
+  },
+  "Emotional Temperature<SEP>Treatment Agenda": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "Emotional Temperature<SEP>Treatment Agenda"
+  },
+  "High Emotional Arousal<SEP>Problem Framework": {
+    "chunk_ids": [
+      "doc-2526c2542d1fb9e5640b1a30-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "High Emotional Arousal<SEP>Problem Framework"
+  },
+  "Adolescents<SEP>Psychic Equivalence Mode": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Adolescents<SEP>Psychic Equivalence Mode"
+  },
+  "Empathy Validation<SEP>Mentalizing": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Empathy Validation<SEP>Mentalizing"
+  },
+  "Adolescents<SEP>Non-Mentalizing State": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Adolescents<SEP>Non-Mentalizing State"
+  },
+  "Empathy Validation<SEP>Shared Platform": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Empathy Validation<SEP>Shared Platform"
+  },
+  "Adolescents<SEP>Emotion Dysregulation": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Adolescents<SEP>Emotion Dysregulation"
+  },
+  "Empathy Validation<SEP>Interpersonal Heat": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Empathy Validation<SEP>Interpersonal Heat"
+  },
+  "Response Example<SEP>Validating Feelings": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Response Example<SEP>Validating Feelings"
+  },
+  "Empathy Validation<SEP>Empathy Validation Stance": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Empathy Validation<SEP>Empathy Validation Stance"
+  },
+  "Patient<SEP>Support and Empathy": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Patient<SEP>Support and Empathy"
+  },
+  "Empathy Validation<SEP>Response Example": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Empathy Validation<SEP>Response Example"
+  },
+  "Support and Empathy<SEP>Validating Feelings": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Support and Empathy<SEP>Validating Feelings"
+  },
+  "Avoid Immediately Solving Problems<SEP>Response Example": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Avoid Immediately Solving Problems<SEP>Response Example"
+  },
+  "Patient<SEP>Validating Feelings": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Patient<SEP>Validating Feelings"
+  },
+  "Avoid Making Patient Feel Stupid<SEP>Response Example": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Avoid Making Patient Feel Stupid<SEP>Response Example"
+  },
+  "Empathy Validation<SEP>Patient": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Empathy Validation<SEP>Patient"
+  },
+  "Low-risk Non-diagnostic Direct Psychological Support<SEP>Mentalization": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Low-risk Non-diagnostic Direct Psychological Support<SEP>Mentalization"
+  },
+  "Crisis Scenarios<SEP>Fixed Safety Protocol": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Crisis Scenarios<SEP>Fixed Safety Protocol"
+  },
+  "Avoid Immediately Solving Problems<SEP>Patient": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Avoid Immediately Solving Problems<SEP>Patient"
+  },
+  "Adolescents<SEP>Empathy Validation": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Adolescents<SEP>Empathy Validation"
+  },
+  "Avoid Making Patient Feel Stupid<SEP>Patient": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Avoid Making Patient Feel Stupid<SEP>Patient"
+  },
+  "Adolescent<SEP>Empathy Validation": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Adolescent<SEP>Empathy Validation"
+  },
+  "Adolescents<SEP>Empathy Validation Stance": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Adolescents<SEP>Empathy Validation Stance"
+  },
+  "Feelings<SEP>Validation Stance": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Feelings<SEP>Validation Stance"
+  },
+  "Curiosity<SEP>Empathy Validation": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Curiosity<SEP>Empathy Validation"
+  },
+  "Thought Process<SEP>Validation Stance": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Thought Process<SEP>Validation Stance"
+  },
+  "Difference<SEP>Empathy Validation": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Difference<SEP>Empathy Validation"
+  },
+  "Patient<SEP>Thought Process": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Patient<SEP>Thought Process"
+  },
+  "Feelings<SEP>Patient": {
+    "chunk_ids": [
+      "doc-24d5ade8ad59b6565d41682f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "Feelings<SEP>Patient"
+  },
+  "Developmental Scaffolding<SEP>Technology": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Developmental Scaffolding<SEP>Technology"
+  },
+  "Adolescent Development<SEP>Current Behaviors": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescent Development<SEP>Current Behaviors"
+  },
+  "Adolescents<SEP>Developmental Scaffolding": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Developmental Scaffolding"
+  },
+  "Adaptive Significance<SEP>Current Behaviors": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adaptive Significance<SEP>Current Behaviors"
+  },
+  "Adult Roles<SEP>Evolutionary Mismatch": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adult Roles<SEP>Evolutionary Mismatch"
+  },
+  "Adaptive Developmental Trajectory<SEP>Adolescents": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adaptive Developmental Trajectory<SEP>Adolescents"
+  },
+  "Adaptive Significance<SEP>Adolescent Development": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adaptive Significance<SEP>Adolescent Development"
+  },
+  "Intergenerational Connection Promotion<SEP>Technology": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Intergenerational Connection Promotion<SEP>Technology"
+  },
+  "Evolutionary Mismatch<SEP>Imbalance Of Responsibility And Autonomy": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Evolutionary Mismatch<SEP>Imbalance Of Responsibility And Autonomy"
+  },
+  "Adolescents<SEP>Avoidance Patterns": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Avoidance Patterns"
+  },
+  "Impulsivity<SEP>Problem Behavior": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Impulsivity<SEP>Problem Behavior"
+  },
+  "Autonomy Enhancement<SEP>Technology": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Autonomy Enhancement<SEP>Technology"
+  },
+  "Adolescents<SEP>Current Behaviors": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Current Behaviors"
+  },
+  "Problem Behavior<SEP>Risk-Taking": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Problem Behavior<SEP>Risk-Taking"
+  },
+  "Impulsivity<SEP>Pathology": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Impulsivity<SEP>Pathology"
+  },
+  "Adolescent Autonomy Needs<SEP>Family Control": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescent Autonomy Needs<SEP>Family Control"
+  },
+  "Adolescents<SEP>Evolutionary Mismatch": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Evolutionary Mismatch"
+  },
+  "Peer Prioritization<SEP>Problem Behavior": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Peer Prioritization<SEP>Problem Behavior"
+  },
+  "Adolescent Development<SEP>Autonomy": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescent Development<SEP>Autonomy"
+  },
+  "Pathology<SEP>Risk-Taking": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Pathology<SEP>Risk-Taking"
+  },
+  "Adolescent Development<SEP>Peer Relationships": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescent Development<SEP>Peer Relationships"
+  },
+  "Pathology<SEP>Peer Prioritization": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Pathology<SEP>Peer Prioritization"
+  },
+  "Direct Psychological Support<SEP>Low-Risk Non-Diagnostic Context": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Direct Psychological Support<SEP>Low-Risk Non-Diagnostic Context"
+  },
+  "Adolescent Development<SEP>Identity": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescent Development<SEP>Identity"
+  },
+  "Adolescents<SEP>Feeling Failure in Social and Educational Domains": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Feeling Failure in Social and Educational Domains"
+  },
+  "Adolescent Development<SEP>Evolutionary Mismatch": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescent Development<SEP>Evolutionary Mismatch"
+  },
+  "Adolescents<SEP>Self-Hatred and Despair": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Self-Hatred and Despair"
+  },
+  "Adolescent Development<SEP>Normalization": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescent Development<SEP>Normalization"
+  },
+  "Adolescents<SEP>Complicated Peer Relationships": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Complicated Peer Relationships"
+  },
+  "Adolescent Development<SEP>Developmental Scaffolding": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescent Development<SEP>Developmental Scaffolding"
+  },
+  "Adolescents<SEP>Complicated Parent-Child Relationships": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Complicated Parent-Child Relationships"
+  },
+  "Goal of Helping Adolescents Understand Behavior<SEP>Mentalizing Stance": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Goal of Helping Adolescents Understand Behavior<SEP>Mentalizing Stance"
+  },
+  "Adolescents<SEP>Lack of Adult Role Models": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Lack of Adult Role Models"
+  },
+  "Balance Adolescent Autonomy and Family Involvement<SEP>Goal of Helping Adolescents Understand Behavior": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Balance Adolescent Autonomy and Family Involvement<SEP>Goal of Helping Adolescents Understand Behavior"
+  },
+  "Goal of Helping Adolescents Understand Behavior and Promote Adaptive Development<SEP>Mentalizing Stance": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Goal of Helping Adolescents Understand Behavior and Promote Adaptive Development<SEP>Mentalizing Stance"
+  },
+  "Adolescents<SEP>Mismatch Between Responsibility and Autonomy": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Mismatch Between Responsibility and Autonomy"
+  },
+  "Balance Adolescent Autonomy and Family Involvement<SEP>Goal of Helping Adolescents Understand Behavior and Promote Adaptive Development": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Balance Adolescent Autonomy and Family Involvement<SEP>Goal of Helping Adolescents Understand Behavior and Promote Adaptive Development"
+  },
+  "Adolescents<SEP>Gap Between Actual Self and Ideal Self": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Gap Between Actual Self and Ideal Self"
+  },
+  "Adolescents<SEP>Goal of Helping Adolescents Understand Behavior": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Goal of Helping Adolescents Understand Behavior"
+  },
+  "Adult Role Models<SEP>Evolutionary Mismatch": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adult Role Models<SEP>Evolutionary Mismatch"
+  },
+  "Adolescents<SEP>Goal of Helping Adolescents Understand Behavior and Promote Adaptive Development": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Goal of Helping Adolescents Understand Behavior and Promote Adaptive Development"
+  },
+  "Evolutionary Mismatch<SEP>Responsibility-Autonomy Imbalance": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Evolutionary Mismatch<SEP>Responsibility-Autonomy Imbalance"
+  },
+  "Adolescents<SEP>Autonomy": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Autonomy"
+  },
+  "Adolescents<SEP>Peer Relationships": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Peer Relationships"
+  },
+  "Adolescents<SEP>Identity": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Identity"
+  },
+  "Adaptation Difficulties<SEP>Adolescents": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adaptation Difficulties<SEP>Adolescents"
+  },
+  "Adolescents<SEP>Family": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Family"
+  },
+  "Adaptation Difficulties<SEP>Evolutionary Mismatch": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adaptation Difficulties<SEP>Evolutionary Mismatch"
+  },
+  "Autonomy<SEP>Teenagers": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Autonomy<SEP>Teenagers"
+  },
+  "Adolescents<SEP>Conflicts With Family On Autonomy": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Conflicts With Family On Autonomy"
+  },
+  "Identity<SEP>Teenagers": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Identity<SEP>Teenagers"
+  },
+  "Adolescents<SEP>Increased Impulsivity": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Increased Impulsivity"
+  },
+  "Peer Relationships<SEP>Teenagers": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Peer Relationships<SEP>Teenagers"
+  },
+  "Adolescents<SEP>Risk-Taking Behavior": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Risk-Taking Behavior"
+  },
+  "Agency<SEP>Teenagers": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Agency<SEP>Teenagers"
+  },
+  "Autonomy<SEP>Modern Education": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Autonomy<SEP>Modern Education"
+  },
+  "Adolescents<SEP>Peer Group Priority": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Peer Group Priority"
+  },
+  "Adolescence<SEP>Peer Relationships": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescence<SEP>Peer Relationships"
+  },
+  "Responsibility<SEP>Teenagers": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Responsibility<SEP>Teenagers"
+  },
+  "Adolescents<SEP>Feeling Overwhelmed In Relationships": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescents<SEP>Feeling Overwhelmed In Relationships"
+  },
+  "Adolescence<SEP>Autonomy": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Adolescence<SEP>Autonomy"
+  },
+  "Decision-Making Power<SEP>Teenagers": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Decision-Making Power<SEP>Teenagers"
+  },
+  "Frustration<SEP>Teenagers": {
+    "chunk_ids": [
+      "doc-cbd65c5b9066cfdab9aefc4e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "Frustration<SEP>Teenagers"
+  }
+}

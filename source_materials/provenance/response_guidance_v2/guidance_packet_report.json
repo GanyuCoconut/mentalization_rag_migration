@@ -1,0 +1,187 @@
+{
+  "topic_version": "1.0",
+  "counts": {
+    "atoms": 2861,
+    "topics": 16,
+    "ready_topics": 16,
+    "insufficient_topics": 0,
+    "assigned_atoms": 1171,
+    "unassigned_atoms": 1690
+  },
+  "topic_stats": {
+    "GUIDANCE-TOPIC-MENTALIZING-STANCE": {
+      "status": "ready",
+      "candidate_atoms": 126,
+      "selected_atoms": 23,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 10,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 3
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-AROUSAL": {
+      "status": "ready",
+      "candidate_atoms": 223,
+      "selected_atoms": 24,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 4,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 10
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-PSYCHIC-EQUIVALENCE": {
+      "status": "ready",
+      "candidate_atoms": 104,
+      "selected_atoms": 24,
+      "source_counts": {
+        "MENTALIZING-DEVELOPMENT-CHINESE": 10,
+        "MBT-A-PRACTICAL-GUIDE-2021": 7,
+        "MBT-PRACTICAL-GUIDE-2016": 7
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-PRETEND-MODE": {
+      "status": "ready",
+      "candidate_atoms": 97,
+      "selected_atoms": 24,
+      "source_counts": {
+        "MENTALIZING-DEVELOPMENT-CHINESE": 10,
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 4
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-TELEOLOGICAL-MODE": {
+      "status": "ready",
+      "candidate_atoms": 50,
+      "selected_atoms": 24,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 6,
+        "MBT-PRACTICAL-GUIDE-2016": 10,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 8
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-HYPERMENTALIZING": {
+      "status": "ready",
+      "candidate_atoms": 37,
+      "selected_atoms": 20,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 10
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-EPISTEMIC-TRUST": {
+      "status": "ready",
+      "candidate_atoms": 47,
+      "selected_atoms": 20,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 10
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-EMPATHY-VALIDATION": {
+      "status": "ready",
+      "candidate_atoms": 166,
+      "selected_atoms": 24,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 10,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 4
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-STOP-REWIND-EXPLORE": {
+      "status": "ready",
+      "candidate_atoms": 51,
+      "selected_atoms": 22,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 10,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 2
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-RUPTURE-REPAIR": {
+      "status": "ready",
+      "candidate_atoms": 73,
+      "selected_atoms": 24,
+      "source_counts": {
+        "MBT-PRACTICAL-GUIDE-2016": 10,
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 4
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-AFFECT-IDENTIFICATION": {
+      "status": "ready",
+      "candidate_atoms": 16,
+      "selected_atoms": 16,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 4,
+        "MBT-PRACTICAL-GUIDE-2016": 10,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 2
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-ALIEN-SELF-SHAME": {
+      "status": "ready",
+      "candidate_atoms": 91,
+      "selected_atoms": 24,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 4,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 10
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-FAMILY-MENTALIZING": {
+      "status": "ready",
+      "candidate_atoms": 56,
+      "selected_atoms": 21,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 10,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 1
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-SELF-HARM-CRISIS": {
+      "status": "ready",
+      "candidate_atoms": 123,
+      "selected_atoms": 24,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 10,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 4
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-ADOLESCENT-DEVELOPMENT": {
+      "status": "ready",
+      "candidate_atoms": 89,
+      "selected_atoms": 24,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MENTALIZING-DEVELOPMENT-CHINESE": 9,
+        "MBT-PRACTICAL-GUIDE-2016": 5
+      },
+      "status_reasons": []
+    },
+    "GUIDANCE-TOPIC-NETWORK-SUPPORT": {
+      "status": "ready",
+      "candidate_atoms": 35,
+      "selected_atoms": 13,
+      "source_counts": {
+        "MBT-A-PRACTICAL-GUIDE-2021": 10,
+        "MBT-PRACTICAL-GUIDE-2016": 3
+      },
+      "status_reasons": []
+    }
+  },
+  "output": "/workspace/teen_mh_agent/knowledge_work/response_guidance_v2/guidance_evidence_packets.jsonl"
+}

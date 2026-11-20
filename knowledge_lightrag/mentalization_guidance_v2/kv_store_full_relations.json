@@ -1,0 +1,1558 @@
+{
+  "doc-25e2ba2136d79300ee648940": {
+    "relation_pairs": [
+      [
+        "Analogical Connections",
+        "Teleological Mode"
+      ],
+      [
+        "Adolescents",
+        "Emotions"
+      ],
+      [
+        "Goal",
+        "Mentalization"
+      ],
+      [
+        "Adolescents",
+        "Gentle Challenge"
+      ],
+      [
+        "Adolescents",
+        "Goal"
+      ],
+      [
+        "Example Response",
+        "Gentle Challenge"
+      ],
+      [
+        "Goal",
+        "Mental States"
+      ],
+      [
+        "Adolescents",
+        "Mental States"
+      ],
+      [
+        "Actions And Mental States",
+        "Mentalization"
+      ],
+      [
+        "Gentle Challenge",
+        "Teleological Mode"
+      ],
+      [
+        "Adolescent",
+        "Low Risk Non Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Adolescents",
+        "External Results"
+      ],
+      [
+        "Distinguishing Feelings and Thoughts",
+        "Gentle Challenge"
+      ],
+      [
+        "Actions",
+        "Adolescents"
+      ],
+      [
+        "Feelings",
+        "Thoughts"
+      ],
+      [
+        "Gentle Challenge",
+        "Reflecting on Interpersonal Experiences"
+      ],
+      [
+        "Concrete Observable Events",
+        "Emotional Causes"
+      ],
+      [
+        "Caring",
+        "Concrete Actions"
+      ],
+      [
+        "Adolescents",
+        "Teleological Mode"
+      ],
+      [
+        "Actions And Mental States",
+        "Teleological Mode"
+      ],
+      [
+        "Crisis Scenarios",
+        "Fixed Safety Protocols"
+      ],
+      [
+        "Gentle Challenge",
+        "Teleological Demands"
+      ],
+      [
+        "Adolescent",
+        "Teleological Mode"
+      ],
+      [
+        "Gentle Challenge",
+        "Mentalizing Stance"
+      ],
+      [
+        "Adolescents",
+        "GUIDANCE-TOPIC-TELEOLOGICAL-MODE"
+      ],
+      [
+        "Acting Without Thinking",
+        "Adolescents"
+      ],
+      [
+        "Adolescents",
+        "Teleological Demands"
+      ],
+      [
+        "Behavior",
+        "Goal"
+      ],
+      [
+        "Adolescents",
+        "Mentalizing Stance"
+      ],
+      [
+        "Teleological Demands",
+        "Teleological Mode"
+      ]
+    ],
+    "count": 30,
+    "create_time": 1784707196,
+    "update_time": 1784707196,
+    "_id": "doc-25e2ba2136d79300ee648940"
+  },
+  "doc-2b72bc71b9ce39347784bb98": {
+    "relation_pairs": [
+      [
+        "Adolescent Hyper-Mentalizing",
+        "GUIDANCE-TOPIC-HYPERMENTALIZING"
+      ],
+      [
+        "Crisis Scenarios",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Challenging Over-mentalizing Technique",
+        "Here-and-now Feelings"
+      ],
+      [
+        "Fact",
+        "Guiding Back to Observable Facts Step"
+      ],
+      [
+        "Psychological Support Guidelines",
+        "Uncertainty"
+      ],
+      [
+        "Adolescent",
+        "Mentalizing Stance"
+      ],
+      [
+        "Observable Facts",
+        "Psychological Support Guidelines"
+      ],
+      [
+        "Adolescent Hyper-Mentalizing",
+        "Overthinking"
+      ],
+      [
+        "Adolescents",
+        "Response Examples"
+      ],
+      [
+        "Challenging Over-mentalizing Technique",
+        "Over-mentalizing"
+      ],
+      [
+        "Adolescent Hyper-Mentalizing",
+        "Inaccurate Attribution of Others' Motives or Feelings"
+      ],
+      [
+        "Guiding Back to Observable Facts Step",
+        "Speculation"
+      ],
+      [
+        "Over-Mentalization",
+        "Psychological Support Guidelines"
+      ],
+      [
+        "Mentalizing Stance",
+        "Uncertainty"
+      ],
+      [
+        "Adolescent Hyper-Mentalizing",
+        "Reduce Hyper-Mentalizing Goal"
+      ],
+      [
+        "Overthinking",
+        "Psychological Support Guidelines"
+      ],
+      [
+        "Over-Speculation",
+        "Psychological Support Guidelines"
+      ],
+      [
+        "Crisis Scenarios",
+        "Fixed Safety Protocols"
+      ],
+      [
+        "Direct Denial Without Exploration",
+        "Psychological Support Guidelines"
+      ],
+      [
+        "Adolescent",
+        "Guiding Back to Observable Facts Step"
+      ],
+      [
+        "Low-Risk Non-Diagnostic Direct Psychological Support",
+        "Psychological Support Guidelines"
+      ],
+      [
+        "Adolescent Hyper-Mentalizing",
+        "Overinference of Others' Intentions"
+      ],
+      [
+        "Adolescent Hyper-Mentalizing",
+        "Thoughts and Feelings Leaping Too Many Steps from Reality"
+      ],
+      [
+        "Guiding Back to Observable Facts Step",
+        "Uncertainty"
+      ],
+      [
+        "Observable Facts",
+        "Reduce Hyper-Mentalizing Goal"
+      ],
+      [
+        "Adolescent",
+        "Over-mentalizing"
+      ],
+      [
+        "Adolescent",
+        "Challenging Over-mentalizing Technique"
+      ],
+      [
+        "Curiosity",
+        "Mentalizing Stance"
+      ],
+      [
+        "Adolescents",
+        "Psychological Support Guidelines"
+      ],
+      [
+        "Guiding Back to Observable Facts Step",
+        "Over-mentalizing"
+      ],
+      [
+        "Psychological Support Guidelines",
+        "Response Examples"
+      ],
+      [
+        "Reduce Hyper-Mentalizing Goal",
+        "Tolerance for Uncertainty"
+      ],
+      [
+        "Guiding Back to Observable Facts Step",
+        "Observable Facts"
+      ]
+    ],
+    "count": 33,
+    "create_time": 1784707210,
+    "update_time": 1784707210,
+    "_id": "doc-2b72bc71b9ce39347784bb98"
+  },
+  "doc-c67b74097efa61deeed03804": {
+    "relation_pairs": [
+      [
+        "Gentle Curiosity",
+        "Shame"
+      ],
+      [
+        "Alien Self",
+        "Strict Part"
+      ],
+      [
+        "Adolescents",
+        "GUIDANCE-TOPIC-ALIEN-SELF-SHAME"
+      ],
+      [
+        "Self-Hatred",
+        "Social Understanding Changes"
+      ],
+      [
+        "Adolescents",
+        "Mentalizing Alien Self Technique"
+      ],
+      [
+        "Alien Self",
+        "Self-Attack"
+      ],
+      [
+        "Gentle Curiosity",
+        "Self-Criticism"
+      ],
+      [
+        "GUIDANCE-TOPIC-ALIEN-SELF-SHAME",
+        "Persistent Self-Criticism"
+      ],
+      [
+        "Mentalizing Alien Self Technique",
+        "Pressure"
+      ],
+      [
+        "Alien Self",
+        "Shame"
+      ],
+      [
+        "GUIDANCE-TOPIC-ALIEN-SELF-SHAME",
+        "Self-Loathing"
+      ],
+      [
+        "Alien Self",
+        "Second Response Example"
+      ],
+      [
+        "Critical Voice",
+        "Self-Criticism"
+      ],
+      [
+        "Past Others",
+        "Self-Hatred"
+      ],
+      [
+        "Alien Self",
+        "Caregivers"
+      ],
+      [
+        "Others' Judgments",
+        "Second Response Example"
+      ],
+      [
+        "Alien Self",
+        "Self-Hatred"
+      ],
+      [
+        "Adolescents",
+        "Alien Self"
+      ],
+      [
+        "GUIDANCE-TOPIC-ALIEN-SELF-SHAME",
+        "Lack of Internal Recognition"
+      ],
+      [
+        "Adolescents",
+        "Self-Attack"
+      ],
+      [
+        "Anticipated Failure",
+        "GUIDANCE-TOPIC-ALIEN-SELF-SHAME"
+      ],
+      [
+        "GUIDANCE-TOPIC-ALIEN-SELF-SHAME",
+        "Shame"
+      ],
+      [
+        "Self-Attack",
+        "Shame"
+      ],
+      [
+        "Mentalizing Stance",
+        "Non-blaming Curiosity"
+      ],
+      [
+        "Adolescents",
+        "Shame"
+      ],
+      [
+        "Adolescents",
+        "Despair"
+      ],
+      [
+        "First Response Example",
+        "Inner Critic"
+      ],
+      [
+        "Adolescents",
+        "Failure Feeling"
+      ],
+      [
+        "GUIDANCE-TOPIC-ALIEN-SELF-SHAME",
+        "Self-Hatred"
+      ],
+      [
+        "Crisis Scenarios",
+        "Fixed Safety Protocols"
+      ],
+      [
+        "Adolescents",
+        "Self-Hatred"
+      ],
+      [
+        "Adolescents",
+        "Direct Psychological Support"
+      ],
+      [
+        "Second Response Example",
+        "Self-Hatred"
+      ],
+      [
+        "Alien Self",
+        "True Self"
+      ],
+      [
+        "Adolescents",
+        "Self-Criticism"
+      ],
+      [
+        "Self-Awareness Enhancement",
+        "Shame"
+      ],
+      [
+        "Alien Self",
+        "Mentalizing Alien Self Technique"
+      ],
+      [
+        "Inner Critic",
+        "Others' Judgments"
+      ],
+      [
+        "Alien Self",
+        "Anticipated Failure"
+      ],
+      [
+        "Shame",
+        "Social Understanding Changes"
+      ],
+      [
+        "Alien Self",
+        "Self-Loathing"
+      ],
+      [
+        "Mentalizing Alien Self Technique",
+        "Mentalizing Stance"
+      ],
+      [
+        "Alien Self",
+        "Persistent Self-Criticism"
+      ],
+      [
+        "Alien Self",
+        "Past Others"
+      ],
+      [
+        "Self-Awareness Enhancement",
+        "Self-Hatred"
+      ]
+    ],
+    "count": 45,
+    "create_time": 1784707218,
+    "update_time": 1784707218,
+    "_id": "doc-c67b74097efa61deeed03804"
+  },
+  "doc-6cf41428683918a1a6480b7e": {
+    "relation_pairs": [
+      [
+        "Example Response",
+        "Mentalizing Stance"
+      ],
+      [
+        "Direct Negation Of Teenagers' Feelings",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Alternative Perspective",
+        "Example Response"
+      ],
+      [
+        "Crisis Scenarios",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Psychic Equivalence",
+        "Treating Inner Thoughts As Reality"
+      ],
+      [
+        "Alternative Perspective",
+        "Mentalizing Steps"
+      ],
+      [
+        "Alternative Perspective",
+        "Internal Feelings"
+      ],
+      [
+        "Example Response",
+        "Mentalizing Technique"
+      ],
+      [
+        "Alternative Perspective",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Mentalizing Stance",
+        "Mentalizing Technique"
+      ],
+      [
+        "Goal Of Distinguishing Feelings From Facts",
+        "Psychic Equivalence"
+      ],
+      [
+        "Alternative Perspective",
+        "External Reality"
+      ],
+      [
+        "Mentalizing Technique",
+        "Validating Emotions"
+      ],
+      [
+        "Mentalizing Steps",
+        "Mentalizing Technique"
+      ],
+      [
+        "Psychic Equivalence",
+        "Rejecting Feelings As Literal Pain"
+      ],
+      [
+        "Mentalizing Stance",
+        "Non-hating"
+      ],
+      [
+        "Example Response",
+        "Validating Emotions"
+      ],
+      [
+        "Mentalizing Stance",
+        "Non-judgmental"
+      ],
+      [
+        "Mentalizing Stance",
+        "Validating Emotions"
+      ],
+      [
+        "Teenagers",
+        "Validating Emotions"
+      ],
+      [
+        "Mentalizing Stance",
+        "Teenagers"
+      ],
+      [
+        "Alternative Perspective",
+        "Mentalizing Technique"
+      ],
+      [
+        "Crisis Scenarios",
+        "Fixed Safety Protocols"
+      ],
+      [
+        "Example Response",
+        "Mentalizing Steps"
+      ],
+      [
+        "Goal Of Distinguishing Feelings From Facts",
+        "Multi-Perspective Thinking"
+      ],
+      [
+        "Anxiety And Distress",
+        "Psychic Equivalence"
+      ],
+      [
+        "Low-Risk Non-Diagnostic Direct Psychological Support",
+        "Psychological Equivalence"
+      ],
+      [
+        "Perceiving Criticism As Threatening Attack",
+        "Psychic Equivalence"
+      ],
+      [
+        "Mentalizing Steps",
+        "Validating Emotions"
+      ],
+      [
+        "Mentalizing Steps",
+        "Teenagers"
+      ],
+      [
+        "Low-Risk Non-Diagnostic Direct Psychological Support",
+        "Validate Emotions"
+      ],
+      [
+        "Inability To Distinguish Internal State From External Reality",
+        "Psychic Equivalence"
+      ],
+      [
+        "Distinguish Feelings From Facts",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Direct Negation Of Teenagers' Feelings",
+        "Teenagers"
+      ],
+      [
+        "Alternative Perspective",
+        "Validating Emotions"
+      ]
+    ],
+    "count": 35,
+    "create_time": 1784707276,
+    "update_time": 1784707276,
+    "_id": "doc-6cf41428683918a1a6480b7e"
+  },
+  "doc-e6096597a635e16f1d5f64ea": {
+    "relation_pairs": [
+      [
+        "Cognitive Trust",
+        "Mentalization Stance"
+      ],
+      [
+        "Adolescent",
+        "Sample Response"
+      ],
+      [
+        "Adolescents",
+        "Professional Help"
+      ],
+      [
+        "Adolescent",
+        "Mentalization Stance"
+      ],
+      [
+        "Cognitive Trust",
+        "Shared Attention"
+      ],
+      [
+        "Ability to Learn from Social Experiences",
+        "Accurate Mentalization"
+      ],
+      [
+        "Adolescent",
+        "Open And Non-Coercive Stance"
+      ],
+      [
+        "Automatic Trust Assumption",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Adolescents",
+        "GUIDANCE-TOPIC-EPISTEMIC-TRUST"
+      ],
+      [
+        "Adolescents",
+        "Social Information"
+      ],
+      [
+        "Emotional Regulation",
+        "Therapist"
+      ],
+      [
+        "Mentalization Stance",
+        "Open And Non-Coercive Stance"
+      ],
+      [
+        "Adolescents",
+        "Epistemic Trust"
+      ],
+      [
+        "Adolescent",
+        "Therapist"
+      ],
+      [
+        "Epistemic Trust",
+        "Prior Experiences"
+      ],
+      [
+        "Mentalization Stance",
+        "Therapist"
+      ],
+      [
+        "Cognitive Trust",
+        "Emotional Regulation"
+      ],
+      [
+        "Crisis Scenarios",
+        "Fixed Safety Protocols"
+      ],
+      [
+        "Adolescents",
+        "Help"
+      ],
+      [
+        "Accurate Mentalization",
+        "Epistemic Trust"
+      ],
+      [
+        "Sample Response",
+        "Therapist"
+      ],
+      [
+        "Being Understood",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Low-Risk Non-Diagnostic Direct Psychological Support",
+        "Safe Learning"
+      ],
+      [
+        "Cognitive Trust",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Shared Attention",
+        "Therapist"
+      ],
+      [
+        "Low-Risk Non-Diagnostic Direct Psychological Support",
+        "Mentalization"
+      ],
+      [
+        "Open And Non-Coercive Stance",
+        "Therapist"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1784707297,
+    "update_time": 1784707297,
+    "_id": "doc-e6096597a635e16f1d5f64ea"
+  },
+  "doc-cf58af1984b50a1dcb11591e": {
+    "relation_pairs": [
+      [
+        "Guidance Topic: Affect Identification",
+        "Technique: Emotion Labeling"
+      ],
+      [
+        "Adolescents",
+        "Applicable Clues"
+      ],
+      [
+        "Adolescents",
+        "Emotion Regulation Ability"
+      ],
+      [
+        "Emotion Recognition",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Steps",
+        "Technique: Emotion Labeling"
+      ],
+      [
+        "Emotion Labeling",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Adolescents",
+        "Target"
+      ],
+      [
+        "Emotion Regulation Ability",
+        "Problem Framework"
+      ],
+      [
+        "Guidance Topic: Affect Identification",
+        "Target"
+      ],
+      [
+        "Emotion Regulation",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Directly Telling Adolescents Their Feelings",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Emotion Naming",
+        "Low-Risk Non-Diagnostic Direct Psychological Support"
+      ],
+      [
+        "Emotion Regulation Ability",
+        "Technique: Emotion Labeling"
+      ],
+      [
+        "Adolescent",
+        "Directly Telling Adolescents Their Feelings"
+      ],
+      [
+        "Adolescents",
+        "Problem Framework"
+      ],
+      [
+        "Emotion Regulation Ability",
+        "Target"
+      ],
+      [
+        "Crisis Scenario",
+        "Fixed Safety Protocol"
+      ],
+      [
+        "Applicable Clues",
+        "Guidance Topic: Affect Identification"
+      ],
+      [
+        "Guidance Topic: Affect Identification",
+        "Problem Framework"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1784707302,
+    "update_time": 1784707302,
+    "_id": "doc-cf58af1984b50a1dcb11591e"
+  },
+  "doc-c5160492e097bac38980aeda": {
+    "relation_pairs": [
+      [
+        "Cooperative Mentalization",
+        "Goal"
+      ],
+      [
+        "Emotional Vocabulary",
+        "Non-Expert"
+      ],
+      [
+        "Adolescent",
+        "Clear Curiosity"
+      ],
+      [
+        "Adolescent",
+        "Tentative Language"
+      ],
+      [
+        "Adolescent",
+        "Hypothesis"
+      ],
+      [
+        "Clear Curiosity",
+        "Feeling Experience"
+      ],
+      [
+        "Goal",
+        "Subjective Experience"
+      ],
+      [
+        "Non-mentalization",
+        "Patient"
+      ],
+      [
+        "Emotional Agitation",
+        "Patient"
+      ],
+      [
+        "Hypothesis",
+        "Tentative Language"
+      ],
+      [
+        "Anger",
+        "Teenager"
+      ],
+      [
+        "Absolute Statements",
+        "GUIDANCE-TOPIC-MENTALIZING-STANCE"
+      ],
+      [
+        "Feelings",
+        "Unknowing"
+      ],
+      [
+        "Adolescents",
+        "Avoiding Exploration Of True Feelings"
+      ],
+      [
+        "Clear Curiosity",
+        "Tentative Language"
+      ],
+      [
+        "Curiosity",
+        "Facial Expression"
+      ],
+      [
+        "Adolescent",
+        "Goal"
+      ],
+      [
+        "Avoiding Exploration Of True Feelings",
+        "Feeling Judged Or Misunderstood"
+      ],
+      [
+        "Curiosity",
+        "Patient"
+      ],
+      [
+        "Emotional Agitation",
+        "GUIDANCE-TOPIC-MENTALIZING-STANCE"
+      ],
+      [
+        "Mentalization Stance",
+        "Not-knowing"
+      ],
+      [
+        "Absolute Statements",
+        "Patient"
+      ],
+      [
+        "Adolescent",
+        "Subjective Experience"
+      ],
+      [
+        "Feelings",
+        "Joint Exploration"
+      ],
+      [
+        "Goal",
+        "Humility"
+      ],
+      [
+        "Not-knowing",
+        "Not-knowing Mind"
+      ],
+      [
+        "Mentalization Stance",
+        "Non-expert Stance"
+      ],
+      [
+        "Adolescents",
+        "GUIDANCE-TOPIC-MENTALIZING-STANCE"
+      ],
+      [
+        "Joint Exploration",
+        "Teenager"
+      ],
+      [
+        "Feelings",
+        "Non-Expert"
+      ],
+      [
+        "Curiosity",
+        "Feelings"
+      ],
+      [
+        "Adolescents",
+        "Feeling Judged Or Misunderstood"
+      ],
+      [
+        "Non-Expert",
+        "Teenager"
+      ],
+      [
+        "Adolescents",
+        "Vague Statements"
+      ],
+      [
+        "Direct Psychological Support",
+        "Mentalization Stance"
+      ],
+      [
+        "Desire To Sleep",
+        "Teenager"
+      ],
+      [
+        "Just Want To Sleep",
+        "Vague Statements"
+      ],
+      [
+        "Adolescents",
+        "Closing Off Inner Self"
+      ],
+      [
+        "Teenager",
+        "Unknowing"
+      ],
+      [
+        "Crisis Scenario",
+        "Fixed Safety Protocol"
+      ],
+      [
+        "Mentalization Stance",
+        "Not-knowing Mind"
+      ],
+      [
+        "Goal",
+        "Mentalization Stance"
+      ],
+      [
+        "Curiosity",
+        "Mentalization Stance"
+      ],
+      [
+        "GUIDANCE-TOPIC-MENTALIZING-STANCE",
+        "Non-mentalization"
+      ],
+      [
+        "Curiosity",
+        "Teenager"
+      ],
+      [
+        "Avoiding Exploration Of True Feelings",
+        "Vague Statements"
+      ],
+      [
+        "Clear Curiosity",
+        "Inner State"
+      ]
+    ],
+    "count": 47,
+    "create_time": 1784707412,
+    "update_time": 1784707412,
+    "_id": "doc-c5160492e097bac38980aeda"
+  },
+  "doc-2526c2542d1fb9e5640b1a30": {
+    "relation_pairs": [
+      [
+        "High Emotional Arousal",
+        "Non-Mentalizing Behavior"
+      ],
+      [
+        "Conflict",
+        "Signs of Elevated Emotional Temperature"
+      ],
+      [
+        "Agitation",
+        "Signs of Elevated Emotional Temperature"
+      ],
+      [
+        "Applicable Cues",
+        "Enhanced Academic Stress Response"
+      ],
+      [
+        "Empathy",
+        "Technique of Lowering Emotional Temperature through Empathy"
+      ],
+      [
+        "Emotional Temperature",
+        "High Emotional Arousal"
+      ],
+      [
+        "Emotional Temperature",
+        "Treatment Agenda"
+      ],
+      [
+        "Exam Stress",
+        "Mind Blank"
+      ],
+      [
+        "Lowering Emotional Temperature",
+        "Restoring Mentalization Ability"
+      ],
+      [
+        "Emotional Temperature",
+        "Signs of Elevated Emotional Temperature"
+      ],
+      [
+        "GUIDANCE-TOPIC-AROUSAL",
+        "High Emotional Arousal"
+      ],
+      [
+        "Applicable Cues",
+        "Enhanced Social Exclusion Response"
+      ],
+      [
+        "Signs of Elevated Emotional Temperature",
+        "Technique of Lowering Emotional Temperature through Empathy"
+      ],
+      [
+        "High Emotional Arousal",
+        "Lowering Emotional Temperature"
+      ],
+      [
+        "Applicable Cues",
+        "Non-Mentalizing Behavior"
+      ],
+      [
+        "Crisis Scenarios",
+        "Safety Protocols"
+      ],
+      [
+        "Adolescent",
+        "Gentle Exploration of Inner State"
+      ],
+      [
+        "Adolescent",
+        "Empathic Response"
+      ],
+      [
+        "Empathic Response",
+        "Technique of Lowering Emotional Temperature through Empathy"
+      ],
+      [
+        "Gentle Exploration of Inner State",
+        "Technique of Lowering Emotional Temperature through Empathy"
+      ],
+      [
+        "Adolescent",
+        "Technique of Lowering Emotional Temperature through Empathy"
+      ],
+      [
+        "Mentalization Recovery",
+        "Technique of Lowering Emotional Temperature through Empathy"
+      ],
+      [
+        "Enhanced Social Exclusion Response",
+        "High Emotional Arousal"
+      ],
+      [
+        "Mentalization Ability",
+        "Problem Framework"
+      ],
+      [
+        "High Emotional Arousal",
+        "Problem Framework"
+      ],
+      [
+        "Enhanced Stress Response",
+        "High Emotional Arousal"
+      ],
+      [
+        "Emotional Temperature",
+        "Empathic Response"
+      ],
+      [
+        "Non-Mentalizing Behavior",
+        "Problem Framework"
+      ],
+      [
+        "Normalized Pressure",
+        "Technique of Lowering Emotional Temperature through Empathy"
+      ],
+      [
+        "Emotional Temperature",
+        "Mentalization"
+      ],
+      [
+        "Emotional Temperature",
+        "Technique of Lowering Emotional Temperature through Empathy"
+      ],
+      [
+        "Applicable Cues",
+        "Enhanced Stress Response"
+      ],
+      [
+        "Applicable Cues",
+        "Emotional Temperature"
+      ],
+      [
+        "Automatic Mentalization Response under Normalized Pressure",
+        "Normalized Pressure"
+      ],
+      [
+        "Signs of Elevated Emotional Temperature",
+        "Silence"
+      ],
+      [
+        "High Emotional Arousal",
+        "Mentalization Ability"
+      ],
+      [
+        "Enhanced Academic Stress Response",
+        "High Emotional Arousal"
+      ],
+      [
+        "Adolescents",
+        "Mentalization Stance"
+      ],
+      [
+        "Automatic Mentalization Response under Normalized Pressure",
+        "Technique of Lowering Emotional Temperature through Empathy"
+      ],
+      [
+        "Adolescent",
+        "Emotional Temperature"
+      ]
+    ],
+    "count": 40,
+    "create_time": 1784707438,
+    "update_time": 1784707438,
+    "_id": "doc-2526c2542d1fb9e5640b1a30"
+  },
+  "doc-24d5ade8ad59b6565d41682f": {
+    "relation_pairs": [
+      [
+        "Adolescents",
+        "Emotion Dysregulation"
+      ],
+      [
+        "Crisis Scenarios",
+        "Fixed Safety Protocol"
+      ],
+      [
+        "Patient",
+        "Thought Process"
+      ],
+      [
+        "Feelings",
+        "Patient"
+      ],
+      [
+        "Difference",
+        "Empathy Validation"
+      ],
+      [
+        "Adolescents",
+        "Psychic Equivalence Mode"
+      ],
+      [
+        "Feelings",
+        "Validation Stance"
+      ],
+      [
+        "Empathy Validation",
+        "Mentalizing"
+      ],
+      [
+        "Adolescents",
+        "Non-Mentalizing State"
+      ],
+      [
+        "Empathy Validation",
+        "Response Example"
+      ],
+      [
+        "Empathy Validation",
+        "Patient"
+      ],
+      [
+        "Empathy Validation",
+        "Interpersonal Heat"
+      ],
+      [
+        "Thought Process",
+        "Validation Stance"
+      ],
+      [
+        "Adolescents",
+        "Empathy Validation Stance"
+      ],
+      [
+        "Curiosity",
+        "Empathy Validation"
+      ],
+      [
+        "Patient",
+        "Support and Empathy"
+      ],
+      [
+        "Adolescents",
+        "Empathy Validation"
+      ],
+      [
+        "Support and Empathy",
+        "Validating Feelings"
+      ],
+      [
+        "Avoid Immediately Solving Problems",
+        "Response Example"
+      ],
+      [
+        "Avoid Immediately Solving Problems",
+        "Patient"
+      ],
+      [
+        "Patient",
+        "Validating Feelings"
+      ],
+      [
+        "Empathy Validation",
+        "Empathy Validation Stance"
+      ],
+      [
+        "Low-risk Non-diagnostic Direct Psychological Support",
+        "Mentalization"
+      ],
+      [
+        "Response Example",
+        "Validating Feelings"
+      ],
+      [
+        "Avoid Making Patient Feel Stupid",
+        "Response Example"
+      ],
+      [
+        "Empathy Validation",
+        "Shared Platform"
+      ],
+      [
+        "Avoid Making Patient Feel Stupid",
+        "Patient"
+      ],
+      [
+        "Low-Risk Non-Diagnostic Direct Psychological Support",
+        "Mentalization"
+      ],
+      [
+        "Adolescent",
+        "Empathy Validation"
+      ]
+    ],
+    "count": 29,
+    "create_time": 1784707464,
+    "update_time": 1784707464,
+    "_id": "doc-24d5ade8ad59b6565d41682f"
+  },
+  "doc-cbd65c5b9066cfdab9aefc4e": {
+    "relation_pairs": [
+      [
+        "Adaptation Difficulties",
+        "Adolescents"
+      ],
+      [
+        "Adolescents",
+        "Self-Hatred and Despair"
+      ],
+      [
+        "Adolescent Development",
+        "Evolutionary Mismatch"
+      ],
+      [
+        "Adolescents",
+        "Goal of Helping Adolescents Understand Behavior and Promote Adaptive Development"
+      ],
+      [
+        "Impulsivity",
+        "Pathology"
+      ],
+      [
+        "Adaptive Developmental Trajectory",
+        "Adolescents"
+      ],
+      [
+        "Direct Psychological Support",
+        "Low-Risk Non-Diagnostic Context"
+      ],
+      [
+        "Adolescents",
+        "Peer Group Priority"
+      ],
+      [
+        "Autonomy",
+        "Teenagers"
+      ],
+      [
+        "Adolescent Development",
+        "Peer Relationships"
+      ],
+      [
+        "Adolescents",
+        "Current Behaviors"
+      ],
+      [
+        "Autonomy Enhancement",
+        "Technology"
+      ],
+      [
+        "Adaptation Difficulties",
+        "Evolutionary Mismatch"
+      ],
+      [
+        "Peer Relationships",
+        "Teenagers"
+      ],
+      [
+        "Identity",
+        "Teenagers"
+      ],
+      [
+        "Adolescent Development",
+        "Developmental Scaffolding"
+      ],
+      [
+        "Evolutionary Mismatch",
+        "Imbalance Of Responsibility And Autonomy"
+      ],
+      [
+        "Adolescents",
+        "Peer Relationships"
+      ],
+      [
+        "Adolescents",
+        "Evolutionary Mismatch"
+      ],
+      [
+        "Pathology",
+        "Peer Prioritization"
+      ],
+      [
+        "Adolescents",
+        "Complicated Parent-Child Relationships"
+      ],
+      [
+        "Frustration",
+        "Teenagers"
+      ],
+      [
+        "Adolescents",
+        "Developmental Scaffolding"
+      ],
+      [
+        "Adolescents",
+        "Conflicts With Family On Autonomy"
+      ],
+      [
+        "Problem Behavior",
+        "Risk-Taking"
+      ],
+      [
+        "Agency",
+        "Teenagers"
+      ],
+      [
+        "Adolescence",
+        "Peer Relationships"
+      ],
+      [
+        "Autonomy",
+        "Modern Education"
+      ],
+      [
+        "Adolescents",
+        "Complicated Peer Relationships"
+      ],
+      [
+        "Adaptive Significance",
+        "Current Behaviors"
+      ],
+      [
+        "Adolescent Development",
+        "Current Behaviors"
+      ],
+      [
+        "Adaptive Significance",
+        "Adolescent Development"
+      ],
+      [
+        "Intergenerational Connection Promotion",
+        "Technology"
+      ],
+      [
+        "Balance Adolescent Autonomy and Family Involvement",
+        "Goal of Helping Adolescents Understand Behavior"
+      ],
+      [
+        "Evolutionary Mismatch",
+        "Responsibility-Autonomy Imbalance"
+      ],
+      [
+        "Adolescent Development",
+        "Autonomy"
+      ],
+      [
+        "Pathology",
+        "Risk-Taking"
+      ],
+      [
+        "Adolescents",
+        "Goal of Helping Adolescents Understand Behavior"
+      ],
+      [
+        "Impulsivity",
+        "Problem Behavior"
+      ],
+      [
+        "Adolescents",
+        "Autonomy"
+      ],
+      [
+        "Adult Roles",
+        "Evolutionary Mismatch"
+      ],
+      [
+        "Goal of Helping Adolescents Understand Behavior",
+        "Mentalizing Stance"
+      ],
+      [
+        "Peer Prioritization",
+        "Problem Behavior"
+      ],
+      [
+        "Adolescents",
+        "Gap Between Actual Self and Ideal Self"
+      ],
+      [
+        "Adolescents",
+        "Mismatch Between Responsibility and Autonomy"
+      ],
+      [
+        "Adolescent Autonomy Needs",
+        "Family Control"
+      ],
+      [
+        "Crisis Scenarios",
+        "Fixed Safety Protocols"
+      ],
+      [
+        "Goal of Helping Adolescents Understand Behavior and Promote Adaptive Development",
+        "Mentalizing Stance"
+      ],
+      [
+        "Adolescents",
+        "Lack of Adult Role Models"
+      ],
+      [
+        "Adolescents",
+        "Feeling Failure in Social and Educational Domains"
+      ],
+      [
+        "Adolescence",
+        "Autonomy"
+      ],
+      [
+        "Developmental Scaffolding",
+        "Technology"
+      ],
+      [
+        "Adolescents",
+        "Avoidance Patterns"
+      ],
+      [
+        "Adolescents",
+        "Increased Impulsivity"
+      ],
+      [
+        "Adult Role Models",
+        "Evolutionary Mismatch"
+      ],
+      [
+        "Adolescent Development",
+        "Identity"
+      ],
+      [
+        "Adolescents",
+        "Feeling Overwhelmed In Relationships"
+      ],
+      [
+        "Adolescents",
+        "Family"
+      ],
+      [
+        "Decision-Making Power",
+        "Teenagers"
+      ],
+      [
+        "Adolescents",
+        "Risk-Taking Behavior"
+      ],
+      [
+        "Responsibility",
+        "Teenagers"
+      ],
+      [
+        "Balance Adolescent Autonomy and Family Involvement",
+        "Goal of Helping Adolescents Understand Behavior and Promote Adaptive Development"
+      ],
+      [
+        "Adolescents",
+        "Identity"
+      ],
+      [
+        "Adolescent Development",
+        "Normalization"
+      ]
+    ],
+    "count": 64,
+    "create_time": 1784707472,
+    "update_time": 1784707472,
+    "_id": "doc-cbd65c5b9066cfdab9aefc4e"
+  }
+}
